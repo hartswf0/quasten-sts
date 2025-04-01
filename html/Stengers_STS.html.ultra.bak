@@ -1,0 +1,171 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Stengers STS</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="script.js" defer></script>
+</head>
+<body>
+    <div class="theme-toggle" id="themeToggle" title="Toggle Dark/Light Mode">
+        ☀️
+    </div>
+    
+    <div class="container">
+        <header>
+            <a href="index.html" class="back-link">← Back to Author Catalog</a>
+            <h1>Stengers STS</h1>
+            <span class="tag sts">STS</span>
+        </header>
+        
+        <div class="content" >
+            <h1>A Spencer-Brown Inspired Ontological Model of Stengers's "Power and Invention"</h1>
+
+This report presents a structured ontological index of Isabelle Stengers's influential 1997 work "Power and Invention: Situating Science" using Spencer-Brown's calculus of distinctions. By marking entities as distinctions (◻) and relationships as indications (→), we create a formal representation that illuminates the conceptual architecture of Stengers's philosophy of science.
+
+<h2>Foundational Entities and Primary Distinctions</h2>
+
+<h3>Core Theoretical Constructs</h3>
+
+◻ <strong>Power and Invention</strong>: Stengers's 1997 book examining science's creative force and social influence
+
+◻ <strong>situating science</strong>: Approach that grounds scientific knowledge in historical and social contexts
+
+◻ <strong>science as process</strong>: View of science as creative activity rather than static product
+
+◻ <strong>complexity</strong>: Concept transcending conventional scientific discourse boundaries
+
+◻ <strong>scientific theory</strong>: Framework that both explains phenomena and shapes social understanding
+
+◻ <strong>bifurcation of nature</strong>: Division between primary and secondary qualities in Western thought
+
+<h3>Scientific Domains Examined</h3>
+
+◻ <strong>thermodynamics</strong>: Physical principles used to develop philosophical insights
+
+◻ <strong>nonlinear dynamics</strong>: Chaos theory and its consequences for science and philosophy
+
+◻ <strong>psychoanalysis</strong>: Practice whose scientific status is questioned and examined
+
+◻ <strong>women's science</strong>: Concept interrogated for its epistemological implications
+
+<h3>Philosophical Frameworks</h3>
+
+◻ <strong>constructivism</strong>: Approach recognizing social elements in knowledge production
+
+◻ <strong>empiricism</strong>: Tradition grounding knowledge in experience, critically reexamined
+
+◻ <strong>reductionism</strong>: Tendency to explain complex phenomena through simpler components
+
+◻ <strong>facts</strong>: Situated productions rather than neutral givens
+
+<h2>Morphisms and Relational Structures</h2>
+
+<h3>Core Theoretical Relationships</h3>
+
+◻ <strong>scientific theories</strong> → <em>modify</em> → ◻ <strong>society</strong>
+   <em>"Power and Invention offers a unique perspective on the power of scientific theories to modify society"<a href="#citation-1" class="citation-number"><a href="#citation-1" class="citation-number">[1]</a></a></em>
+
+◻ <strong>society</strong> → <em>influences</em> → ◻ <strong>scientific theories</strong>
+   <em>"...and vice versa"<a href="#citation-1" class="citation-number"><a href="#citation-1" class="citation-number">[1]</a></a></em>
+
+◻ <strong>nonlinear dynamics</strong> → <em>has consequences for</em> → ◻ <strong>philosophy</strong>
+   <em>"Using the law of thermodynamics, Stengers sets out to explain the consequences of nonlinear dynamics (or chaos theory) for philosophy and science"<a href="#citation-1" class="citation-number"><a href="#citation-1" class="citation-number">[1]</a></a></em>
+
+◻ <strong>complexity</strong> → <em>transcends</em> → ◻ <strong>conventional boundaries</strong>
+   <em>"She makes a case for the concept of complexity that transcends the conventional boundaries of scientific discourse"<a href="#citation-1" class="citation-number"><a href="#citation-1" class="citation-number">[1]</a></a></em>
+
+<h3>Process-Based Relationships</h3>
+
+◻ <strong>science</strong> → <em>is</em> → ◻ <strong>creative process</strong>
+   <em>"Science, for Stengers, is a process rather than a product; it is creative, rather than foundational"<a href="#citation-5" class="citation-number"><a href="#citation-5" class="citation-number">[5]</a></a></em>
+
+◻ <strong>scientific practice</strong> → <em>involves</em> → ◻ <strong>invention</strong>
+   <em>"Concerned with the force and inventiveness of those theories"<a href="#citation-2" class="citation-number"><a href="#citation-2" class="citation-number">[2]</a></a></em>
+
+◻ <strong>science and history</strong> → <em>meet in</em> → ◻ <strong>situated knowledge</strong>
+   <em>"Isabelle Stengers here provides a firsthand account of the meeting of science and history"<a href="#citation-1" class="citation-number"><a href="#citation-1" class="citation-number">[1]</a></a></em>
+
+<h2>Complex Conceptual Structures</h2>
+
+<h3>Bifurcation of Nature Framework</h3>
+
+◻ <strong>bifurcation of nature</strong> → <em>separates</em> → ◻ <strong>primary and secondary qualities</strong>
+   <em>"What has been least critically considered by the philosophical tradition...is the feature of Western thought...what he calls 'the bifurcation of nature'"<a href="#citation-8" class="citation-number"><a href="#citation-8" class="citation-number">[8]</a></a></em>
+
+◻ <strong>modern thought</strong> → <em>establishes</em> → ◻ <strong>nature/culture division</strong>
+   <em>"The basic question is to decide whether or not empiricism can be renewed so that 'what is given in experience' is not simplified too much"<a href="#citation-8" class="citation-number"><a href="#citation-8" class="citation-number">[8]</a></a></em>
+
+◻ <strong>Stengers</strong> → <em>challenges</em> → ◻ <strong>bifurcation of nature</strong>
+   <em>"Against the tradition inaugurated by Locke and Descartes...Whitehead offers another role for the object of study to play"<a href="#citation-8" class="citation-number"><a href="#citation-8" class="citation-number">[8]</a></a></em>
+
+<h3>Scientific Risk Framework</h3>
+
+◻ <strong>scientific theories</strong> → <em>involve</em> → ◻ <strong>risks</strong>
+   <em>"She makes a case for the concept of complexity that...clearly exposes the risks of scientific theories"<a href="#citation-1" class="citation-number"><a href="#citation-1" class="citation-number">[1]</a></a><a href="#citation-2" class="citation-number"><a href="#citation-2" class="citation-number">[2]</a></a></em>
+
+◻ <strong>science</strong> → <em>carries</em> → ◻ <strong>political dimensions</strong>
+   <em>"Stengers's interpretation...places Whitehead's invention of a God implicated squarely inside the world...as the most daring but also the most indispensable consequence of his early refusal to let nature bifurcate"<a href="#citation-8" class="citation-number"><a href="#citation-8" class="citation-number">[8]</a></a></em>
+
+◻ <strong>complexity</strong> → <em>exposes</em> → ◻ <strong>limitations of reductionism</strong>
+   <em>"Science has been the captive for much too long of theories of knowledge"<a href="#citation-8" class="citation-number"><a href="#citation-8" class="citation-number">[8]</a></a></em>
+
+<h3>Subject-Object Relations</h3>
+
+◻ <strong>perception</strong> → <em>is not barrier to</em> → ◻ <strong>things</strong>
+   <em>"Perception is not what stops access to things and directs attention to the mind"<a href="#citation-8" class="citation-number"><a href="#citation-8" class="citation-number">[8]</a></a></em>
+
+◻ <strong>perception</strong> → <em>marks</em> → ◻ <strong>event</strong>
+   <em>"Rather, perception is what marks the event and the beginning of an attention"<a href="#citation-8" class="citation-number"><a href="#citation-8" class="citation-number">[8]</a></a></em>
+
+◻ <strong>science</strong> → <em>adds knowledge to</em> → ◻ <strong>world</strong>
+   <em>"Science adds its knowledge to the world, folding itself, so to speak, into it one more time"<a href="#citation-8" class="citation-number"><a href="#citation-8" class="citation-number">[8]</a></a></em>
+
+◻ <strong>object</strong> → <em>is neither</em> → ◻ <strong>judge nor product</strong>
+   <em>"The object [for Whitehead] is neither the judge of our production nor the product of our judgments"<a href="#citation-8" class="citation-number"><a href="#citation-8" class="citation-number">[8]</a></a></em>
+
+<h2>Epistemological Dimensions</h2>
+
+<h3>Knowledge Production Framework</h3>
+
+◻ <strong>knowledge</strong> → <em>emerges from</em> → ◻ <strong>situated practices</strong>
+   <em>"Isabelle Stengers here provides a firsthand account of the meeting of science and history"<a href="#citation-1" class="citation-number"><a href="#citation-1" class="citation-number">[1]</a></a></em>
+
+◻ <strong>scientific understanding</strong> → <em>requires</em> → ◻ <strong>historical context</strong>
+   <em>"Understanding science historically, as an event, goes against the claims made for science as revealing the deep truth of the universe"<a href="#citation-5" class="citation-number"><a href="#citation-5" class="citation-number">[5]</a></a></em>
+
+◻ <strong>facts</strong> → <em>are</em> → ◻ <strong>constructed but not merely social</strong>
+   <em>"There are many more interesting questions to ask about science than that of its degree of certainty"<a href="#citation-8" class="citation-number"><a href="#citation-8" class="citation-number">[8]</a></a></em>
+
+◻ <strong>interpretation</strong> → <em>refers to</em> → ◻ <strong>world's activities</strong>
+   <em>"Against all hermeneutics, she shows that the key notion of 'interpretation' directs our attention not to the human mind, but, so to speak, back to the world"<a href="#citation-8" class="citation-number"><a href="#citation-8" class="citation-number">[8]</a></a></em>
+
+<h2>Conclusion</h2>
+
+This Spencer-Brown inspired ontological model captures the rich theoretical framework of Stengers's "Power and Invention." Through formal distinctions (◻) and indications (→), we visualize how Stengers conceptualizes science as a creative process situated within historical and social contexts, challenging the traditional bifurcation of nature and offering a unique perspective on the relationship between scientific theories and society. The model highlights her emphasis on complexity, the risks inherent in scientific theories, and the need to understand science as an ongoing process of invention rather than a static body of knowledge.
+
+Citations:
+<a href="#citation-1" class="citation-number"><a href="#citation-1" class="citation-number">[1]</a></a> https://books.google.com/books/about/Power_and_Invention.html?id=SDR9DSxp4EYC
+<a href="#citation-2" class="citation-number"><a href="#citation-2" class="citation-number">[2]</a></a> https://www.abebooks.com/9780816625178/Power-Invention-Situating-Science-Volume-0816625174/plp
+<a href="#citation-3" class="citation-number"><a href="#citation-3" class="citation-number">[3]</a></a> https://read.dukeupress.edu/books/book/1324/chapter/164870/ImprovisationForm-and-Event-A-Spencer-Brownian
+<a href="#citation-4" class="citation-number"><a href="#citation-4" class="citation-number">[4]</a></a> https://www.societyandspace.org/articles/another-science-is-possible-by-isabelle-stengers
+<a href="#citation-5" class="citation-number"><a href="#citation-5" class="citation-number">[5]</a></a> http://www.shaviro.com/Blog/?p=372
+<a href="#citation-6" class="citation-number"><a href="#citation-6" class="citation-number">[6]</a></a> https://www.abebooks.com/first-edition/Power-Invention-Situating-Science-Isabelle-Stengers/31582470851/bd
+<a href="#citation-7" class="citation-number"><a href="#citation-7" class="citation-number">[7]</a></a> https://www.cambridge.org/core/journals/bjhs-themes/article/big-pictures-after-dawn-ontology-for-historians-and-utopians/33B7894BC6BD716C0CDBD5009C008843
+<a href="#citation-8" class="citation-number"><a href="#citation-8" class="citation-number">[8]</a></a> http://www.bruno-latour.fr/sites/default/files/93-STENGERS-GB.pdf
+<a href="#citation-9" class="citation-number"><a href="#citation-9" class="citation-number">[9]</a></a> https://philpapers.org/rec/SMITIO-49
+<a href="#citation-10" class="citation-number"><a href="#citation-10" class="citation-number">[10]</a></a> https://www.journals.uchicago.edu/doi/pdfplus/10.1086/345056
+<a href="#citation-11" class="citation-number"><a href="#citation-11" class="citation-number">[11]</a></a> https://politicaltheology.com/isabelle-stengers/
+<a href="#citation-12" class="citation-number"><a href="#citation-12" class="citation-number">[12]</a></a> https://www.upress.umn.edu/9780816625178/power-and-invention/
+
+---
+        </div>
+        
+        <footer>
+            <p>Part of the Reality Media Explorer project</p>
+            <p>Created with STS_MS_CAT_CORE HTML Converter</p>
+        </footer>
+    </div>
+</body>
+</html>

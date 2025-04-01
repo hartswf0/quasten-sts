@@ -1,0 +1,159 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bowker Star STS</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="script.js" defer></script>
+</head>
+<body>
+    <div class="theme-toggle" id="themeToggle" title="Toggle Dark/Light Mode">
+        ☀️
+    </div>
+    
+    <div class="container">
+        <header>
+            <a href="index.html" class="back-link">← Back to Author Catalog</a>
+            <h1>Bowker Star STS</h1>
+            <span class="tag sts">STS</span>
+        </header>
+        
+        <div class="content">
+            <h1>A Spencer-Brown Inspired Ontological Model of "Sorting Things Out: Classification and Its Consequences"</h1>
+
+This report presents a structured ontological index of Geoffrey C. Bowker and Susan Leigh Star's influential 1999 book "Sorting Things Out: Classification and Its Consequences" using Spencer-Brown's calculus of distinctions. By marking entities as distinctions (◻) and relationships as indications (→), we create a formal representation that illuminates the conceptual architecture of classification systems and their consequences.
+
+<h2>Foundational Entities and Primary Distinctions</h2>
+
+<h3>Core Theoretical Constructs</h3>
+
+◻ <strong>Sorting Things Out</strong>: Bowker and Star's 1999 book examining classification and its consequences[1][2][4]
+
+◻ <strong>classification</strong>: The ubiquitous human activity of organizing entities into categories[3]
+
+◻ <strong>category</strong>: A conceptual box into which objects, actions, or qualities are placed[1]
+
+◻ <strong>standard</strong>: A formalized rule or measure used for classification purposes[1]
+
+◻ <strong>information infrastructure</strong>: The scaffolding that supports classification systems[1][5]
+
+◻ <strong>invisibility</strong>: The quality of classification systems to become taken for granted[1][3]
+
+◻ <strong>membership</strong>: Belonging to social worlds through classification practices[6]
+
+<h3>Key Classification Systems Examined</h3>
+
+◻ <strong>International Classification of Diseases (ICD)</strong>: System for categorizing diseases and mortality[2][8]
+
+◻ <strong>Nursing Interventions Classification (NIC)</strong>: System for categorizing nursing work[2]
+
+◻ <strong>race classification system</strong>: South African apartheid system of racial categorization[1][2][8]
+
+◻ <strong>tuberculosis classification</strong>: System for categorizing this disease and its trajectories[2]
+
+◻ <strong>virus classification</strong>: System for categorizing viral entities[1][2]
+
+<h2>Morphisms and Relational Structures</h2>
+
+<h3>Fundamental Relationships</h3>
+
+◻ <strong>classification</strong> → <em>is</em> → ◻ <strong>human artifact</strong>
+   <em>"To classify is human" - classification as ubiquitous human activity</em>[3]
+
+◻ <strong>classification</strong> → <em>shapes</em> → ◻ <strong>human interaction</strong>
+   <em>How categories order human interactions</em>[1][2]
+
+◻ <strong>classification</strong> → <em>creates</em> → ◻ <strong>consequences</strong>
+   <em>Classification impacts lives politically, socially, linguistically, and cognitively</em>[3]
+
+◻ <strong>standards and classifications</strong> → <em>produce</em> → ◻ <strong>advantage or suffering</strong>
+   <em>"Jobs are made and lost; some regions benefit at the expense of others"</em>[1][5]
+
+◻ <strong>classification</strong> → <em>forms</em> → ◻ <strong>community of practice</strong>
+   <em>Classification shapes relationships and forms communities</em>[3]
+
+<h3>Invisibility Relationships</h3>
+
+◻ <strong>classification</strong> → <em>can become</em> → ◻ <strong>invisible</strong>
+   <em>Categories become taken for granted and naturalized</em>[1][3]
+
+◻ <strong>categories</strong> → <em>are made and kept</em> → ◻ <strong>invisible</strong>
+   <em>Process by which classifications fade from active attention</em>[1][4]
+
+◻ <strong>people</strong> → <em>can change</em> → ◻ <strong>invisibility</strong>
+   <em>How invisibility of classification systems can be altered</em>[1][4]
+
+◻ <strong>infrastructural inversion</strong> → <em>makes visible</em> → ◻ <strong>classification systems</strong>
+   <em>Methodological approach to reveal hidden classification structures</em>[3]
+
+<h2>Complex Conceptual Structures</h2>
+
+<h3>Boundary Objects and Infrastructure</h3>
+
+◻ <strong>boundary objects</strong> → <em>arise from</em> → ◻ <strong>naturalized classification systems</strong>
+   <em>Objects that exist at the intersection of communities of practice</em>[6]
+
+◻ <strong>boundary infrastructure</strong> → <em>shapes</em> → ◻ <strong>social space</strong>
+   <em>How classification forms relationships and communities</em>[3]
+
+◻ <strong>classification</strong> → <em>is both</em> → ◻ <strong>material and symbolic</strong>
+   <em>Classification functions as both concrete tool and symbolic system</em>[3]
+
+<h3>Multiple Memberships and Naturalizations</h3>
+
+◻ <strong>people</strong> → <em>belong to</em> → ◻ <strong>multiple communities of practice</strong>
+   <em>Everyone is part of multiple communities</em>[6]
+
+◻ <strong>objects</strong> → <em>can be</em> → ◻ <strong>naturalized in multiple social worlds</strong>
+   <em>Things may be naturalized differently in different contexts</em>[6]
+
+◻ <strong>categorical work</strong> → <em>manages</em> → ◻ <strong>multiple memberships and naturalizations</strong>
+   <em>The work people do to juggle multiple classifications</em>[6]
+
+<h2>Methodological Approaches</h2>
+
+<h3>Analytical Framework</h3>
+
+◻ <strong>urban historian approach</strong> → <em>is applied to</em> → ◻ <strong>classification design</strong>
+   <em>Analyzing archives of classification design like urban historians study city permits</em>[1][5]
+
+◻ <strong>revisioning cognition</strong> → <em>involves</em> → ◻ <strong>materializing classification</strong>
+   <em>Moving from purely mental to material, social, and ecological aspects</em>[6]
+
+◻ <strong>moral agenda</strong> → <em>examines</em> → ◻ <strong>valorization and silencing</strong>
+   <em>Each standard valorizes some point of view and silences another</em>[1][4][5]
+
+<h3>Practical Applications</h3>
+
+◻ <strong>medical classification</strong> → <em>requires</em> → ◻ <strong>uniform terminology</strong>
+   <em>Standardizing medical vocabulary for effective communication</em>[8]
+
+◻ <strong>self-categorization</strong> → <em>offers</em> → ◻ <strong>alternative to imposed classification</strong>
+   <em>Individuals having the opportunity to categorize themselves</em>[8]
+
+<h2>Conclusion</h2>
+
+This Spencer-Brown inspired ontological model captures the rich theoretical framework of Bowker and Star's "Sorting Things Out." Through formal distinctions (◻) and indications (→), we visualize how classification systems shape human interaction while often remaining invisible, and how they carry significant moral and political consequences. The model highlights the authors' key insights about the materiality of categories, the formation of communities through classification practices, and the importance of understanding classification as part of our built information environment.
+
+Citations:
+[1] https://direct.mit.edu/books/monograph/4738/Sorting-Things-OutClassification-and-Its
+[2] https://search.worldcat.org/title/Sorting-things-out-:-classification-and-its-consequences/oclc/41273009
+[3] https://cindyanguyen.com/2016/05/09/book-review-sorting-things-hout/
+[4] https://archive.org/details/sortingthingsout0000bowk_i1f7
+[5] https://www.barnesandnoble.com/w/sorting-things-out-geoffrey-c-bowker/1100657326
+[6] https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=1903164e809a51032399b8b2c8365572469d5897
+[7] https://books.google.com/books/about/Sorting_Things_Out.html?id=xHlP8WqzizYC
+[8] http://www.istl.org/00-winter/review2.html
+
+---
+Answer from Perplexity: https://www.perplexity.ai/search/sts-ms-cat-core-26eOjT2rQjiRqIxKt6q3GA?utm_source=copy_output
+        </div>
+        
+        <footer>
+            <p>Part of the Reality Media Explorer project</p>
+            <p>Created with STS_MS_CAT_CORE HTML Converter</p>
+        </footer>
+    </div>
+</body>
+</html>

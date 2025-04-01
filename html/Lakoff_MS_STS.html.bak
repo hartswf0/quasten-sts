@@ -1,0 +1,192 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lakoff MS STS</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="script.js" defer></script>
+</head>
+<body>
+    <div class="theme-toggle" id="themeToggle" title="Toggle Dark/Light Mode">
+        ☀️
+    </div>
+    
+    <div class="container">
+        <header>
+            <a href="index.html" class="back-link">← Back to Author Catalog</a>
+            <h1>Lakoff MS STS</h1>
+            <span class="tag both">STS & MS</span>
+        </header>
+        
+        <div class="content">
+            <h1>A Spencer-Brown Inspired Ontological Model of Lakoff and Johnson's "Metaphors We Live By"</h1>
+
+This report presents a structured ontological index of George Lakoff and Mark Johnson's influential 1980 work "Metaphors We Live By" using Spencer-Brown's calculus of distinctions. By marking entities as distinctions (◻) and relationships as indications (→), we create a formal representation that illuminates the conceptual architecture of metaphor as a fundamental cognitive mechanism.
+
+<h2>Foundational Entities and Primary Distinctions</h2>
+
+<h3>Core Theoretical Constructs</h3>
+
+◻ <strong>Metaphors We Live By</strong>: Lakoff and Johnson's 1980 book establishing metaphor as central to cognition and language[1][7]
+
+◻ <strong>conceptual metaphor</strong>: Understanding one conceptual domain in terms of another[3][4]
+
+◻ <strong>linguistic expression</strong>: Concrete manifestation of conceptual metaphor in language[15]
+
+◻ <strong>source domain</strong>: Concrete domain from which metaphorical expressions are drawn[10][11]
+
+◻ <strong>target domain</strong>: Abstract domain understood through metaphorical mapping[10][11]
+
+◻ <strong>mapping</strong>: Systematic set of correspondences between source and target domains[11][13]
+
+◻ <strong>conceptual system</strong>: Mental architecture fundamentally structured by metaphors[7][8]
+
+<h3>Types of Metaphors</h3>
+
+◻ <strong>orientational metaphor</strong>: Metaphors based on spatial orientation (up/down, in/out)[1][5]
+
+◻ <strong>ontological metaphor</strong>: Metaphors that treat abstractions as entities or substances[1][6]
+
+◻ <strong>structural metaphor</strong>: Metaphors that structure one concept in terms of another[1][6]
+
+◻ <strong>personification</strong>: Type of ontological metaphor that gives human qualities to non-human entities[1][7]
+
+◻ <strong>metonymy</strong>: Related figure where one entity stands for another related entity[1][8]
+
+◻ <strong>conventional metaphor</strong>: Metaphors embedded in everyday language and thought[7][9]
+
+◻ <strong>new metaphor</strong>: Novel metaphorical concepts that can create new understanding[2][8]
+
+<h2>Morphisms and Relational Structures</h2>
+
+<h3>Core Theoretical Relationships</h3>
+
+◻ <strong>metaphor</strong> → <em>is not merely</em> → ◻ <strong>linguistic device</strong>
+   <em>"Metaphor is not just a matter of language but of thought and action"</em>[7][12]
+
+◻ <strong>metaphor</strong> → <em>structures</em> → ◻ <strong>conceptual system</strong>
+   <em>"Our ordinary conceptual system is fundamentally metaphorical in nature"</em>[7][8]
+
+◻ <strong>conceptual system</strong> → <em>shapes</em> → ◻ <strong>perception, thought, and action</strong>
+   <em>"Our concepts structure what we perceive, how we get around in the world, and how we relate to other people"</em>[7]
+
+◻ <strong>conceptual metaphor</strong> → <em>manifests in</em> → ◻ <strong>linguistic expressions</strong>
+   <em>"Metaphorical linguistic expressions are surface manifestations of conceptual metaphors"</em>[3][15]
+
+◻ <strong>source domain</strong> → <em>maps to</em> → ◻ <strong>target domain</strong>
+   <em>"The source domain is the conceptual domain from which we draw the metaphorical expressions, while the target domain is the conceptual domain"</em>[10][11]
+
+<h3>Metaphor Mechanisms</h3>
+
+◻ <strong>metaphor</strong> → <em>highlights</em> → ◻ <strong>certain aspects of concepts</strong>
+   <em>"Highlighting and hiding are part of the very nature of metaphorical concept structuring"</em>[1][3]
+
+◻ <strong>metaphor</strong> → <em>hides</em> → ◻ <strong>other aspects of concepts</strong>
+   <em>"Highlighting certain features necessarily means hiding others"</em>[1][8]
+
+◻ <strong>metaphorical concepts</strong> → <em>are grounded in</em> → ◻ <strong>bodily experience</strong>
+   <em>"Our physical interaction with the environment becomes encoded cognitively"</em>[12][14]
+
+◻ <strong>metaphorical concepts</strong> → <em>are shaped by</em> → ◻ <strong>cultural context</strong>
+   <em>"Metaphor, in their view, transcends individual and experiential cognition, extending into the realm of cultural consensus"</em>[12]
+
+<h2>Complex Conceptual Structures</h2>
+
+<h3>Argument as War Framework</h3>
+
+◻ <strong>ARGUMENT IS WAR</strong> → <em>is</em> → ◻ <strong>conceptual metaphor</strong>
+   <em>"Argument is war is a conceptual metaphor"</em>[6][9]
+
+◻ <strong>ARGUMENT IS WAR</strong> → <em>generates expressions like</em> → ◻ <strong>"attack a position," "indefensible," "win"</strong>
+   <em>"Your claims are indefensible. He attacked every weak point in my argument"</em>[9]
+
+◻ <strong>ARGUMENT IS WAR</strong> → <em>structures</em> → ◻ <strong>how we conduct arguments</strong>
+   <em>"Many of the things we do in arguing are partially structured by the concept of war"</em>[6]
+
+<h3>Journey Metaphors</h3>
+
+◻ <strong>LOVE IS A JOURNEY</strong> → <em>is</em> → ◻ <strong>conceptual metaphor</strong>
+   <em>"Love is conceptualized as a journey"</em>[2][10]
+
+◻ <strong>LOVE IS A JOURNEY</strong> → <em>generates expressions like</em> → ◻ <strong>"at a crossroads," "bumpy road," "going nowhere"</strong>
+   <em>"Look how far we've come. We're at a crossroads. We'll just have to go our separate ways"</em>[2]
+
+◻ <strong>JOURNEY metaphor</strong> → <em>combines</em> → ◻ <strong>structural, orientational, and ontological aspects</strong>
+   <em>"These are structural, orientational, and ontological"</em>[2]
+
+<h3>Container Metaphors</h3>
+
+◻ <strong>STATES ARE CONTAINERS</strong> → <em>is</em> → ◻ <strong>ontological metaphor</strong>
+   <em>"Container metaphors help us think about how we relate to a concept"</em>[2][14]
+
+◻ <strong>CONTAINER metaphor</strong> → <em>generates expressions like</em> → ◻ <strong>"in love," "out of trouble," "fall into depression"</strong>
+   <em>"He's coming out of the coma. I'm slowly getting into shape. He entered a state of euphoria"</em>[2]
+
+<h3>Time and Resources</h3>
+
+◻ <strong>TIME IS MONEY</strong> → <em>is</em> → ◻ <strong>conceptual metaphor</strong>
+   <em>"Time and resources are culturally conceptualized as valuable commodities"</em>[2][8]
+
+◻ <strong>TIME IS MONEY</strong> → <em>generates expressions like</em> → ◻ <strong>"spend time," "save time," "waste time"</strong>
+   <em>"Time too can be quantified fairly precisely, can be assigned a value per unit"</em>[2]
+
+◻ <strong>TIME/LABOR AS RESOURCE</strong> → <em>is</em> → ◻ <strong>culturally specific</strong>
+   <em>"LABOR IS A RESOURCE and TIME AS A RESOURCE are by no means universal"</em>[2]
+
+<h2>Theoretical Implications and Extensions</h2>
+
+<h3>Philosophical Dimensions</h3>
+
+◻ <strong>myth of objectivism</strong> → <em>claims</em> → ◻ <strong>meaning is objective</strong>
+   <em>"The Myths of Objectivism and Subjectivism"</em>[1][6]
+
+◻ <strong>myth of subjectivism</strong> → <em>claims</em> → ◻ <strong>meaning is purely subjective</strong>
+   <em>"Some Inadequacies of the Myth of Subjectivism"</em>[1]
+
+◻ <strong>experientialist alternative</strong> → <em>offers</em> → ◻ <strong>middle ground</strong>
+   <em>"The Experientialist Alternative: Giving New Meaning to the Old Myths"</em>[1][6]
+
+<h3>Cognitive Science and Linguistics</h3>
+
+◻ <strong>conceptual metaphor theory</strong> → <em>challenges</em> → ◻ <strong>traditional views of meaning</strong>
+   <em>"In linguistics, their arguments challenge traditional linguistic theories"</em>[12]
+
+◻ <strong>metaphorical thought</strong> → <em>involves</em> → ◻ <strong>neural mapping</strong>
+   <em>"These mapping circuits asymmetrically link distinct brain regions, allowing reasoning patterns from one brain region to apply to another"</em>[11]
+
+◻ <strong>conceptual metaphor</strong> → <em>has influenced</em> → ◻ <strong>cognitive sciences</strong>
+   <em>"How their theory of metaphor has developed within the cognitive sciences to become central to the contemporary understanding"</em>[1]
+
+<h2>Conclusion</h2>
+
+This Spencer-Brown inspired ontological model captures the rich theoretical framework of Lakoff and Johnson's "Metaphors We Live By." Through formal distinctions (◻) and indications (→), we visualize how metaphors function not merely as linguistic devices but as fundamental cognitive mechanisms that structure our conceptual systems. The model highlights the book's central insight: that metaphors shape how we perceive reality, reason about abstract concepts, and act in the world, all largely below the level of conscious awareness. As Lakoff and Johnson write, "Our ordinary conceptual system, in terms of which we both think and act, is fundamentally metaphorical in nature"[7].
+
+Citations:
+[1] https://press.uchicago.edu/ucp/books/book/chicago/M/bo3637992.html
+[2] https://www.thenandnow.co/2023/09/24/metaphors-we-live-by-george-lakoff-and-mark-johnson/
+[3] https://en.wikipedia.org/wiki/Conceptual_metaphor
+[4] https://www.tandfonline.com/doi/full/10.1080/10926488.2023.2170753
+[5] https://files.eric.ed.gov/fulltext/EJ1264601.pdf
+[6] https://uk.sagepub.com/sites/default/files/upm-assets/75272_book_item_75272.pdf
+[7] https://www.textosenlinea.com.ar/libros/Lakoff%20y%20Johnson%20-%20Metaphors%20We%20Live%20By%20-%201980.pdf
+[8] https://wisewords.blog/book-summaries/metaphors-we-live-by-book-summary/
+[9] https://en.wikipedia.org/wiki/George_Lakoff
+[10] https://aclanthology.org/2021.acl-long.524.pdf
+[11] https://pmc.ncbi.nlm.nih.gov/articles/PMC4267278/
+[12] https://www.youtube.com/watch?v=YdRwVB3EvZM
+[13] https://opessoa.fflch.usp.br/sites/opessoa.fflch.usp.br/files/Lakoff-Johnson-Metaphorical-Structure.pdf
+[14] https://metaphorsofmovement.co.uk/george-lakoff/
+[15] https://sblhs2.com/2016/11/24/conceptual-metaphor-theory/
+
+---
+Answer from Perplexity: https://www.perplexity.ai/search/sts-ms-cat-core-26eOjT2rQjiRqIxKt6q3GA?utm_source=copy_output
+        </div>
+        
+        <footer>
+            <p>Part of the Reality Media Explorer project</p>
+            <p>Created with STS_MS_CAT_CORE HTML Converter</p>
+        </footer>
+    </div>
+</body>
+</html>

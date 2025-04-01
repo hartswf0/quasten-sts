@@ -1,0 +1,165 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bolter Jay MS</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="script.js" defer></script>
+</head>
+<body>
+    <div class="theme-toggle" id="themeToggle" title="Toggle Dark/Light Mode">
+        ☀️
+    </div>
+    
+    <div class="container">
+        <header>
+            <a href="index.html" class="back-link">← Back to Author Catalog</a>
+            <h1>Bolter Jay MS</h1>
+            <span class="tag ms">MS</span>
+        </header>
+        
+        <div class="content">
+            <h1>A Spencer-Brown Inspired Ontological Model of Bolter and Grusin's "Remediation"</h1>
+
+This report presents a structured ontological index of Jay David Bolter and Richard Grusin's influential 1999 work "Remediation: Understanding New Media" using Spencer-Brown's calculus of distinctions. By marking entities as distinctions (◻) and relationships as indications (→), we create a formal representation that illuminates the conceptual architecture of remediation theory.
+
+<h2>Foundational Entities and Primary Distinctions</h2>
+
+<h3>Core Theoretical Constructs</h3>
+
+◻ <strong>Remediation</strong>: The representation of one medium in another; process by which new media refashion prior media forms
+
+◻ <strong>immediacy</strong>: Strategy seeking transparent, unmediated experience of the represented object
+
+◻ <strong>hypermediacy</strong>: Strategy highlighting the medium itself and its processes of representation
+
+◻ <strong>double logic</strong>: Cultural desire both to multiply media and erase traces of mediation
+
+◻ <strong>transparent immediacy</strong>: Attempts to achieve immediacy by ignoring or denying the medium
+
+◻ <strong>new digital media</strong>: Technologies such as the World Wide Web, virtual reality, and computer graphics
+
+◻ <strong>media refashioning</strong>: Process through which media pay homage to, rival, and remake other media
+
+<h3>Historical Media Types</h3>
+
+◻ <strong>linear-perspective painting</strong>: Earlier medium remediated by photography
+
+◻ <strong>photography</strong>: Medium that remediated painting and was remediated by film
+
+◻ <strong>film</strong>: Medium that remediated stage production and photography
+
+◻ <strong>television</strong>: Medium that remediated film, vaudeville, and radio
+
+◻ <strong>digital photography</strong>: New medium remediating traditional photography
+
+◻ <strong>virtual reality</strong>: Technology attempting complete immediacy
+
+<h2>Morphisms and Relational Structures</h2>
+
+<h3>Foundational Relationships</h3>
+
+◻ <strong>remediation</strong> → <em>defines</em> → ◻ <strong>digital media</strong>
+   <em>"They call this process of refashioning 'remediation,' and they note that earlier media have also refashioned one another"[1]</em>
+
+◻ <strong>new visual media</strong> → <em>achieve cultural significance by</em> → ◻ <strong>refashioning earlier media</strong>
+   <em>"New visual media achieve their cultural significance precisely by paying homage to, rivaling, and refashioning such earlier media as perspective painting, photography, film, and television"[1][2]</em>
+
+◻ <strong>media</strong> → <em>transfers</em> → ◻ <strong>sense experiences</strong>
+   <em>"Jay David Bolter and Richard Grusin suggest that 'the ultimate purpose of media is...to transfer sense experiences from one person to another'"[10]</em>
+
+◻ <strong>culture</strong> → <em>wants both</em> → ◻ <strong>multiplication and erasure of media</strong>
+   <em>"Our culture wants to both multiply its media and to erase all traces of mediation: ideally it want to erase its media in the very act of multiplying them"[13]</em>
+
+<h3>Immediacy-Hypermediacy Framework</h3>
+
+◻ <strong>immediacy</strong> → <em>seeks</em> → ◻ <strong>transparent relationship to content</strong>
+   <em>"The digital medium wants to erase itself, so that the viewer stands in the same relationship to the content as she would if she were confronting the original medium"[3]</em>
+
+◻ <strong>hypermediacy</strong> → <em>expresses</em> → ◻ <strong>fascination with the medium</strong>
+   <em>"A medieval illuminated manuscript, an early twentieth-century photomontage, and today's buttoned and windowed multimedia applications are instances of hypermediacy--a fascination with the medium itself"[2]</em>
+
+◻ <strong>transparent immediacy</strong> → <em>ignores</em> → ◻ <strong>presence of the medium</strong>
+   <em>"A painting by the seventeenth-century artist Pieter Saenredam, a photograph by Edward Weston, and a computer system for virtual reality are all attempts to achieve transparent immediacy by ignoring or denying the presence of the medium"[1][2]</em>
+
+◻ <strong>immediacy and hypermediacy</strong> → <em>form</em> → ◻ <strong>two necessary halves of remediation</strong>
+   <em>"Although these two strategies appear contradictory, they are in fact the two necessary halves of remediation"[2]</em>
+
+<h2>Complex Conceptual Structures</h2>
+
+<h3>Historical Development Framework</h3>
+
+◻ <strong>digital media</strong> → <em>emerge from</em> → ◻ <strong>cultural contexts</strong>
+   <em>"New digital media are not external agents that come to disrupt an unsuspecting culture. They emerge from within cultural contexts, and they refashion other media, which are embedded in the same or similar experiences"[13]</em>
+
+◻ <strong>new developments</strong> → <em>take media</em> → ◻ <strong>nearer to their origins</strong>
+   <em>"Every new development added to the cinema must, paradoxically, take it nearer and nearer to its origins"[5]</em>
+
+◻ <strong>medium's value</strong> → <em>shifts from</em> → ◻ <strong>cult value to exhibition value</strong>
+   <em>"Works of art are received and valued on different planes. Two polar types stand out; with one, the accent is on the cult value; with the other, on the exhibition value of the work"[13]</em>
+
+◻ <strong>remediation</strong> → <em>has operated since</em> → ◻ <strong>Renaissance</strong>
+   <em>"But they do claim remediation to be a process that has pertained in the West since the time of the Renaissance"[14]</em>
+
+<h3>Media Interaction Framework</h3>
+
+◻ <strong>older media</strong> → <em>are refashioned by</em> → ◻ <strong>new media</strong>
+   <em>"Photography remediated painting, film remediated stage production and photography, and television remediated film, vaudeville, and radio"[1][2]</em>
+
+◻ <strong>older media</strong> → <em>refashion themselves to</em> → ◻ <strong>answer challenges of new media</strong>
+   <em>"...and they note that earlier media have also refashioned one another: photography remediated painting, film remediated stage production and photography, and television remediated film, vaudeville, and radio"[1]</em>
+
+◻ <strong>traditional and digital media</strong> → <em>continuously inform</em> → ◻ <strong>each other</strong>
+   <em>"Traditional and new media formations are modeled as continuously informing each other in an oscillating and reciprocal exchange"[9]</em>
+
+◻ <strong>looking at</strong> → <em>alternates with</em> → ◻ <strong>looking through</strong>
+   <em>"Lanham: this tension is called looking at and looking through – he sees it as a feature of 20th C art in general and now digital representation in particular"[13]</em>
+
+<h2>Applied Framework and Examples</h2>
+
+<h3>Case Study Examples</h3>
+
+◻ <strong>photography</strong> → <em>remediated</em> → ◻ <strong>painting</strong>
+   <em>"Photography remediated painting, film remediated stage production and photography"[1][2]</em>
+
+◻ <strong>computer games</strong> → <em>remediate</em> → ◻ <strong>earlier media</strong>
+   <em>"In chapters devoted to individual media or genres (such as computer games, digital photography, virtual reality, film, and television), Bolter and Grusin illustrate the process of remediation"[1]</em>
+
+◻ <strong>early television</strong> → <em>was imagined as</em> → ◻ <strong>theater</strong>
+   <em>"Early television, unlike cinema, he says, remade the theatrical experience by both extending and replacing it through its immediacy. 'Television was imagined as theater'"[11]</em>
+
+◻ <strong>sitcoms</strong> → <em>became</em> → ◻ <strong>standard for judging live performances</strong>
+   <em>"Sitcoms gradually became the standard by which live performances would be judged while the latter became their sloppy impersonation"[12]</em>
+
+<h2>Conclusion</h2>
+
+This Spencer-Brown inspired ontological model captures the rich theoretical framework of Bolter and Grusin's "Remediation." Through formal distinctions (◻) and indications (→), we visualize how the authors conceptualize the relationship between old and new media through the dual logics of immediacy and hypermediacy. The model highlights their central argument that new media achieve cultural significance by refashioning earlier media, while earlier media refashion themselves in response to new challenges. This structured index reveals the continuing relevance of remediation theory for understanding media evolution as a complex, non-linear process rather than a simple succession of new forms replacing older ones.
+
+Citations:
+[1] https://books.google.com/books/about/Remediation.html?id=AQvsnQEACAAJ
+[2] https://www.barnesandnoble.com/w/remediation-jay-david-bolter/1103854251
+[3] https://courses.lumenlearning.com/wm-writingskillslab/chapter/what-are-remediation-and-remix/
+[4] https://latoyasawyer.com/2012/07/11/bolter-and-grusin-remediation-understanding-new-media/
+[5] https://kairos.technorhetoric.net/6.1/reviews/blakesley/remediator.html
+[6] https://mediaartsandtech.wordpress.com/2011/09/29/bolter-grusin-remediation-reading-summary-ruben-dezaldo-9292011/
+[7] https://blogs.bsu.edu/english/blog/2014/01/10/katherine-greene-recommends-remediation-understanding-new-media-by-jay-david-bolter-and-richard-grusin/
+[8] https://books.google.com/books/about/Remediation.html?id=6LhNEAAAQBAJ
+[9] https://www.academia.edu/1444202/Remediation_Understanding_new_media
+[10] http://briancroxall.pbworks.com/w/page/8178797/November%206%20-%20Bolter%20and%20Grusin
+[11] https://electronicbookreview.com/essay/a-remediations-remediation/
+[12] https://openlab.citytech.cuny.edu/elliseng1710sp2018/2018/03/22/after-class-writing-bolter-and-grusins-remediation/
+[13] https://examplay.wordpress.com/composition-studies-notes/jay-david-bolter-and-richard-grusin-remediation-understanding-new-media/
+[14] https://quod.lib.umich.edu/j/jahc/3310410.0005.111/--jay-david-bolter-and-richard-grusins-remediation?rgn=main%3Bview%3Dfulltext
+
+---
+Answer from Perplexity: https://www.perplexity.ai/search/sts-ms-cat-core-26eOjT2rQjiRqIxKt6q3GA?utm_source=copy_output
+        </div>
+        
+        <footer>
+            <p>Part of the Reality Media Explorer project</p>
+            <p>Created with STS_MS_CAT_CORE HTML Converter</p>
+        </footer>
+    </div>
+</body>
+</html>

@@ -1,0 +1,168 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bellacasa STS</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="script.js" defer></script>
+</head>
+<body>
+    <div class="theme-toggle" id="themeToggle" title="Toggle Dark/Light Mode">
+        ☀️
+    </div>
+    
+    <div class="container">
+        <header>
+            <a href="index.html" class="back-link">← Back to Author Catalog</a>
+            <h1>Bellacasa STS</h1>
+            <span class="tag sts">STS</span>
+        </header>
+        
+        <div class="content" >
+            <h1>A Spencer-Brown Inspired Ontological Model of María Puig de la Bellacasa's "Matters of Care"</h1>
+
+This report presents a structured ontological framework for María Puig de la Bellacasa's influential work "Matters of Care: Speculative Ethics in More Than Human Worlds" using Spencer-Brown's calculus of distinctions. By marking entities as distinctions (◻) and relationships as indications (→), we create a formal representation of the book's conceptual architecture that illuminates its key contributions to care ethics, posthumanism, and science and technology studies.
+
+<h2>Foundational Entities and Primary Distinctions</h2>
+
+<h3>Core Conceptual Distinctions</h3>
+
+◻ <strong>matters of care</strong>: The central theoretical contribution that extends beyond matters of concern
+
+◻ <strong>care</strong>: A multidimensional concept described as "everything that we do to maintain, continue and repair 'our world' so that we can live in it as well as possible"<a href="#citation-1" class="citation-number"><a href="#citation-1" class="citation-number">[1]</a></a><a href="#citation-2" class="citation-number"><a href="#citation-2" class="citation-number">[2]</a></a>
+
+◻ <strong>speculative ethics</strong>: An approach that engages with possible futures and alternative modes of relating
+
+◻ <strong>more-than-human worlds</strong>: The expanded ontological terrain where human and non-human agencies intertwine
+
+◻ <strong>matters of concern</strong>: Bruno Latour's concept describing actively contested and constructed knowledge<a href="#citation-1" class="citation-number"><a href="#citation-1" class="citation-number">[1]</a></a>
+
+◻ <strong>matters of fact</strong>: Ostensibly settled knowledge that Latour distinguishes from matters of concern<a href="#citation-1" class="citation-number"><a href="#citation-1" class="citation-number">[1]</a></a>
+
+<h3>Dimensional Distinctions of Care</h3>
+
+◻ <strong>labor/work dimension</strong>: The material practices involved in actualizing care<a href="#citation-2" class="citation-number"><a href="#citation-2" class="citation-number">[2]</a></a>
+
+◻ <strong>affect/affections dimension</strong>: The emotional and relational aspects of care<a href="#citation-2" class="citation-number"><a href="#citation-2" class="citation-number">[2]</a></a>
+
+◻ <strong>ethics/politics dimension</strong>: The normative commitments and power relations in care practices<a href="#citation-2" class="citation-number"><a href="#citation-2" class="citation-number">[2]</a></a>
+
+◻ <strong>maintenance practices</strong>: The concrete activities involved in sustaining worlds<a href="#citation-1" class="citation-number"><a href="#citation-1" class="citation-number">[1]</a></a><a href="#citation-2" class="citation-number"><a href="#citation-2" class="citation-number">[2]</a></a>
+
+◻ <strong>interdependency</strong>: The ontological condition of mutual reliance between entities<a href="#citation-2" class="citation-number"><a href="#citation-2" class="citation-number">[2]</a></a>
+
+<h2>Morphisms and Relational Structures</h2>
+
+<h3>Transformative Relations</h3>
+
+◻ <strong>matters of concern</strong> → <em>transforms into</em> → ◻ <strong>matters of care</strong>
+   <em>Extending Latour's concept by adding an ethic of care</em><a href="#citation-1" class="citation-number"><a href="#citation-1" class="citation-number">[1]</a></a><a href="#citation-3" class="citation-number"><a href="#citation-3" class="citation-number">[3]</a></a>
+
+◻ <strong>care</strong> → <em>encompasses</em> → ◻ <strong>labor/work</strong>
+   <em>Care includes material practices of maintenance</em><a href="#citation-2" class="citation-number"><a href="#citation-2" class="citation-number">[2]</a></a>
+
+◻ <strong>care</strong> → <em>encompasses</em> → ◻ <strong>affect/affections</strong>
+   <em>Care involves emotional and relational engagement</em><a href="#citation-2" class="citation-number"><a href="#citation-2" class="citation-number">[2]</a></a>
+
+◻ <strong>care</strong> → <em>encompasses</em> → ◻ <strong>ethics/politics</strong>
+   <em>Care entails normative commitments and power relations</em><a href="#citation-2" class="citation-number"><a href="#citation-2" class="citation-number">[2]</a></a>
+
+◻ <strong>human agency</strong> → <em>expands to</em> → ◻ <strong>more-than-human agency</strong>
+   <em>Care ethics extends beyond human-centered frameworks</em><a href="#citation-1" class="citation-number"><a href="#citation-1" class="citation-number">[1]</a></a><a href="#citation-11" class="citation-number"><a href="#citation-11" class="citation-number">[11]</a></a>
+
+<h3>Knowledge Production Relations</h3>
+
+◻ <strong>thinking-with</strong> → <em>is a mode of</em> → ◻ <strong>caring scholarship</strong>
+   <em>Scholars engage in uneasy but committed dialogues with conflicting ideas</em><a href="#citation-1" class="citation-number"><a href="#citation-1" class="citation-number">[1]</a></a>
+
+◻ <strong>dissenting-within</strong> → <em>is a mode of</em> → ◻ <strong>caring scholarship</strong>
+   <em>Critical engagement through appropriation, redirection, and reworking</em><a href="#citation-1" class="citation-number"><a href="#citation-1" class="citation-number">[1]</a></a>
+
+◻ <strong>speaking-for</strong> → <em>is a mode of</em> → ◻ <strong>caring scholarship</strong>
+   <em>Acknowledging the displacement of voice when adopting marginalized perspectives</em><a href="#citation-1" class="citation-number"><a href="#citation-1" class="citation-number">[1]</a></a>
+
+◻ <strong>touching vision</strong> → <em>reorients</em> → ◻ <strong>ways of knowing</strong>
+   <em>Vision becomes sensitive to its vulnerable, subjective and relational grounding</em><a href="#citation-1" class="citation-number"><a href="#citation-1" class="citation-number">[1]</a></a>
+
+<h2>Complex Conceptual Structures</h2>
+
+<h3>The Touch Complex</h3>
+
+◻ <strong>touch</strong> → <em>enables</em> → ◻ <strong>mutual knowing</strong>
+   <em>What is learned through touch depends on the response of the other being touched</em><a href="#citation-1" class="citation-number"><a href="#citation-1" class="citation-number">[1]</a></a>
+
+◻ <strong>touch</strong> → <em>confounds</em> → ◻ <strong>subject-object distinctions</strong>
+   <em>Touch flows in both directions—what we touch touches us as well</em><a href="#citation-1" class="citation-number"><a href="#citation-1" class="citation-number">[1]</a></a>
+
+◻ <strong>touch</strong> → <em>transforms</em> → ◻ <strong>vision</strong>
+   <em>Creates a form of seeing sensitive to its own vulnerability and relationality</em><a href="#citation-1" class="citation-number"><a href="#citation-1" class="citation-number">[1]</a></a>
+
+<h3>The Alterbiopolitics Framework</h3>
+
+◻ <strong>alterbiopolitics</strong> → <em>displaces</em> → ◻ <strong>individual ethics</strong>
+   <em>When self-sustenance and collective outcomes are entangled, individual/collective distinctions break down</em><a href="#citation-1" class="citation-number"><a href="#citation-1" class="citation-number">[1]</a></a>
+
+◻ <strong>permaculture</strong> → <em>informs</em> → ◻ <strong>alterbiopolitics</strong>
+   <em>Practical experiences of interdependency inform collective modes of ethics</em><a href="#citation-1" class="citation-number"><a href="#citation-1" class="citation-number">[1]</a></a><a href="#citation-13" class="citation-number"><a href="#citation-13" class="citation-number">[13]</a></a>
+
+◻ <strong>alterbiopolitics</strong> → <em>emerges from</em> → ◻ <strong>everyday relationships</strong>
+   <em>Ethics emerges speculatively out of the mutuality of everyday relationships</em><a href="#citation-1" class="citation-number"><a href="#citation-1" class="citation-number">[1]</a></a>
+
+<h3>Care Temporality Complex</h3>
+
+◻ <strong>soil care</strong> → <em>exemplifies</em> → ◻ <strong>care temporalities</strong>
+   <em>Care for soil involves slow, unfolding temporalities</em><a href="#citation-1" class="citation-number"><a href="#citation-1" class="citation-number">[1]</a></a>
+
+◻ <strong>care temporalities</strong> → <em>contrast with</em> → ◻ <strong>technological futures</strong>
+   <em>Care temporalities differ from rapid, innovation-driven imaginaries</em><a href="#citation-1" class="citation-number"><a href="#citation-1" class="citation-number">[1]</a></a>
+
+◻ <strong>speculative commitment</strong> → <em>prevents reduction of</em> → ◻ <strong>natural entities to resources</strong>
+   <em>Attention to unfolding temporalities resists objectification</em><a href="#citation-1" class="citation-number"><a href="#citation-1" class="citation-number">[1]</a></a>
+
+<h2>Ethical and Epistemological Extensions</h2>
+
+<h3>Care Beyond Anthropocentrism</h3>
+
+◻ <strong>care</strong> → <em>extends to</em> → ◻ <strong>non-human others</strong>
+   <em>Care attunes us to the care-like work done by non-human others</em><a href="#citation-1" class="citation-number"><a href="#citation-1" class="citation-number">[1]</a></a>
+
+◻ <strong>anthropomorphism</strong> → <em>becomes productive as</em> → ◻ <strong>speculative move</strong>
+   <em>Imagining non-human others as caring pays attention to their particularity</em><a href="#citation-1" class="citation-number"><a href="#citation-1" class="citation-number">[1]</a></a>
+
+◻ <strong>care ethics</strong> → <em>bridges</em> → ◻ <strong>posthumanism</strong>
+   <em>Care ethics connects with posthumanist perspectives while maintaining feminist commitments</em><a href="#citation-5" class="citation-number"><a href="#citation-5" class="citation-number">[5]</a></a><a href="#citation-13" class="citation-number"><a href="#citation-13" class="citation-number">[13]</a></a>
+
+<h2>Conclusion</h2>
+
+This Spencer-Brown inspired ontological model captures the rich conceptual architecture of Puig de la Bellacasa's "Matters of Care." Through formal distinctions (◻) and indications (→), we can visualize how the book extends care ethics beyond human-centered frameworks while maintaining its feminist grounding. The model highlights the book's central contribution: transforming matters of concern into matters of care through speculative ethics that attend to interdependency in more-than-human worlds.
+
+This structured representation demonstrates how Puig de la Bellacasa's work bridges care ethics, science and technology studies, and posthumanism to develop a framework for ethical engagement that is simultaneously material, affective, and political—opening new possibilities for thinking about and practicing care in complex technoscientific worlds.
+
+Citations:
+<a href="#citation-1" class="citation-number"><a href="#citation-1" class="citation-number">[1]</a></a> https://www.societyandspace.org/articles/matters-of-care-by-maria-puig-de-la-bellacasa
+<a href="#citation-2" class="citation-number"><a href="#citation-2" class="citation-number">[2]</a></a> https://syllabus.pirate.care/library/Maria%20Puig%20de%20La%20Bellacasa/Matters%20of%20Care%20(171)/Matters%20of%20Care%20-%20Maria%20Puig%20de%20La%20Bellacasa.pdf
+<a href="#citation-3" class="citation-number"><a href="#citation-3" class="citation-number">[3]</a></a> https://pages.memoryoftheworld.org/library/Maria%20Puig%20de%20La%20Bellacasa/Matters%20of%20Care%20in%20Technoscience_%20Assembling%20Neglected%20Things%20(13)/Matters%20of%20Care%20in%20Technoscience_%20Assembli%20-%20Maria%20Puig%20de%20La%20Bellacasa.pdf
+<a href="#citation-4" class="citation-number"><a href="#citation-4" class="citation-number">[4]</a></a> https://www.linkedin.com/in/spencer-brown-672101a9
+<a href="#citation-5" class="citation-number"><a href="#citation-5" class="citation-number">[5]</a></a> https://www.euppublishing.com/doi/10.3366/soma.2020.0332
+<a href="#citation-6" class="citation-number"><a href="#citation-6" class="citation-number">[6]</a></a> https://feministspatialpractices.com/directory/matters-of-care-speculative-ethics-in-more-than-human-worlds
+<a href="#citation-7" class="citation-number"><a href="#citation-7" class="citation-number">[7]</a></a> https://www.nortonrosefulbright.com/en/people/1017365
+<a href="#citation-8" class="citation-number"><a href="#citation-8" class="citation-number">[8]</a></a> http://www.bellacasaceramica.com/wp-content/uploads/2022/03/BELLACASA-Catalogo-GENERAL-2022-BAJA-WEB.pdf
+<a href="#citation-9" class="citation-number"><a href="#citation-9" class="citation-number">[9]</a></a> https://library.oapen.org/bitstream/20.500.12657/92111/1/9781526180056.pdf
+<a href="#citation-10" class="citation-number"><a href="#citation-10" class="citation-number">[10]</a></a> https://www.casadisassi.com/blog/blends-by-casa-di-sassi/
+<a href="#citation-11" class="citation-number"><a href="#citation-11" class="citation-number">[11]</a></a> https://sciencetechnologystudies.journal.fi/article/download/70162/31675/91900
+<a href="#citation-12" class="citation-number"><a href="#citation-12" class="citation-number">[12]</a></a> https://n.rivals.com/content/athletes/spencer-brown-186554
+<a href="#citation-13" class="citation-number"><a href="#citation-13" class="citation-number">[13]</a></a> https://ethicsofcare.org/reframing-care-reading-maria-puig-de-la-bellacasa-matters-of-care-speculative-ethics-in-more-than-human-worlds/
+<a href="#citation-14" class="citation-number"><a href="#citation-14" class="citation-number">[14]</a></a> https://relentlessbeats.com/events/spencer-brown-effex-nightclub-020224/
+<a href="#citation-15" class="citation-number"><a href="#citation-15" class="citation-number">[15]</a></a> https://relentlessbeats.com/events/spencer-brown-sunbar-011924/
+
+---
+        </div>
+        
+        <footer>
+            <p>Part of the Reality Media Explorer project</p>
+            <p>Created with STS_MS_CAT_CORE HTML Converter</p>
+        </footer>
+    </div>
+</body>
+</html>

@@ -1,0 +1,1692 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0, user-scalable=yes">
+    <title>STS and Media Studies Author Catalog - Barcode View</title>
+    <style>
+        :root {
+            /* Category Colors */
+            --sts-color: #d4af37;
+            --ms-color: #4287f5;
+            --both-color: #bb86fc;
+            
+            /* UI Colors */
+            --background-color: #121212;
+            --text-color: #e0e0e0;
+            --border-color: #333333;
+            --hover-color: rgba(255, 255, 255, 0.1);
+            --selected-color: rgba(255, 255, 255, 0.2);
+            
+            /* Transitions */
+            --transition-speed: 0.2s;
+        }
+        
+        body {
+            font-family: 'Courier New', monospace;
+            background-color: var(--background-color);
+            color: var(--text-color);
+            margin: 0;
+            padding: 0;
+            line-height: 1.4;
+            overflow-x: hidden;
+        }
+        
+        .container {
+            max-width: 1800px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+        
+        header {
+            margin-bottom: 30px;
+            border-bottom: 1px solid var(--border-color);
+            padding-bottom: 20px;
+            text-align: center;
+        }
+        
+        .calculator-display {
+            background-color: rgba(0, 0, 0, 0.5);
+            border: 1px solid var(--border-color);
+            padding: 10px;
+            margin-bottom: 15px;
+            border-radius: 4px;
+            font-family: 'Courier New', monospace;
+            box-shadow: inset 0 0 10px rgba(0, 0, 0, 0.5);
+        }
+        
+        .calculator-title {
+            font-size: 1.2rem;
+            font-weight: bold;
+            color: var(--sts-color);
+            margin: 0;
+            padding: 0;
+        }
+        
+        .calculator-subtitle {
+            font-size: 0.8rem;
+            color: #999;
+            margin: 5px 0 0 0;
+            padding: 0;
+        }
+        
+        h1, h2, h3 {
+            margin-top: 0;
+            font-weight: 600;
+            font-family: 'Courier New', monospace;
+        }
+        
+        h1 {
+            font-size: 2rem;
+            color: var(--sts-color);
+            display: none; /* Hide the original h1 */
+        }
+        
+        h2 {
+            font-size: 1.5rem;
+            margin-top: 30px;
+        }
+        
+        .back-link {
+            margin-top: 15px;
+        }
+        
+        .back-link a {
+            color: var(--sts-color);
+            text-decoration: none;
+            display: inline-flex;
+            align-items: center;
+        }
+        
+        .back-link a:hover {
+            text-decoration: underline;
+        }
+        
+        /* Barcode visualization styles */
+        .barcode-container {
+            display: flex;
+            flex-wrap: nowrap;
+            overflow-x: auto;
+            padding: 20px 0;
+            gap: 2px;
+            height: 180px;
+            align-items: flex-end;
+            margin-bottom: 30px;
+            scrollbar-width: thin;
+            scrollbar-color: var(--border-color) var(--background-color);
+            background-color: rgba(0, 0, 0, 0.2);
+            border: 1px solid var(--border-color);
+            border-radius: 4px;
+            box-shadow: inset 0 0 15px rgba(0, 0, 0, 0.5);
+            padding: 15px;
+            position: relative;
+        }
+        
+        .barcode-container:before {
+            content: "// AUTHORS";
+            position: absolute;
+            top: 5px;
+            left: 10px;
+            font-size: 0.7rem;
+            color: #666;
+            font-family: monospace;
+        }
+        
+        .barcode-info {
+            position: absolute;
+            bottom: 5px;
+            right: 10px;
+            font-size: 0.7rem;
+            color: #666;
+            font-family: monospace;
+        }
+        
+        .barcode-item {
+            width: 15px;
+            min-width: 15px;
+            height: 50px;
+            background-color: var(--sts-color);
+            cursor: pointer;
+            transition: transform 0.2s, opacity 0.2s;
+            position: relative;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.3);
+        }
+        
+        .barcode-item:hover {
+            transform: scaleY(1.05);
+            opacity: 0.9;
+            z-index: 5;
+        }
+        
+        .barcode-item.sts {
+            background-color: var(--sts-color);
+        }
+        
+        .barcode-item.ms {
+            background-color: var(--ms-color);
+        }
+        
+        .barcode-item.both {
+            background-color: var(--both-color);
+        }
+        
+        .barcode-item.selected {
+            box-shadow: 0 0 0 2px #fff, 0 0 10px rgba(255, 255, 255, 0.5);
+            z-index: 10;
+        }
+        
+        .barcode-item:after {
+            content: "";
+            position: absolute;
+            bottom: -10px;
+            left: 50%;
+            transform: translateX(-50%);
+            width: 1px;
+            height: 6px;
+            background-color: #555;
+        }
+        
+        /* Tooltip */
+        .tooltip {
+            position: absolute;
+            bottom: 100%;
+            left: 50%;
+            transform: translateX(-50%);
+            background-color: rgba(0, 0, 0, 0.9);
+            color: #fff;
+            padding: 8px 12px;
+            border-radius: 4px;
+            font-size: 0.8rem;
+            white-space: nowrap;
+            pointer-events: none;
+            opacity: 0;
+            transition: opacity 0.2s;
+            z-index: 100;
+            width: max-content;
+            max-width: 300px;
+            box-shadow: 0 4px 12px rgba(0, 0, 0, 0.5);
+            border: 1px solid var(--border-color);
+            font-family: monospace;
+        }
+        
+        .tooltip-header {
+            font-size: 0.7rem;
+            color: #aaa;
+            margin-bottom: 8px;
+            padding-bottom: 5px;
+            border-bottom: 1px solid var(--border-color);
+            font-weight: normal;
+            text-align: center;
+        }
+        
+        .tooltip-content {
+            display: grid;
+            grid-template-columns: auto 1fr;
+            gap: 5px 8px;
+            font-size: 0.8rem;
+        }
+        
+        .tooltip-label {
+            color: #888;
+            text-align: right;
+        }
+        
+        .tooltip-value {
+            color: var(--sts-color);
+            text-align: left;
+            font-weight: bold;
+        }
+        
+        /* Search and Filter */
+        .toolbar {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 20px;
+            flex-wrap: wrap;
+            gap: 10px;
+        }
+        
+        .toolbar-left, .toolbar-right {
+            display: flex;
+            align-items: center;
+            gap: 10px;
+        }
+        
+        .search-bar {
+            position: relative;
+        }
+        
+        .search-bar input {
+            padding: 8px 30px 8px 10px;
+            border-radius: 4px;
+            border: 1px solid var(--border-color);
+            background-color: rgba(255, 255, 255, 0.1);
+            color: var(--text-color);
+            font-size: 0.9rem;
+            width: 200px;
+        }
+        
+        .clear-button {
+            position: absolute;
+            right: 8px;
+            top: 50%;
+            transform: translateY(-50%);
+            background: none;
+            border: none;
+            color: var(--text-color);
+            cursor: pointer;
+            font-size: 1.2rem;
+            opacity: 0.7;
+        }
+        
+        .clear-button:hover {
+            opacity: 1;
+        }
+        
+        /* Filter Menu */
+        .filter-button {
+            position: relative;
+            padding: 8px 12px;
+            background-color: rgba(255, 255, 255, 0.1);
+            border-radius: 4px;
+            cursor: pointer;
+            user-select: none;
+        }
+        
+        .filter-menu {
+            position: absolute;
+            top: 100%;
+            left: 0;
+            background-color: var(--background-color);
+            border: 1px solid var(--border-color);
+            border-radius: 4px;
+            padding: 10px;
+            width: 250px;
+            z-index: 50;
+            display: none;
+            box-shadow: 0 4px 15px rgba(0, 0, 0, 0.3);
+            margin-top: 5px;
+        }
+        
+        .filter-button:hover .filter-menu {
+            display: block;
+        }
+        
+        .filter-section {
+            margin-bottom: 15px;
+        }
+        
+        .filter-section h3 {
+            font-size: 0.9rem;
+            margin-bottom: 8px;
+            color: var(--sts-color);
+        }
+        
+        .filter-section label {
+            display: block;
+            margin-bottom: 5px;
+            font-size: 0.9rem;
+            display: flex;
+            align-items: center;
+        }
+        
+        .filter-section label input {
+            margin-right: 8px;
+        }
+        
+        /* Content Viewer */
+        .content-viewer {
+            display: flex;
+            height: calc(100vh - 350px);
+            min-height: 400px;
+            border: 1px solid var(--border-color);
+            margin-top: 20px;
+            background-color: rgba(0, 0, 0, 0.2);
+            border-radius: 4px;
+            box-shadow: inset 0 0 15px rgba(0, 0, 0, 0.5);
+        }
+        
+        .content-panel {
+            flex: 1;
+            overflow: auto;
+            padding: 20px;
+            border-right: 1px solid var(--border-color);
+            position: relative;
+        }
+        
+        .content-panel:last-child {
+            border-right: none;
+        }
+        
+        .panel-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            padding-bottom: 10px;
+            margin-bottom: 10px;
+            border-bottom: 1px solid var(--border-color);
+            background-color: var(--background-color);
+            position: sticky;
+            top: 0;
+            z-index: 10;
+        }
+        
+        .author-header {
+            text-align: center;
+            margin-bottom: 20px;
+            padding: 15px;
+            background-color: rgba(0, 0, 0, 0.3);
+            border-radius: 4px;
+            border: 1px solid var(--border-color);
+        }
+        
+        .author-name {
+            font-size: 1.5rem;
+            font-weight: bold;
+            color: var(--sts-color);
+            margin: 0 0 8px 0;
+            font-family: 'Courier New', monospace;
+        }
+        
+        .author-category {
+            font-size: 0.9rem;
+            color: #aaa;
+            margin-bottom: 8px;
+        }
+        
+        .author-tags {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 5px;
+            justify-content: center;
+            margin-top: 10px;
+        }
+        
+        .author-tag {
+            background-color: rgba(212, 175, 55, 0.2);
+            color: var(--sts-color);
+            padding: 3px 8px;
+            border-radius: 3px;
+            font-size: 0.8rem;
+            white-space: nowrap;
+        }
+        
+        .panel-title {
+            font-weight: 600;
+            font-size: 1.1rem;
+        }
+        
+        .panel-actions {
+            display: flex;
+            gap: 5px;
+        }
+        
+        .panel-button {
+            background: rgba(255, 255, 255, 0.1);
+            border: none;
+            color: var(--text-color);
+            padding: 5px 8px;
+            border-radius: 3px;
+            cursor: pointer;
+            font-size: 0.8rem;
+        }
+        
+        .panel-button:hover {
+            background: rgba(255, 255, 255, 0.2);
+        }
+        
+        /* Text density controls */
+        .density-controls {
+            display: flex;
+            gap: 10px;
+            margin-bottom: 15px;
+            padding: 10px;
+            background-color: rgba(0, 0, 0, 0.2);
+            border-radius: 4px;
+            justify-content: center;
+        }
+        
+        .density-option {
+            padding: 5px 10px;
+            border-radius: 3px;
+            cursor: pointer;
+            font-size: 0.8rem;
+            background-color: rgba(255, 255, 255, 0.1);
+        }
+        
+        .density-option.active {
+            background-color: var(--sts-color);
+            color: var(--background-color);
+        }
+        
+        /* Content formatting options */
+        .author-content {
+            line-height: 1.5;
+            margin-top: 20px;
+        }
+        
+        .author-content.dense {
+            line-height: 1.2;
+        }
+        
+        .author-content.paragraphs {
+            line-height: 1.8;
+        }
+        
+        .author-content.paragraphs p {
+            margin-bottom: 1em;
+        }
+        
+        .author-content.vertical {
+            display: flex;
+            flex-direction: column;
+            gap: 10px;
+            line-height: 1.3;
+        }
+        
+        .author-content.vertical p {
+            padding: 8px;
+            background-color: rgba(0, 0, 0, 0.2);
+            border-radius: 3px;
+            border-left: 2px solid var(--sts-color);
+            margin: 0;
+            white-space: normal;
+        }
+        
+        .work-title {
+            font-style: italic;
+            color: var(--sts-color);
+            font-weight: bold;
+            display: block;
+            margin-bottom: 5px;
+            font-size: 1.1rem;
+        }
+        
+        .work-titles {
+            margin-bottom: 20px;
+        }
+        
+        .keep-together {
+            white-space: nowrap;
+        }
+        
+        /* Work styles */
+        .work-list {
+            margin: 20px 0;
+            border: 1px solid var(--border-color);
+            background-color: rgba(0, 0, 0, 0.2);
+            border-radius: 4px;
+            padding: 15px;
+        }
+        
+        .work-item {
+            margin-bottom: 15px;
+            padding-bottom: 15px;
+            border-bottom: 1px dashed var(--border-color);
+        }
+        
+        .work-item:last-child {
+            margin-bottom: 0;
+            padding-bottom: 0;
+            border-bottom: none;
+        }
+        
+        .work-name {
+            font-size: 1.1rem;
+            font-weight: bold;
+            font-style: italic;
+            color: var(--sts-color);
+            margin-bottom: 5px;
+        }
+        
+        .work-year {
+            font-size: 0.8rem;
+            color: #777;
+            margin-bottom: 8px;
+        }
+        
+        .work-tags {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 5px;
+        }
+        
+        .work-tag {
+            background-color: rgba(212, 175, 55, 0.1);
+            color: var(--sts-color);
+            padding: 2px 6px;
+            border-radius: 3px;
+            font-size: 0.75rem;
+        }
+        
+        /* Connections */
+        .connection-line {
+            position: absolute;
+            background-color: rgba(255, 255, 255, 0.5);
+            transform-origin: 0 0;
+            pointer-events: none;
+            z-index: 5;
+        }
+        
+        /* Responsive */
+        @media (max-width: 768px) {
+            .content-viewer {
+                flex-direction: column;
+                height: auto;
+            }
+            
+            .content-panel {
+                border-right: none;
+                border-bottom: 1px solid var(--border-color);
+                min-height: 300px;
+            }
+            
+            .content-panel:last-child {
+                border-bottom: none;
+            }
+            
+            .toolbar {
+                flex-direction: column;
+                align-items: stretch;
+            }
+            
+            .toolbar-left, .toolbar-right {
+                width: 100%;
+                justify-content: space-between;
+            }
+        }
+        
+        /* Connections panel */
+        .connections-panel {
+            margin-top: 20px;
+            padding: 15px;
+            border: 1px solid var(--border-color);
+            background-color: rgba(10, 10, 10, 0.8);
+            border-radius: 5px;
+        }
+        
+        .connection-header {
+            font-size: 1.2rem;
+            margin-bottom: 15px;
+            color: var(--accent-color);
+            text-align: center;
+        }
+        
+        .connection-item {
+            margin-bottom: 15px;
+            padding: 10px;
+            background-color: rgba(40, 40, 40, 0.6);
+            border-radius: 4px;
+        }
+        
+        .connection-tag {
+            display: inline-block;
+            background-color: rgba(212, 175, 55, 0.2);
+            color: var(--accent-color);
+            padding: 3px 8px;
+            margin-bottom: 10px;
+            border-radius: 3px;
+            font-weight: bold;
+        }
+        
+        .connection-works {
+            display: flex;
+            flex-direction: column;
+            gap: 10px;
+        }
+        
+        .connection-work {
+            padding: 8px;
+            background-color: rgba(30, 30, 30, 0.5);
+            border-radius: 3px;
+        }
+        
+        .connection-work-title {
+            font-style: italic;
+            color: var(--sts-color);
+            margin-bottom: 5px;
+        }
+        
+        .connection-work-author {
+            font-size: 0.8rem;
+            color: #aaa;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <div class="calculator-display">
+                <div class="calculator-title">STS and Media Studies Author Catalog</div>
+                <div class="calculator-subtitle">Barcode View</div>
+            </div>
+            <div class="back-link">
+                <a href="index.html">← Back to Standard View</a>
+            </div>
+        </header>
+
+        <!-- Toolbar with search and filters -->
+        <div class="toolbar">
+            <div class="toolbar-left">
+                <div class="search-bar">
+                    <input type="text" id="search-input" placeholder="Search authors...">
+                    <button id="clear-search" class="clear-button">×</button>
+                </div>
+                <div class="filter-button">
+                    <span>Filter</span>
+                    <div class="filter-menu">
+                        <div class="filter-section">
+                            <h3>Categories</h3>
+                            <label>
+                                <input type="checkbox" data-category="all" checked>
+                                <span>All</span>
+                            </label>
+                            <label>
+                                <input type="checkbox" data-category="sts" checked>
+                                <span>STS</span>
+                            </label>
+                            <label>
+                                <input type="checkbox" data-category="ms" checked>
+                                <span>Media Studies</span>
+                            </label>
+                            <label>
+                                <input type="checkbox" data-category="both" checked>
+                                <span>Both Disciplines</span>
+                            </label>
+                        </div>
+                        <div class="filter-section">
+                            <h3>Tags</h3>
+                            <div id="tag-filters">
+                                <!-- Tag filters will be populated here -->
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="toolbar-right">
+                <button id="toggle-comparison" class="panel-button">Compare Mode</button>
+                <button id="clear-connections" class="panel-button">Clear Connections</button>
+            </div>
+        </div>
+
+        <!-- Barcode visualization container -->
+        <div id="barcode-container" class="barcode-container">
+            <!-- Barcode items will be populated here -->
+        </div>
+
+        <!-- Content viewer -->
+        <div id="content-viewer" class="content-viewer">
+            <div id="content-panel-1" class="content-panel">
+                <div class="panel-header">
+                    <div class="panel-title">Select an author to view</div>
+                    <div class="panel-actions">
+                        <button class="panel-button" id="open-link-1">Open Page</button>
+                    </div>
+                </div>
+                <div class="density-controls">
+                    <div class="density-option active" data-panel="1" data-density="normal">Normal</div>
+                    <div class="density-option" data-panel="1" data-density="dense">Dense</div>
+                    <div class="density-option" data-panel="1" data-density="paragraphs">Paragraphs</div>
+                    <div class="density-option" data-panel="1" data-density="vertical">Vertical</div>
+                </div>
+                <div id="content-1" class="panel-content">
+                    <!-- Content will be loaded here -->
+                </div>
+            </div>
+            <div id="content-panel-2" class="content-panel" style="display: none;">
+                <div class="panel-header">
+                    <div class="panel-title">Select an author to compare</div>
+                    <div class="panel-actions">
+                        <button class="panel-button" id="open-link-2">Open Page</button>
+                        <button class="panel-button" id="connect-authors">Connect</button>
+                    </div>
+                </div>
+                <div class="density-controls">
+                    <div class="density-option active" data-panel="2" data-density="normal">Normal</div>
+                    <div class="density-option" data-panel="2" data-density="dense">Dense</div>
+                    <div class="density-option" data-panel="2" data-density="paragraphs">Paragraphs</div>
+                    <div class="density-option" data-panel="2" data-density="vertical">Vertical</div>
+                </div>
+                <div id="content-2" class="panel-content">
+                    <!-- Content will be loaded here -->
+                </div>
+            </div>
+            <div id="connections-panel" class="connections-panel" style="display: none;">
+                <div class="connection-header">Recommended Connections</div>
+                <div id="connections-list">
+                    <!-- Connections will be populated here -->
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        // Global variables
+        let authors = [];
+        let authorWorksIndex = {};
+        let filteredAuthors = [];
+        let selectedAuthor1 = null;
+        let selectedAuthor2 = null;
+        let selectedTags = new Set();
+        let selectedCategories = new Set(['sts', 'ms', 'both']);
+        let connections = [];
+        let compareMode = false;
+
+        // Initialize the application
+        document.addEventListener('DOMContentLoaded', function() {
+            loadAuthorWorksIndex().then(() => {
+                loadAuthors();
+                setupEventListeners();
+            });
+        });
+        
+        // Load author works index JSON
+        async function loadAuthorWorksIndex() {
+            try {
+                const response = await fetch('author_works_index.json');
+                if (!response.ok) {
+                    throw new Error(`Failed to fetch author works index: ${response.status}`);
+                }
+                
+                const data = await response.json();
+                
+                // Create a lookup object for easy access
+                data.authors.forEach(author => {
+                    authorWorksIndex[author.id] = author;
+                });
+                
+                console.log(`Loaded works index for ${data.authors.length} authors`);
+                return data;
+            } catch (error) {
+                console.error('Error loading author works index:', error);
+                authorWorksIndex = {}; // Empty object as fallback
+                return { authors: [] };
+            }
+        }
+        
+        // Get author works if available
+        function getAuthorWorks(authorId) {
+            if (authorWorksIndex[authorId]) {
+                return authorWorksIndex[authorId].works || [];
+            }
+            return [];
+        }
+        
+        // Helper function to extract all tags from an author's works
+        function getAuthorWorkTags(authorId) {
+            const works = getAuthorWorks(authorId);
+            const tagSet = new Set();
+            
+            works.forEach(work => {
+                if (work.tags && Array.isArray(work.tags)) {
+                    work.tags.forEach(tag => tagSet.add(tag));
+                }
+            });
+            
+            return Array.from(tagSet);
+        }
+
+        // Load author data
+        async function loadAuthors() {
+            try {
+                // Fetch index.html to extract basic author data
+                const response = await fetch('index.html');
+                if (!response.ok) {
+                    throw new Error(`Failed to fetch index.html: ${response.status}`);
+                }
+                
+                const html = await response.text();
+                const parser = new DOMParser();
+                const doc = parser.parseFromString(html, 'text/html');
+                
+                // Extract author cards from all sections
+                const authorCards = doc.querySelectorAll('.author-card');
+                
+                // Create author map with meaningful tags
+                const authorTagMap = {
+                    // Authors in both disciplines
+                    'Lakoff_MS_STS.html': ['Metaphors', 'Cognitive Linguistics', 'Framing', 'Embodied Mind'],
+                    
+                    // STS authors
+                    'Barad_STS.html': ['Quantum Physics', 'Feminism', 'Posthumanism', 'Agential Realism', 'New Materialism'],
+                    'Bellacasa_STS.html': ['Care', 'Ethics', 'Feminist STS', 'Speculative Thinking', 'More-than-human'],
+                    'Benjamin_STS.html': ['Race', 'Technology', 'Algorithmic Bias', 'Captivity', 'Abolition'],
+                    'Berger_STS.html': ['Social Construction', 'Reality', 'Phenomenology', 'Knowledge', 'Legitimation'],
+                    'Bijker,_Hughes_STS.html': ['SCOT', 'Social Construction of Technology', 'Large Technical Systems', 'Technological Momentum'],
+                    'Bloor_STS.html': ['Knowledge', 'Social Imagery', 'Strong Programme', 'Symmetry', 'Sociology of Scientific Knowledge'],
+                    'Bowker_Star_STS.html': ['Classification', 'Infrastructure', 'Information Systems', 'Standards', 'Categorization'],
+                    'Callon_STS.html': ['Actor-Network Theory', 'Translation', 'Economy', 'Market Devices', 'Performativity'],
+                    'Collins_STS.html': ['Tacit Knowledge', 'Expertise', 'Gravitational Waves', 'Replication', 'Experimental Practices'],
+                    'Csikszentmihalyi_STS.html': ['Flow', 'Creativity', 'Positive Psychology', 'Optimal Experience', 'Engagement'],
+                    'De_Laet_Mol_STS.html': ['Fluidity', 'Technology Transfer', 'Bush Pump', 'Multiplicity', 'Development'],
+                    'Dreyfus_STS.html': ['AI Critique', 'Phenomenology', 'Embodiment', 'Heidegger', 'Skill Acquisition'],
+                    'Edwards_STS.html': ['Infrastructure', 'Climate Data', 'Information Systems', 'Knowledge Infrastructures', 'Global Models'],
+                    'Fleck_STS.html': ['Thought Collective', 'Epistemology', 'Thought Style', 'Scientific Facts', 'Medical Knowledge'],
+                    'Fujimura_STS.html': ['Standardization', 'Scientific Practice', 'Oncogenes', 'Boundary Objects', 'Genomics'],
+                    'Galison_Datson_STS.html': ['Objectivity', 'History', 'Scientific Self', 'Image', 'Mechanical Objectivity'],
+                    'Goodman_STS.html': ['Knowledge Sociology', 'Ways of Worldmaking', 'Constructivism', 'Symbolic Systems', 'Reference'],
+                    'Haraway_STS.html': ['Feminism', 'Posthumanism', 'Cyborg', 'Situated Knowledge', 'Companion Species'],
+                    'Harding_STS.html': ['Objectivity', 'Feminist Standpoint', 'Strong Objectivity', 'Postcolonial', 'Science Question in Feminism'],
+                    'Hayles_STS.html': ['Posthumanism', 'Information Theory', 'Embodiment', 'Cybernetics', 'Literature and Science'],
+                    'Hesse_STS.html': ['Models', 'Metaphors', 'Scientific Explanation', 'Theory Structure', 'Philosophy of Science'],
+                    'Hutchins_STS.html': ['Cognition', 'Distributed', 'Navigation', 'Cultural Cognition', 'Cognitive Ecology'],
+                    'Jasanoff_STS.html': ['Co-production', 'Civic Epistemology', 'Sociotechnical Imaginaries', 'Risk', 'Governance'],
+                    'Johnson_STS.html': ['Artifacts', 'Agency', 'Ethics', 'Design', 'Technological Mediation'],
+                    'Knorr_Cetina_STS.html': ['Epistemic Cultures', 'Laboratory Studies', 'Scientific Practice', 'Microsociology', 'Knowledge Society'],
+                    'Kuhn_STS.html': ['Paradigm Shifts', 'Scientific Revolutions', 'Normal Science', 'Incommensurability', 'Disciplinary Matrix'],
+                    'Latour_STS.html': ['Actor-Network', 'Modernity', 'Laboratory Life', 'Politics of Nature', 'Science in Action'],
+                    'Law_STS.html': ['Multiplicity', 'Ontological Politics', 'Method', 'Messiness', 'After Method'],
+                    'Lynch_STS.html': ['Scientific Practice', 'Representation', 'Visual Knowledge', 'Ethnomethodology', 'Laboratory Studies'],
+                    'MacKenzie_STS.html': ['Social Shaping', 'Technology', 'Economics', 'Performativity', 'Finance'],
+                    'Martin_STS.html': ['Gender', 'Science', 'Reproduction', 'Immunology', 'Anthropology of Science'],
+                    'Merton_STS.html': ['Sociology of Science', 'Norms', 'CUDOS', 'Matthew Effect', 'Institutionalization'],
+                    'Mol_STS.html': ['Ontological Politics', 'Practice', 'Multiplicity', 'Body Multiple', 'Enactment'],
+                    'Myers_STS.html': ['Scientific Rhetoric', 'Narrative', 'Writing Science', 'Discourse Analysis', 'Protein Modeling'],
+                    'Oudshoorn_STS.html': ['Users', 'Gender Studies', 'Contraceptive Technology', 'Medical Technology', 'Innovation'],
+                    'Pickering_STS.html': ['Mangle of Practice', 'Agency', 'Resistance', 'Accommodation', 'Material Agency'],
+                    'Pinch_Bijker_STS.html': ['SCOT', 'Constructivism', 'Technology Development', 'Interpretive Flexibility', 'Closure'],
+                    'Polanyi_STS.html': ['Tacit Knowledge', 'Personal Knowledge', 'Scientific Community', 'Republic of Science', 'Emergence'],
+                    'Popper_STS.html': ['Falsification', 'Science Demarcation', 'Critical Rationalism', 'Three Worlds', 'Objective Knowledge'],
+                    'Rheinberger_STS.html': ['Epistemic Things', 'Experimental Systems', 'History of Molecular Biology', 'Graphematic Spaces', 'Historicity'],
+                    'Shapin_Schaffer_STS.html': ['Leviathan', 'Air-pump', 'Experimental Life', 'Testimony', 'Literary Technologies'],
+                    'Star_STS.html': ['Boundary Objects', 'Infrastructure', 'Invisibility', 'Classification', 'Standards'],
+                    'Traweek_STS.html': ['Physics Culture', 'Ethnography', 'High Energy Physics', 'Gender', 'Scientific Community'],
+                    'Winner_STS.html': ['Politics', 'Artifacts', 'Technological Politics', 'Autonomous Technology', 'Moses Bridges'],
+                    'Woolgar_STS.html': ['Reflexivity', 'Laboratory', 'Sociology of Scientific Knowledge', 'Configuration', 'Turn to Technology'],
+                    'Wynne_STS.html': ['Risk', 'Public Understanding', 'Sheep Farmers', 'Expertise', 'Trust'],
+                    'Zuboff_STS.html': ['Surveillance', 'Capitalism', 'Big Data', 'Privacy', 'Technology Power'],
+                    
+                    // Media Studies authors
+                    'Adorno_Horkheimer_MS.html': ['Critical Theory', 'Culture Industry', 'Mass Culture', 'Frankfurt School', 'Enlightenment'],
+                    'Allen_Robert_MS.html': ['Racial Representation', 'Media Portrayals', 'Television Studies', 'Black Media', 'Cultural Analysis'],
+                    'Althusser_Louis_MS.html': ['Ideology', 'ISAs', 'Interpellation', 'Marxism', 'State Apparatus'],
+                    'Ang_Ien_MS.html': ['Audience Reception', 'Television', 'Ethnography', 'Dallas', 'Cultural Consumption'],
+                    'Auslander_Philip_MS.html': ['Performance', 'Liveness', 'Mediatization', 'Theater', 'Music'],
+                    'Barthes_Roland_MS.html': ['Semiotics', 'Mythology', 'Photography', 'Readerly/Writerly', 'Death of the Author'],
+                    'Baudrillard_Jean_MS.html': ['Simulacra', 'Hyperreality', 'Postmodernism', 'Symbolic Exchange', 'Gulf War'],
+                    'Bazin_Andr_MS.html': ['Film Theory', 'Ontology', 'Realism', 'Cinema', 'Long Take'],
+                    'Benjamin_Walter_MS.html': ['Mechanical Reproduction', 'Aura', 'Art', 'Politics', 'History'],
+                    'Bogost_Ian_MS.html': ['Games', 'Persuasion', 'Procedural Rhetoric', 'Object-Oriented Ontology', 'Platform Studies'],
+                    'Bolter_Jay_MS.html': ['Remediation', 'New Media', 'Transparency', 'Writing Space', 'Digital Culture'],
+                    'Bourdieu_Pierre_MS.html': ['Cultural Capital', 'Habitus', 'Distinction', 'Field', 'Symbolic Violence'],
+                    'Carey_James_MS.html': ['Communication', 'Ritual View', 'Transmission View', 'Technology', 'Cultural Studies'],
+                    'Castells_Manuel_MS.html': ['Network Society', 'Information Age', 'Space of Flows', 'Communication Power', 'Internet Galaxy'],
+                    'Chun_Wendy_MS.html': ['Digital Media', 'Discrimination', 'Software', 'Networks', 'Race and Technology'],
+                    'Debord_Guy_MS.html': ['Spectacle', 'Society', 'Situationist', 'Capitalism', 'Détournement'],
+                    'Deleuze_Guattari_MS.html': ['Rhizome', 'Schizoanalysis', 'Capitalism', 'Desire', 'Control Societies'],
+                    'Doane_Mary_Ann_MS.html': ['Film Theory', 'Feminism', 'Spectatorship', 'Time', 'Voice'],
+                    'Dyer_Richard_MS.html': ['Representation', 'Whiteness', 'Stars', 'Entertainment', 'Stereotypes'],
+                    'Eco_Umberto_MS.html': ['Semiotics', 'Open Work', 'Interpretation', 'Popular Culture', 'Novel'],
+                    'Fiske_John_MS.html': ['Popular Culture', 'Resistance', 'Television', 'Polysemy', 'Active Audience'],
+                    'Foucault_Michel_MS.html': ['Discourse', 'Power/Knowledge', 'Discipline', 'Governmentality', 'Biopower'],
+                    'Galloway_Alexander_MS.html': ['Protocol', 'Network Theory', 'Control', 'Gaming', 'Digital Media'],
+                    'Gitlin_Todd_MS.html': ['Media Framing', 'Hegemony', 'Social Movements', 'Television', 'Political Communication'],
+                    'Hall_Stuart_MS.html': ['Encoding/Decoding', 'Representation', 'Cultural Studies', 'Identity', 'Race'],
+                    'Hariman_Lucaites_MS.html': ['Iconic Photography', 'Public Culture', 'Visual Rhetoric', 'Citizenship', 'Media Memory'],
+                    'Hooks_Bell_MS.html': ['Black Feminism', 'Oppositional Gaze', 'Intersectionality', 'Film Criticism', 'Cultural Criticism'],
+                    'Innis_Harold_MS.html': ['Medium Theory', 'Bias of Communication', 'Time/Space', 'Empire', 'Orality/Literacy'],
+                    'Jameson_Fredric_MS.html': ['Postmodernism', 'Cultural Logic', 'Late Capitalism', 'Cognitive Mapping', 'Utopia'],
+                    'Jenkins_Henry_MS.html': ['Convergence', 'Participatory', 'Transmedia', 'Fan Culture', 'Collective Intelligence'],
+                    'Kittler_Friedrich_MS.html': ['Media Archaeology', 'Discourse Networks', 'Gramophone, Film, Typewriter', 'Technical Media', 'Post-humanism'],
+                    'Manovich_Lev_MS.html': ['New Media', 'Language', 'Database', 'Cultural Analytics', 'Software Studies'],
+                    'Mcluhan_Marshall_MS.html': ['Medium', 'Message', 'Global Village', 'Hot/Cool Media', 'Extensions of Man'],
+                    'Mulvey_Laura_MS.html': ['Male Gaze', 'Visual Pleasure', 'Film Theory', 'Feminism', 'Narrative Cinema'],
+                    'Turkle_Sherry_MS.html': ['Digital Identity', 'Second Self', 'Technology and Self', 'Alone Together', 'Simulation'],
+                    'Williams_MS.html': ['Television', 'Culture', 'Flow', 'Hegemony', 'Cultural Materialism']
+                };
+                
+                // Build authors array
+                authors = [];
+                
+                authorCards.forEach(card => {
+                    const linkElement = card.querySelector('h3 a');
+                    if (!linkElement) return;
+                    
+                    const url = linkElement.getAttribute('href');
+                    const title = linkElement.textContent.trim();
+                    const id = url.replace('.html', '').toLowerCase();
+                    
+                    // Determine category based on classes
+                    let category = 'sts';
+                    if (card.classList.contains('ms')) {
+                        category = 'ms';
+                    } else if (card.classList.contains('both')) {
+                        category = 'both';
+                    }
+                    
+                    // Get tags from map or provide default tags
+                    const tags = authorTagMap[url] || 
+                        (category === 'sts' ? ['Science and Technology Studies'] : 
+                         category === 'ms' ? ['Media Studies'] : 
+                         ['STS', 'Media Studies']);
+                    
+                    // Create author object
+                    authors.push({
+                        id,
+                        title,
+                        category,
+                        tags,
+                        url
+                    });
+                });
+                
+                console.log(`Loaded ${authors.length} authors from index.html with tags`);
+                
+                // Initial filtering
+                filteredAuthors = [...authors];
+                
+                // Populate tag filters
+                populateTagFilters();
+                
+                // Render the barcode visualization
+                renderBarcode();
+                
+            } catch (error) {
+                console.error('Error loading authors:', error);
+                
+                // Fallback to some basic authors if the fetch fails
+                authors = [
+                    { id: 'lakoff', title: 'Lakoff', category: 'both', tags: ['Metaphors', 'Cognitive Linguistics'], url: 'Lakoff_MS_STS.html' },
+                    { id: 'haraway', title: 'Haraway', category: 'sts', tags: ['Feminism', 'Posthumanism', 'Cyborg'], url: 'Haraway_STS.html' },
+                    { id: 'mcluhan', title: 'McLuhan', category: 'ms', tags: ['Medium', 'Message', 'Global Village'], url: 'Mcluhan_Marshall_MS.html' }
+                ];
+                
+                filteredAuthors = [...authors];
+                populateTagFilters();
+                renderBarcode();
+            }
+        }
+
+        // Set up event listeners
+        function setupEventListeners() {
+            // Search functionality
+            const searchInput = document.getElementById('search-input');
+            const clearSearch = document.getElementById('clear-search');
+            
+            searchInput.addEventListener('input', function() {
+                filterAuthors();
+            });
+            
+            clearSearch.addEventListener('click', function() {
+                searchInput.value = '';
+                filterAuthors();
+            });
+            
+            // Category filter checkboxes
+            const categoryCheckboxes = document.querySelectorAll('input[data-category]');
+            categoryCheckboxes.forEach(checkbox => {
+                checkbox.addEventListener('change', function() {
+                    if (this.dataset.category === 'all') {
+                        // Handle 'All' checkbox
+                        const isChecked = this.checked;
+                        categoryCheckboxes.forEach(cb => {
+                            if (cb.dataset.category !== 'all') {
+                                cb.checked = isChecked;
+                                if (isChecked) {
+                                    selectedCategories.add(cb.dataset.category);
+                                } else {
+                                    selectedCategories.delete(cb.dataset.category);
+                                }
+                            }
+                        });
+                    } else {
+                        // Handle individual category checkboxes
+                        if (this.checked) {
+                            selectedCategories.add(this.dataset.category);
+                        } else {
+                            selectedCategories.delete(this.dataset.category);
+                            // Uncheck 'All' if any category is unchecked
+                            document.querySelector('input[data-category="all"]').checked = false;
+                        }
+                    }
+                    filterAuthors();
+                });
+            });
+            
+            // Toggle comparison mode
+            document.getElementById('toggle-comparison').addEventListener('click', function() {
+                compareMode = !compareMode;
+                document.getElementById('content-panel-2').style.display = compareMode ? 'block' : 'none';
+                document.getElementById('connections-panel').style.display = compareMode ? 'block' : 'none';
+                this.textContent = compareMode ? 'Single Mode' : 'Compare Mode';
+                
+                // Reset second panel when exiting compare mode
+                if (!compareMode) {
+                    selectedAuthor2 = null;
+                    document.getElementById('content-2').innerHTML = '';
+                    document.querySelector('#content-panel-2 .panel-title').textContent = 'Select an author to compare';
+                    document.getElementById('connections-list').innerHTML = '';
+                }
+            });
+            
+            // Clear connections
+            document.getElementById('clear-connections').addEventListener('click', function() {
+                connections = [];
+                document.querySelectorAll('.connection-line').forEach(line => line.remove());
+                document.getElementById('connections-list').innerHTML = '';
+            });
+            
+            // Connect authors button
+            document.getElementById('connect-authors').addEventListener('click', function() {
+                if (selectedAuthor1 && selectedAuthor2) {
+                    createConnection(selectedAuthor1, selectedAuthor2);
+                }
+            });
+            
+            // Open link buttons
+            document.getElementById('open-link-1').addEventListener('click', function() {
+                if (selectedAuthor1) {
+                    window.open(selectedAuthor1.url, '_blank');
+                }
+            });
+            
+            document.getElementById('open-link-2').addEventListener('click', function() {
+                if (selectedAuthor2) {
+                    window.open(selectedAuthor2.url, '_blank');
+                }
+            });
+            
+            // Density control options
+            const densityOptions = document.querySelectorAll('.density-option');
+            densityOptions.forEach(option => {
+                option.addEventListener('click', function() {
+                    // Get panel and density type
+                    const panel = this.dataset.panel;
+                    const density = this.dataset.density;
+                    
+                    // Remove active class from all options in this panel
+                    document.querySelectorAll(`.density-option[data-panel="${panel}"]`).forEach(opt => {
+                        opt.classList.remove('active');
+                    });
+                    
+                    // Add active class to clicked option
+                    this.classList.add('active');
+                    
+                    // Apply density class to content
+                    const contentEl = document.getElementById(`content-${panel}`);
+                    const authorContent = contentEl.querySelector('.author-content');
+                    if (authorContent) {
+                        // Remove all density classes
+                        authorContent.classList.remove('dense', 'paragraphs', 'vertical');
+                        
+                        // Add selected density class if not "normal"
+                        if (density !== 'normal') {
+                            authorContent.classList.add(density);
+                        }
+                    }
+                });
+            });
+        }
+
+        // Populate tag filters from author data
+        function populateTagFilters() {
+            const tagSet = new Set();
+            
+            // Collect tags from author objects and from works index
+            authors.forEach(author => {
+                // Get tags from author object
+                if (author.tags) {
+                    author.tags.forEach(tag => tagSet.add(tag));
+                }
+                
+                // Get tags from works
+                const workTags = getAuthorWorkTags(author.id);
+                workTags.forEach(tag => tagSet.add(tag));
+            });
+            
+            const tagFilters = document.getElementById('tag-filters');
+            tagFilters.innerHTML = '';
+            
+            // Create special tag categories
+            const specialTags = [
+                "Creative Sovereignty",
+                "Epistemological Decolonization",
+                "Ontological Rebellion"
+            ];
+            
+            // Add special tags section first
+            const specialSection = document.createElement('div');
+            specialSection.className = 'special-tags';
+            specialSection.innerHTML = '<div class="tag-section-header">Reality Media Explorer Themes</div>';
+            
+            specialTags.forEach(tag => {
+                const label = document.createElement('label');
+                
+                const checkbox = document.createElement('input');
+                checkbox.type = 'checkbox';
+                checkbox.value = tag;
+                checkbox.addEventListener('change', function() {
+                    if (this.checked) {
+                        selectedTags.add(tag);
+                    } else {
+                        selectedTags.delete(tag);
+                    }
+                    filterAuthors();
+                });
+                
+                const span = document.createElement('span');
+                span.textContent = tag;
+                span.className = 'special-tag';
+                
+                label.appendChild(checkbox);
+                label.appendChild(span);
+                specialSection.appendChild(label);
+            });
+            
+            tagFilters.appendChild(specialSection);
+            
+            // Add regular tags
+            Array.from(tagSet).sort().forEach(tag => {
+                // Skip special tags
+                if (specialTags.includes(tag)) {
+                    return;
+                }
+                
+                const label = document.createElement('label');
+                
+                const checkbox = document.createElement('input');
+                checkbox.type = 'checkbox';
+                checkbox.value = tag;
+                checkbox.addEventListener('change', function() {
+                    if (this.checked) {
+                        selectedTags.add(tag);
+                    } else {
+                        selectedTags.delete(tag);
+                    }
+                    filterAuthors();
+                });
+                
+                const span = document.createElement('span');
+                span.textContent = tag;
+                
+                label.appendChild(checkbox);
+                label.appendChild(span);
+                tagFilters.appendChild(label);
+            });
+        }
+
+        // Filter authors based on search, categories, and tags
+        function filterAuthors() {
+            const searchTerm = document.getElementById('search-input').value.toLowerCase();
+            
+            filteredAuthors = authors.filter(author => {
+                // Category filter
+                const categoryMatch = selectedCategories.size === 0 || selectedCategories.has(author.category);
+                
+                // Search term filter - search in title, tags, and works
+                const titleMatch = author.title.toLowerCase().includes(searchTerm);
+                const tagMatch = author.tags && author.tags.some(tag => tag.toLowerCase().includes(searchTerm));
+                
+                // Search in works
+                const works = getAuthorWorks(author.id);
+                const workMatch = works.some(work => 
+                    work.title.toLowerCase().includes(searchTerm) || 
+                    work.tags.some(tag => tag.toLowerCase().includes(searchTerm))
+                );
+                
+                const searchMatch = !searchTerm || titleMatch || tagMatch || workMatch;
+                
+                // Tag filter
+                let authorTagsMatch = true;
+                if (selectedTags.size > 0) {
+                    // Check direct author tags
+                    const authorHasTag = author.tags && 
+                        author.tags.some(tag => Array.from(selectedTags).includes(tag));
+                    
+                    // Check work tags
+                    const workTags = getAuthorWorkTags(author.id);
+                    const workHasTag = workTags.some(tag => Array.from(selectedTags).includes(tag));
+                    
+                    authorTagsMatch = authorHasTag || workHasTag;
+                }
+                
+                return categoryMatch && searchMatch && authorTagsMatch;
+            });
+            
+            renderBarcode();
+        }
+        
+        // Find connection recommendations between two authors
+        function findConnectionRecommendations(author1, author2) {
+            if (!author1 || !author2) return [];
+            
+            const author1Works = getAuthorWorks(author1.id);
+            const author2Works = getAuthorWorks(author2.id);
+            
+            // Extract all tags from works
+            const author1Tags = new Set();
+            author1Works.forEach(work => {
+                work.tags.forEach(tag => author1Tags.add(tag));
+            });
+            
+            const author2Tags = new Set();
+            author2Works.forEach(work => {
+                work.tags.forEach(tag => author2Tags.add(tag));
+            });
+            
+            // Find common tags
+            const commonTags = [];
+            author1Tags.forEach(tag => {
+                if (author2Tags.has(tag)) {
+                    commonTags.push(tag);
+                }
+            });
+            
+            // Find works with common tags
+            const connections = [];
+            
+            commonTags.forEach(tag => {
+                const author1WorksWithTag = author1Works.filter(work => 
+                    work.tags.includes(tag)
+                );
+                
+                const author2WorksWithTag = author2Works.filter(work => 
+                    work.tags.includes(tag)
+                );
+                
+                author1WorksWithTag.forEach(work1 => {
+                    author2WorksWithTag.forEach(work2 => {
+                        connections.push({
+                            tag,
+                            author1Work: work1,
+                            author2Work: work2
+                        });
+                    });
+                });
+            });
+            
+            return connections;
+        }
+
+        // Render the barcode visualization
+        function renderBarcode() {
+            const container = document.getElementById('barcode-container');
+            container.innerHTML = '';
+            
+            // Add the info element
+            const infoElement = document.createElement('div');
+            infoElement.className = 'barcode-info';
+            container.appendChild(infoElement);
+            
+            // Update counts
+            const stsCount = filteredAuthors.filter(a => a.category === 'sts').length;
+            const msCount = filteredAuthors.filter(a => a.category === 'ms').length;
+            const bothCount = filteredAuthors.filter(a => a.category === 'both').length;
+            const totalCount = filteredAuthors.length;
+            
+            infoElement.textContent = `STS:${stsCount} MS:${msCount} BOTH:${bothCount} TOTAL:${totalCount}`;
+            
+            filteredAuthors.forEach(author => {
+                const bar = document.createElement('div');
+                bar.className = `barcode-item ${author.category}`;
+                bar.dataset.id = author.id;
+                
+                // Calculate height based on number of tags (more tags = taller bar)
+                const minHeight = 30;
+                const maxHeight = 120;
+                const tagCount = author.tags ? author.tags.length : 0;
+                const height = minHeight + (tagCount * 15);
+                bar.style.height = `${Math.min(height, maxHeight)}px`;
+                
+                // Create tooltip
+                const tooltip = document.createElement('div');
+                tooltip.className = 'tooltip';
+                const tooltipHeader = document.createElement('div');
+                tooltipHeader.className = 'tooltip-header';
+                tooltipHeader.textContent = "STS and Media Studies Author Catalog";
+                const tooltipContent = document.createElement('div');
+                tooltipContent.className = 'tooltip-content';
+                
+                // Author name
+                const nameLabel = document.createElement('div');
+                nameLabel.className = 'tooltip-label';
+                nameLabel.textContent = 'Author:';
+                const nameValue = document.createElement('div');
+                nameValue.className = 'tooltip-value';
+                nameValue.textContent = author.title;
+                
+                // Category
+                const categoryLabel = document.createElement('div');
+                categoryLabel.className = 'tooltip-label';
+                categoryLabel.textContent = 'Category:';
+                const categoryValue = document.createElement('div');
+                categoryValue.className = 'tooltip-value';
+                categoryValue.textContent = author.category === 'sts' ? 'STS' : author.category === 'ms' ? 'Media Studies' : 'Both';
+                
+                // Tags
+                const tagsLabel = document.createElement('div');
+                tagsLabel.className = 'tooltip-label';
+                tagsLabel.textContent = 'Tags:';
+                const tagsValue = document.createElement('div');
+                tagsValue.className = 'tooltip-value';
+                tagsValue.style.fontSize = '0.7rem';
+                
+                // Get all tags - combine author tags with work tags
+                const authorTags = author.tags || [];
+                const workTags = getAuthorWorkTags(author.id) || [];
+                const allTags = [...new Set([...authorTags, ...workTags])]; // Deduplicate tags
+                
+                tagsValue.textContent = allTags.length > 0 ? allTags.join(', ') : 'None';
+                
+                // Add key works to tooltip
+                const works = getAuthorWorks(author.id);
+                if (works && works.length > 0) {
+                    const worksLabel = document.createElement('div');
+                    worksLabel.className = 'tooltip-label';
+                    worksLabel.textContent = 'Key Works:';
+                    
+                    const worksValue = document.createElement('div');
+                    worksValue.className = 'tooltip-value tooltip-works';
+                    worksValue.style.fontSize = '0.7rem';
+                    
+                    // Show up to 3 works in tooltip
+                    const displayWorks = works.slice(0, 3);
+                    worksValue.textContent = displayWorks.map(work => `${work.title} (${work.year})`).join(', ');
+                    
+                    tooltipContent.appendChild(worksLabel);
+                    tooltipContent.appendChild(worksValue);
+                }
+                
+                tooltipContent.appendChild(nameLabel);
+                tooltipContent.appendChild(nameValue);
+                tooltipContent.appendChild(categoryLabel);
+                tooltipContent.appendChild(categoryValue);
+                tooltipContent.appendChild(tagsLabel);
+                tooltipContent.appendChild(tagsValue);
+                tooltip.appendChild(tooltipHeader);
+                tooltip.appendChild(tooltipContent);
+                
+                bar.appendChild(tooltip);
+                
+                // Show tooltip on hover
+                bar.addEventListener('mouseenter', () => {
+                    tooltip.style.opacity = '1';
+                });
+                
+                bar.addEventListener('mouseleave', () => {
+                    tooltip.style.opacity = '0';
+                });
+                
+                // Click handler
+                bar.addEventListener('click', () => {
+                    selectAuthor(author);
+                });
+                
+                container.appendChild(bar);
+            });
+            
+            // Update connections display
+            updateConnectionsDisplay();
+            
+            // Show a message if no authors are displayed
+            if (filteredAuthors.length === 0) {
+                const noResults = document.createElement('div');
+                noResults.style.color = '#999';
+                noResults.style.padding = '20px';
+                noResults.style.textAlign = 'center';
+                noResults.style.width = '100%';
+                noResults.textContent = 'No authors match the current filters';
+                container.appendChild(noResults);
+                infoElement.textContent = 'NO_RESULTS';
+            }
+        }
+
+        // Select an author to display
+        function selectAuthor(author) {
+            if (!compareMode) {
+                // Single mode - update first panel
+                selectedAuthor1 = author;
+                document.querySelector('#content-panel-1 .panel-title').textContent = author.title;
+                loadAuthorContent(author, 'content-1');
+                
+                // Highlight selected barcode item
+                document.querySelectorAll('.barcode-item').forEach(item => {
+                    item.classList.remove('selected');
+                });
+                document.querySelector(`.barcode-item[data-id="${author.id}"]`).classList.add('selected');
+            } else {
+                // Compare mode - update second panel
+                selectedAuthor2 = author;
+                document.querySelector('#content-panel-2 .panel-title').textContent = author.title;
+                loadAuthorContent(author, 'content-2');
+                
+                // Find and display connection recommendations
+                const connections = findConnectionRecommendations(selectedAuthor1, selectedAuthor2);
+                renderConnections(connections);
+            }
+        }
+
+        // Load author content
+        async function loadAuthorContent(author, targetElementId) {
+            const contentEl = document.getElementById(targetElementId);
+            contentEl.innerHTML = '<div style="text-align: center; padding: 20px;">Loading...</div>';
+            
+            try {
+                const response = await fetch(author.url);
+                const html = await response.text();
+                
+                // Extract the main content from the HTML
+                const parser = new DOMParser();
+                const doc = parser.parseFromString(html, 'text/html');
+                
+                // Get the main content (assuming it's in an element with class 'content')
+                const mainContent = doc.querySelector('.content') || doc.querySelector('main') || doc.body;
+                
+                // Extract potential work titles from italics or quotes
+                const workTitles = [];
+                
+                // Look for italicized text that might be a title
+                const italics = mainContent.querySelectorAll('i, em');
+                italics.forEach(italic => {
+                    const text = italic.textContent.trim();
+                    if (text.length > 10 && text.length < 100 && text.includes(':')) {
+                        workTitles.push(text);
+                    }
+                });
+                
+                // Look for quoted text that might be a title
+                const quotes = mainContent.querySelectorAll('blockquote');
+                quotes.forEach(quote => {
+                    const text = quote.textContent.trim();
+                    const firstLine = text.split('\n')[0].trim();
+                    if (firstLine.length > 10 && firstLine.length < 100) {
+                        workTitles.push(firstLine);
+                    }
+                });
+                
+                // Look for specific phrases that are likely titles
+                const titlePhrases = [
+                    "Society of the Spectacle", 
+                    "Remediation", 
+                    "Understanding New Media",
+                    "The Social Shaping of Technology",
+                    "Laboratory Life",
+                    "Science in Action",
+                    "We Have Never Been Modern",
+                    "The Body Multiple",
+                    "Surveillance Capitalism",
+                    "The Culture Industry",
+                    "Mythologies",
+                    "Simulacra and Simulation",
+                    "The Medium is the Message",
+                    "Visual Pleasure and Narrative Cinema"
+                ];
+                
+                // Create a preview of the content
+                const works = getAuthorWorks(author.id);
+                const workList = works.map(work => {
+                    return `
+                        <div class="work-item">
+                            <div class="work-name">${work.title}</div>
+                            <div class="work-year">${work.year}</div>
+                            <div class="work-tags">
+                                ${work.tags ? work.tags.map(tag => `<span class="work-tag">${tag}</span>`).join(' ') : 'None'}
+                            </div>
+                        </div>
+                    `;
+                }).join('');
+                
+                contentEl.innerHTML = `
+                    <div class="author-header">
+                        <div class="author-name">${author.title}</div>
+                        <div class="author-category">${author.category === 'sts' ? 'Science and Technology Studies' : author.category === 'ms' ? 'Media Studies' : 'Both STS and Media Studies'}</div>
+                        <div class="author-tags">${author.tags ? author.tags.map(tag => `<span class="author-tag">${tag}</span>`).join(' ') : 'None'}</div>
+                    </div>
+                    ${workTitles.length > 0 ? 
+                        `<div class="work-titles">
+                            ${workTitles.map(title => `<div class="work-title">${title}</div>`).join('')}
+                        </div>` : ''}
+                    <div class="work-list">
+                        ${workList}
+                    </div>
+                    <div class="author-content">${mainContent.innerHTML}</div>
+                `;
+                
+                // Process content for vertical view to keep phrases together
+                if (contentEl.querySelector('.author-content')) {
+                    const contentDiv = contentEl.querySelector('.author-content');
+                    
+                    // Replace line breaks with spaces in the vertical view to keep phrases together
+                    titlePhrases.forEach(phrase => {
+                        const regex = new RegExp(phrase.replace(/([.*+?^=!:${}()|\[\]\/\\])/g, "\\$1"), 'g');
+                        contentDiv.innerHTML = contentDiv.innerHTML.replace(regex, `<span class="keep-together">${phrase}</span>`);
+                    });
+                }
+                
+                // Apply the current density setting
+                const panel = targetElementId.replace('content-', '');
+                const activeOption = document.querySelector(`.density-option[data-panel="${panel}"].active`);
+                if (activeOption) {
+                    const density = activeOption.dataset.density;
+                    const authorContent = contentEl.querySelector('.author-content');
+                    if (authorContent && density !== 'normal') {
+                        authorContent.classList.add(density);
+                    }
+                }
+                
+            } catch (error) {
+                contentEl.innerHTML = `
+                    <div class="author-header">
+                        <div class="author-name">${author.title}</div>
+                        <div class="author-category">${author.category === 'sts' ? 'Science and Technology Studies' : author.category === 'ms' ? 'Media Studies' : 'Both STS and Media Studies'}</div>
+                        <div class="author-tags">${author.tags ? author.tags.map(tag => `<span class="author-tag">${tag}</span>`).join(' ') : 'None'}</div>
+                    </div>
+                    <div class="error-message">Error loading content. <a href="${author.url}" target="_blank">Open the full page</a> to view.</div>
+                `;
+            }
+        }
+
+        // Create a connection between two authors
+        function createConnection(author1, author2) {
+            // Check if connection already exists
+            const connectionExists = connections.some(conn => 
+                (conn.source === author1.id && conn.target === author2.id) || 
+                (conn.source === author2.id && conn.target === author1.id)
+            );
+            
+            if (!connectionExists) {
+                connections.push({
+                    source: author1.id,
+                    target: author2.id,
+                    tags: [...(new Set([...author1.tags || [], ...author2.tags || []]))]
+                });
+                
+                updateConnectionsDisplay();
+            }
+        }
+
+        // Update the display of connections
+        function updateConnectionsDisplay() {
+            // Remove existing connection lines
+            document.querySelectorAll('.connection-line').forEach(line => line.remove());
+            
+            // Get all barcode items currently displayed
+            const barcodeItems = document.querySelectorAll('.barcode-item');
+            const itemPositions = {};
+            
+            // Create a map of item positions
+            barcodeItems.forEach(item => {
+                const id = item.dataset.id;
+                const rect = item.getBoundingClientRect();
+                const containerRect = document.getElementById('barcode-container').getBoundingClientRect();
+                
+                itemPositions[id] = {
+                    left: rect.left - containerRect.left + (rect.width / 2),
+                    top: rect.top - containerRect.top + (rect.height / 2),
+                    width: rect.width,
+                    height: rect.height
+                };
+            });
+            
+            // Draw connection lines for connections where both authors are visible
+            connections.forEach(connection => {
+                const sourcePos = itemPositions[connection.source];
+                const targetPos = itemPositions[connection.target];
+                
+                if (sourcePos && targetPos) {
+                    // Create connection line
+                    const line = document.createElement('div');
+                    line.className = 'connection-line';
+                    
+                    // Calculate line dimensions
+                    const dx = targetPos.left - sourcePos.left;
+                    const dy = targetPos.top - sourcePos.top;
+                    const length = Math.sqrt(dx * dx + dy * dy);
+                    const angle = Math.atan2(dy, dx) * 180 / Math.PI;
+                    
+                    // Set line position and dimensions
+                    line.style.width = `${length}px`;
+                    line.style.height = '2px';
+                    line.style.left = `${sourcePos.left}px`;
+                    line.style.top = `${sourcePos.top}px`;
+                    line.style.transform = `rotate(${angle}deg)`;
+                    
+                    // Add line to container
+                    document.getElementById('barcode-container').appendChild(line);
+                }
+            });
+        }
+        
+        // Render connections between authors
+        function renderConnections(connections) {
+            const connectionsList = document.getElementById('connections-list');
+            connectionsList.innerHTML = '';
+            
+            connections.forEach(connection => {
+                const connectionItem = document.createElement('div');
+                connectionItem.className = 'connection-item';
+                
+                const connectionTag = document.createElement('div');
+                connectionTag.className = 'connection-tag';
+                connectionTag.textContent = connection.tag;
+                
+                const connectionWorks = document.createElement('div');
+                connectionWorks.className = 'connection-works';
+                
+                const author1Work = document.createElement('div');
+                author1Work.className = 'connection-work';
+                author1Work.innerHTML = `
+                    <div class="connection-work-title">${connection.author1Work.title}</div>
+                    <div class="connection-work-author">${selectedAuthor1.title}</div>
+                `;
+                
+                const author2Work = document.createElement('div');
+                author2Work.className = 'connection-work';
+                author2Work.innerHTML = `
+                    <div class="connection-work-title">${connection.author2Work.title}</div>
+                    <div class="connection-work-author">${selectedAuthor2.title}</div>
+                `;
+                
+                connectionWorks.appendChild(author1Work);
+                connectionWorks.appendChild(author2Work);
+                
+                connectionItem.appendChild(connectionTag);
+                connectionItem.appendChild(connectionWorks);
+                
+                connectionsList.appendChild(connectionItem);
+            });
+        }
+    </script>
+</body>
+</html>

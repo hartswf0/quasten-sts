@@ -1,0 +1,513 @@
+{
+  "authors": [
+    {
+      "id": "lakoff",
+      "name": "Lakoff",
+      "category": "both",
+      "works": [
+        {
+          "title": "Metaphors We Live By",
+          "year": 1980,
+          "tags": ["Conceptual Metaphor", "Cognitive Linguistics", "Language", "Thought", "Embodiment"]
+        },
+        {
+          "title": "Women, Fire, and Dangerous Things",
+          "year": 1987,
+          "tags": ["Categorization", "Prototype Theory", "Cognitive Science", "Embodied Mind"]
+        },
+        {
+          "title": "Don't Think of an Elephant",
+          "year": 2004,
+          "tags": ["Political Framing", "Cognitive Politics", "Media", "Communication"]
+        }
+      ]
+    },
+    {
+      "id": "barad",
+      "name": "Barad",
+      "category": "sts",
+      "works": [
+        {
+          "title": "Meeting the Universe Halfway",
+          "year": 2007,
+          "tags": ["Agential Realism", "Quantum Physics", "Posthumanism", "Feminist Theory", "Materialism"]
+        },
+        {
+          "title": "Posthumanist Performativity",
+          "year": 2003,
+          "tags": ["Posthumanism", "Performativity", "Materiality", "Ontology", "Gender"]
+        }
+      ]
+    },
+    {
+      "id": "bellacasa",
+      "name": "Bellacasa",
+      "category": "sts",
+      "works": [
+        {
+          "title": "Matters of Care",
+          "year": 2017,
+          "tags": ["Care Ethics", "Feminist STS", "More-than-human", "Ecological Thinking", "Technoscience"]
+        },
+        {
+          "title": "Thinking with Care",
+          "year": 2012,
+          "tags": ["Care", "Knowledge Production", "Ethics", "Relationality", "Speculative Thinking"]
+        }
+      ]
+    },
+    {
+      "id": "benjamin",
+      "name": "Benjamin",
+      "category": "sts",
+      "works": [
+        {
+          "title": "Race After Technology",
+          "year": 2019,
+          "tags": ["Algorithmic Bias", "Race", "Technology", "Discrimination", "Social Justice"]
+        },
+        {
+          "title": "Captivating Technology",
+          "year": 2019,
+          "tags": ["Captivity", "Carceral Technology", "Abolition", "Race", "Surveillance"]
+        }
+      ]
+    },
+    {
+      "id": "berger",
+      "name": "Berger",
+      "category": "sts",
+      "works": [
+        {
+          "title": "The Social Construction of Reality",
+          "year": 1966,
+          "tags": ["Knowledge Sociology", "Social Construction", "Reality", "Institutionalization", "Legitimation"]
+        },
+        {
+          "title": "Ways of Seeing",
+          "year": 1972,
+          "tags": ["Visual Culture", "Art", "Perception", "Ideology", "Media"]
+        }
+      ]
+    },
+    {
+      "id": "bijker",
+      "name": "Bijker, Hughes & Pinch",
+      "category": "sts",
+      "works": [
+        {
+          "title": "The Social Construction of Technological Systems",
+          "year": 1987,
+          "tags": ["SCOT", "Large Technical Systems", "Technological Momentum", "Innovation", "Sociotechnical Systems"]
+        },
+        {
+          "title": "Of Bicycles, Bakelites, and Bulbs",
+          "year": 1995,
+          "tags": ["Sociotechnical Ensembles", "Technological Frame", "Interpretive Flexibility", "Technology Development"]
+        }
+      ]
+    },
+    {
+      "id": "bloor",
+      "name": "Bloor",
+      "category": "sts",
+      "works": [
+        {
+          "title": "Knowledge and Social Imagery",
+          "year": 1976,
+          "tags": ["Strong Programme", "Symmetry", "Sociology of Scientific Knowledge", "Causality", "Impartiality"]
+        },
+        {
+          "title": "Wittgenstein: A Social Theory of Knowledge",
+          "year": 1983,
+          "tags": ["Social Epistemology", "Rules", "Language Games", "Knowledge Construction"]
+        }
+      ]
+    },
+    {
+      "id": "bowker",
+      "name": "Bowker & Star",
+      "category": "sts",
+      "works": [
+        {
+          "title": "Sorting Things Out",
+          "year": 1999,
+          "tags": ["Classification", "Infrastructure", "Standards", "Information Systems", "Boundary Objects"]
+        },
+        {
+          "title": "Memory Practices in the Sciences",
+          "year": 2005,
+          "tags": ["Memory", "Information Infrastructure", "Data Practices", "Knowledge Organization"]
+        }
+      ]
+    },
+    {
+      "id": "galison",
+      "name": "Galison & Datson",
+      "category": "sts",
+      "works": [
+        {
+          "title": "Objectivity",
+          "year": 2007,
+          "tags": ["Scientific Self", "Image", "Representation", "Mechanical Objectivity", "Epistemic Virtues"]
+        },
+        {
+          "title": "Image and Logic",
+          "year": 1997,
+          "tags": ["Trading Zones", "Experimental Physics", "Scientific Practice", "Instrumentation"]
+        }
+      ]
+    },
+    {
+      "id": "haraway",
+      "name": "Haraway",
+      "category": "sts",
+      "works": [
+        {
+          "title": "A Cyborg Manifesto",
+          "year": 1985,
+          "tags": ["Cyborg", "Feminism", "Posthumanism", "Identity", "Technoscience"]
+        },
+        {
+          "title": "Situated Knowledges",
+          "year": 1988,
+          "tags": ["Objectivity", "Feminist Epistemology", "Partial Perspective", "Vision"]
+        },
+        {
+          "title": "When Species Meet",
+          "year": 2008,
+          "tags": ["Companion Species", "Multispecies", "More-than-human", "Ethics", "Naturecultures"]
+        }
+      ]
+    },
+    {
+      "id": "harding",
+      "name": "Harding",
+      "category": "sts",
+      "works": [
+        {
+          "title": "The Science Question in Feminism",
+          "year": 1986,
+          "tags": ["Feminist Standpoint", "Objectivity", "Epistemology", "Science Studies", "Gender"]
+        },
+        {
+          "title": "Whose Science? Whose Knowledge?",
+          "year": 1991,
+          "tags": ["Strong Objectivity", "Standpoint Theory", "Postcolonial Science", "Situated Knowledge"]
+        }
+      ]
+    },
+    {
+      "id": "hutchins",
+      "name": "Hutchins",
+      "category": "sts",
+      "works": [
+        {
+          "title": "Cognition in the Wild",
+          "year": 1995,
+          "tags": ["Distributed Cognition", "Navigation", "Cultural Cognition", "Cognitive Ecology", "Sociotechnical Systems"]
+        },
+        {
+          "title": "How a Cockpit Remembers Its Speeds",
+          "year": 1995,
+          "tags": ["Distributed Cognition", "Memory", "Aviation", "Representation", "Sociotechnical Systems"]
+        }
+      ]
+    },
+    {
+      "id": "latour",
+      "name": "Latour",
+      "category": "sts",
+      "works": [
+        {
+          "title": "Laboratory Life",
+          "year": 1979,
+          "tags": ["Laboratory Studies", "Scientific Practice", "Constructivism", "Fact Construction", "Ethnography"]
+        },
+        {
+          "title": "Science in Action",
+          "year": 1987,
+          "tags": ["Actor-Network Theory", "Black Boxing", "Technoscience", "Translation", "Power"]
+        },
+        {
+          "title": "We Have Never Been Modern",
+          "year": 1991,
+          "tags": ["Modernity", "Purification", "Hybrids", "Nature/Culture", "Anthropology"]
+        },
+        {
+          "title": "Reassembling the Social",
+          "year": 2005,
+          "tags": ["Actor-Network Theory", "Sociology", "Methodology", "Associations", "Tracing"]
+        }
+      ]
+    },
+    {
+      "id": "mol",
+      "name": "Mol",
+      "category": "sts",
+      "works": [
+        {
+          "title": "The Body Multiple",
+          "year": 2002,
+          "tags": ["Ontological Politics", "Practice", "Multiplicity", "Enactment", "Medical Anthropology"]
+        },
+        {
+          "title": "The Logic of Care",
+          "year": 2008,
+          "tags": ["Care", "Choice", "Medicine", "Diabetes", "Patient Autonomy"]
+        }
+      ]
+    },
+    {
+      "id": "winner",
+      "name": "Winner",
+      "category": "sts",
+      "works": [
+        {
+          "title": "Do Artifacts Have Politics?",
+          "year": 1980,
+          "tags": ["Technological Politics", "Artifacts", "Moses Bridges", "Determinism", "Social Power"]
+        },
+        {
+          "title": "The Whale and the Reactor",
+          "year": 1986,
+          "tags": ["Technology Criticism", "Politics", "Technology Assessment", "Ethics", "Democracy"]
+        },
+        {
+          "title": "Autonomous Technology",
+          "year": 1977,
+          "tags": ["Technological Determinism", "Technocracy", "Politics", "Technology Assessment"]
+        }
+      ]
+    },
+    {
+      "id": "zuboff",
+      "name": "Zuboff",
+      "category": "sts",
+      "works": [
+        {
+          "title": "The Age of Surveillance Capitalism",
+          "year": 2019,
+          "tags": ["Surveillance", "Capitalism", "Big Data", "Privacy", "Technology Power"]
+        },
+        {
+          "title": "In the Age of the Smart Machine",
+          "year": 1988,
+          "tags": ["Automation", "Information Technology", "Labor", "Computer-mediated Work", "Informating"]
+        }
+      ]
+    },
+    {
+      "id": "adorno",
+      "name": "Adorno & Horkheimer",
+      "category": "ms",
+      "works": [
+        {
+          "title": "Dialectic of Enlightenment",
+          "year": 1944,
+          "tags": ["Culture Industry", "Mass Culture", "Enlightenment", "Critical Theory", "Frankfurt School"]
+        },
+        {
+          "title": "The Culture Industry",
+          "year": 1947,
+          "tags": ["Mass Media", "Standardization", "Pseudo-individualization", "Capitalism", "Critique"]
+        }
+      ]
+    },
+    {
+      "id": "barthes",
+      "name": "Barthes",
+      "category": "ms",
+      "works": [
+        {
+          "title": "Mythologies",
+          "year": 1957,
+          "tags": ["Semiotics", "Myth", "Popular Culture", "Ideology", "Sign Systems"]
+        },
+        {
+          "title": "Image-Music-Text",
+          "year": 1977,
+          "tags": ["Death of the Author", "Photography", "Narrative", "Semiotics", "Textuality"]
+        },
+        {
+          "title": "Camera Lucida",
+          "year": 1980,
+          "tags": ["Photography", "Punctum", "Studium", "Mourning", "Visual Analysis"]
+        }
+      ]
+    },
+    {
+      "id": "baudrillard",
+      "name": "Baudrillard",
+      "category": "ms",
+      "works": [
+        {
+          "title": "Simulacra and Simulation",
+          "year": 1981,
+          "tags": ["Hyperreality", "Simulation", "Postmodernism", "Media Theory", "Signs"]
+        },
+        {
+          "title": "The Gulf War Did Not Take Place",
+          "year": 1991,
+          "tags": ["War", "Media", "Simulation", "Television", "Reality"]
+        },
+        {
+          "title": "The System of Objects",
+          "year": 1968,
+          "tags": ["Consumer Society", "Objects", "Sign-Value", "Symbolic Exchange"]
+        }
+      ]
+    },
+    {
+      "id": "benjamin_w",
+      "name": "Benjamin",
+      "category": "ms",
+      "works": [
+        {
+          "title": "The Work of Art in the Age of Mechanical Reproduction",
+          "year": 1935,
+          "tags": ["Aura", "Art", "Reproduction", "Politics", "Film"]
+        },
+        {
+          "title": "Illuminations",
+          "year": 1968,
+          "tags": ["Storytelling", "History", "Criticism", "Memory", "Modernity"]
+        }
+      ]
+    },
+    {
+      "id": "bolter",
+      "name": "Bolter & Grusin",
+      "category": "ms",
+      "works": [
+        {
+          "title": "Remediation: Understanding New Media",
+          "year": 1999,
+          "tags": ["Remediation", "Immediacy", "Hypermediacy", "New Media", "Media History"]
+        },
+        {
+          "title": "Writing Space",
+          "year": 1991,
+          "tags": ["Digital Writing", "Hypertext", "Technology History", "Literacy"]
+        }
+      ]
+    },
+    {
+      "id": "debord",
+      "name": "Debord",
+      "category": "ms",
+      "works": [
+        {
+          "title": "Society of the Spectacle",
+          "year": 1967,
+          "tags": ["Spectacle", "Commodity", "Capitalism", "Situationist", "Alienation"]
+        },
+        {
+          "title": "Comments on the Society of the Spectacle",
+          "year": 1988,
+          "tags": ["Integrated Spectacle", "Media", "Power", "Surveillance", "Control"]
+        }
+      ]
+    },
+    {
+      "id": "hall",
+      "name": "Hall",
+      "category": "ms",
+      "works": [
+        {
+          "title": "Encoding/Decoding",
+          "year": 1973,
+          "tags": ["Media Reception", "Audience", "Meaning", "Television", "Cultural Studies"]
+        },
+        {
+          "title": "Representation",
+          "year": 1997,
+          "tags": ["Culture", "Meaning", "Identity", "Race", "Visual Culture"]
+        }
+      ]
+    },
+    {
+      "id": "jenkins",
+      "name": "Jenkins",
+      "category": "ms",
+      "works": [
+        {
+          "title": "Convergence Culture",
+          "year": 2006,
+          "tags": ["Media Convergence", "Participatory Culture", "Transmedia", "Fan Culture", "Collective Intelligence"]
+        },
+        {
+          "title": "Textual Poachers",
+          "year": 1992,
+          "tags": ["Fan Studies", "Television", "Fandom", "Appropriation", "Participatory Culture"]
+        },
+        {
+          "title": "Spreadable Media",
+          "year": 2013,
+          "tags": ["Viral Media", "Participation", "Social Media", "Circulation", "Digital Culture"]
+        }
+      ]
+    },
+    {
+      "id": "mcluhan",
+      "name": "McLuhan",
+      "category": "ms",
+      "works": [
+        {
+          "title": "Understanding Media",
+          "year": 1964,
+          "tags": ["Medium is the Message", "Hot/Cool Media", "Global Village", "Extensions of Man", "Media Theory"]
+        },
+        {
+          "title": "The Gutenberg Galaxy",
+          "year": 1962,
+          "tags": ["Print Culture", "Typography", "Literacy", "Media Effects", "Technology"]
+        },
+        {
+          "title": "The Medium is the Massage",
+          "year": 1967,
+          "tags": ["Media Environment", "Visual Culture", "Typography", "Electric Age", "Sensorium"]
+        }
+      ]
+    },
+    {
+      "id": "mulvey",
+      "name": "Mulvey",
+      "category": "ms",
+      "works": [
+        {
+          "title": "Visual Pleasure and Narrative Cinema",
+          "year": 1975,
+          "tags": ["Male Gaze", "Psychoanalysis", "Feminist Film Theory", "Scopophilia", "Voyeurism"]
+        },
+        {
+          "title": "Death 24x a Second",
+          "year": 2006,
+          "tags": ["Film Theory", "Digital Cinema", "Stillness", "Movement", "Temporality"]
+        }
+      ]
+    },
+    {
+      "id": "williams",
+      "name": "Williams",
+      "category": "ms",
+      "works": [
+        {
+          "title": "Television: Technology and Cultural Form",
+          "year": 1974,
+          "tags": ["Flow", "Television", "Broadcasting", "Cultural Materialism", "Media Technology"]
+        },
+        {
+          "title": "Marxism and Literature",
+          "year": 1977,
+          "tags": ["Cultural Materialism", "Hegemony", "Structure of Feeling", "Dominant/Residual/Emergent"]
+        },
+        {
+          "title": "Culture and Society",
+          "year": 1958,
+          "tags": ["Cultural Theory", "Industrial Revolution", "Mass Culture", "Democracy", "History"]
+        }
+      ]
+    }
+  ]
+}

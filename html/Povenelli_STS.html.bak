@@ -1,0 +1,188 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Povenelli STS</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="script.js" defer></script>
+</head>
+<body>
+    <div class="theme-toggle" id="themeToggle" title="Toggle Dark/Light Mode">
+        ☀️
+    </div>
+    
+    <div class="container">
+        <header>
+            <a href="index.html" class="back-link">← Back to Author Catalog</a>
+            <h1>Povenelli STS</h1>
+            <span class="tag sts">STS</span>
+        </header>
+        
+        <div class="content">
+            <h1>A Spencer-Brown Inspired Ontological Model of Povinelli's "Geontologies"</h1>
+
+This report presents a structured ontological index of Elizabeth A. Povinelli's influential 2016 work "Geontologies: A Requiem to Late Liberalism" using Spencer-Brown's calculus of distinctions. By marking entities as distinctions (◻) and relationships as indications (→), we create a formal representation that illuminates the conceptual architecture of Povinelli's critique of late liberalism through the lens of geontology.
+
+<h2>Foundational Entities and Primary Distinctions</h2>
+
+<h3>Core Theoretical Constructs</h3>
+
+◻ <strong>Geontologies</strong>: Povinelli's 2016 book examining power through the lens of Life/Nonlife distinction
+
+◻ <strong>geontopower</strong>: Mode of power operating through regulation of the distinction between Life and Nonlife
+
+◻ <strong>biopolitics</strong>: Foucauldian concept found insufficient for understanding contemporary mechanisms of power
+
+◻ <strong>late liberalism</strong>: Current condition of governance of difference and markets that Povinelli maps
+
+◻ <strong>Life</strong>: Conceptual domain of biological existence in Western ontological framework
+
+◻ <strong>Nonlife</strong>: Conceptual domain of inanimate matter in Western ontological framework
+
+◻ <strong>biontology</strong>: The enclosure of existence characterized as endowed with qualities of Life
+
+<h3>Figures of Geontopower</h3>
+
+◻ <strong>Desert</strong>: Figure representing sites that once had life but now have none; scene of extractive exhaustion
+
+◻ <strong>Animist</strong>: Figure representing vitalism that collapses Nonlife into Life; the Aboriginal as archetypical example
+
+◻ <strong>Virus</strong>: Figure representing disruption of Life/Nonlife boundary; furthers its own propagation
+
+<h3>Key Conceptual Components</h3>
+
+◻ <strong>carbon imaginary</strong>: Central metaphor connected to Desert figure and climate crisis
+
+◻ <strong>settler late liberalism</strong>: Political formation employing geontopower and suppressing Indigenous ontologies
+
+◻ <strong>Anthropocene</strong>: Epoch that places geontology in sharper relief as crisis of accumulation and recognition
+
+◻ <strong>Indigenous Dreamings</strong>: Ontological frameworks that challenge Western Life/Nonlife distinctions
+
+<h2>Morphisms and Relational Structures</h2>
+
+<h3>Foundational Relationships</h3>
+
+◻ <strong>geontopower</strong> → <em>operates through</em> → ◻ <strong>regulation of Life/Nonlife distinction</strong>
+   <em>"A mode of power that operates through the regulation of the distinction between Life and Nonlife"</em>[3]
+
+◻ <strong>geontopower</strong> → <em>subtends</em> → ◻ <strong>biopower</strong>
+   <em>"Biopower (the governance through life and death) has long depended on a subtending geontopower (the difference between the lively and the inert)"</em>[5]
+
+◻ <strong>biopolitics</strong> → <em>is found inadequate by</em> → ◻ <strong>Povinelli</strong>
+   <em>"Finding Foucauldian biopolitics unable to adequately reveal contemporary mechanisms of power and governance"</em>[3][4][8]
+
+◻ <strong>late liberalism</strong> → <em>is subject of</em> → ◻ <strong>requiem</strong>
+   <em>"Geontologies: A Requiem to Late Liberalism"</em>[1][2][8]
+
+◻ <strong>Geontologies</strong> → <em>continues</em> → ◻ <strong>Povinelli's project of mapping late liberalism</strong>
+   <em>"Povinelli continues her project of mapping the current conditions of late liberalism"</em>[3][4][8]
+
+<h3>Figure-Function Relationships</h3>
+
+◻ <strong>Desert</strong> → <em>represents</em> → ◻ <strong>sites of extractive exhaustion</strong>
+   <em>"The desert is a site that once had life and now has none; it is the scene of extractive exhaustion"</em>[5]
+
+◻ <strong>Animist</strong> → <em>collapses</em> → ◻ <strong>Life and Nonlife distinction</strong>
+   <em>"The animist, conversely, is the figure of vitalism, and is thus one who collapses Nonlife into Life"</em>[5]
+
+◻ <strong>Virus</strong> → <em>disrupts</em> → ◻ <strong>Life and Nonlife boundary</strong>
+   <em>"The final figure, the virus or terrorist, is the antagonist who disrupts this boundary"</em>[5]
+
+◻ <strong>carbon imaginary</strong> → <em>serves as</em> → ◻ <strong>central image of Desert</strong>
+   <em>"The desert is a site that once had life and now has none; it is the scene of extractive exhaustion, and its central image is that of the carbon imaginary"</em>[5]
+
+<h2>Complex Conceptual Structures</h2>
+
+<h3>Governance of Difference Framework</h3>
+
+◻ <strong>late liberalism</strong> → <em>governs through</em> → ◻ <strong>autological/genealogical distinction</strong>
+   <em>"Povinelli theorized the biopolitical cunning of multicultural recognition, which sorts settler societies into those who are autological subjects and those who are members of the genealogical society"</em>[5]
+
+◻ <strong>autological subjects</strong> → <em>are</em> → ◻ <strong>stakeholders of geontopower</strong>
+   <em>"It is autological subjects who also 'abide by the fundamental separation of Life and Nonlife,' and are thus the 'stakeholders' and 'sovereign people of geontopower'"</em>[5]
+
+◻ <strong>genealogical society</strong> → <em>consists of</em> → ◻ <strong>tradition-bound subjects</strong>
+   <em>"Subjects of descent who are socially determined and constrained by their traditional obligations to the past and to each other"</em>[5]
+
+◻ <strong>geontology</strong> → <em>clarifies</em> → ◻ <strong>governance of difference in late liberalism</strong>
+   <em>"Introducing geontology allows Povinelli to clarify the governance of difference in late liberalism"</em>[5]
+
+<h3>Ontological Challenge Framework</h3>
+
+◻ <strong>Indigenous forms of existence</strong> → <em>refuse incorporation into</em> → ◻ <strong>Western theory vocabularies</strong>
+   <em>"In asking how these different forms of existence refuse incorporation into the vocabularies of Western theory"</em>[3][4][8]
+
+◻ <strong>Two Women Sitting Down</strong> → <em>troubles</em> → ◻ <strong>biontology of western philosophy</strong>
+   <em>"The totemic dreamings of Two Women Sitting Down and Old Man Rock trouble the underlying biophilosophy and biontology of western philosophy and the sciences"</em>[5]
+
+◻ <strong>Nonlife</strong> → <em>created</em> → ◻ <strong>Life</strong>
+   <em>"Nonlife 'created what it is radically not, Life, and will in time fold this extension of itself back into itself'"</em>[5]
+
+◻ <strong>Life</strong> → <em>is merely a moment in</em> → ◻ <strong>unfolding of Nonlife</strong>
+   <em>"Life is merely a moment in the greater dynamic unfolding of Nonlife"</em>[5]
+
+<h3>Anthropocene Framework</h3>
+
+◻ <strong>Anthropocene</strong> → <em>places in relief</em> → ◻ <strong>geontology</strong>
+   <em>"Povinelli argues that the Anthropocene places geontology in sharper relief"</em>[5]
+
+◻ <strong>critical languages</strong> → <em>can unwittingly entrench</em> → ◻ <strong>geontopower</strong>
+   <em>"Our contemporary critical languages—anthropogenic climate change, plasticity, new materialism, antinormativity—often unwittingly transform their struggles against geontopower into a deeper entwinement within it"</em>[3][4][8]
+
+◻ <strong>contemporary western philosophy</strong> → <em>fails to challenge</em> → ◻ <strong>discourse of geontopower</strong>
+   <em>"Agamben's biopolitics and Bennett's vitalism risk 'reiterating rather than challenging the discourse and strategy of geontopower'"</em>[5]
+
+<h2>Case Studies and Indigenous Perspectives</h2>
+
+<h3>Belyuen Dreamings</h3>
+
+◻ <strong>Tjipel</strong> → <em>exemplifies</em> → ◻ <strong>geontological challenge</strong>
+   <em>"Povinelli places biology, semiosis, theories of vitalism, pragmatism, and object-ontology... in conversation with Tjipel, tjelbak snakes, and other Dreamings"</em>[5]
+
+◻ <strong>tjelbak snake Dreamings</strong> → <em>challenge</em> → ◻ <strong>Kohn's extension of semiosis</strong>
+   <em>"Povinelli explores tjelbak snake Dreamings to challenge Kohn's extension of semiosis to nonhuman entities"</em>[5]
+
+◻ <strong>settler Australians</strong> → <em>desire</em> → ◻ <strong>stories about totemic Dreamings</strong>
+   <em>"Not because they challenge the ontological presumptions of settler governance, but because they exemplify a performance of difference"</em>[5]
+
+<h3>Karrabing Film Collective</h3>
+
+◻ <strong>Karrabing Film Collective</strong> → <em>is example of</em> → ◻ <strong>virus figure</strong>
+   <em>"Povinelli identifies Ebola, the Islamic Terrorist, and her own work with the Karrabing Collective as iterations of the virus"</em>[5]
+
+◻ <strong>Povinelli's ethnographic work</strong> → <em>emerges from</em> → ◻ <strong>cramped space of late liberal governance</strong>
+   <em>"Geontopower is not a concept first and an application to my friends' worlds second, but a concept that emerges from what late liberal governance looks like from this cramped space"</em>[5]
+
+<h2>Conclusion</h2>
+
+This Spencer-Brown inspired ontological model captures the rich theoretical framework of Povinelli's "Geontologies." Through formal distinctions (◻) and indications (→), we visualize how Povinelli reconceptualizes power as operating through the Life/Nonlife distinction, a form of geontopower that subtends biopolitics. The model highlights the three figures of geontopower—Desert, Animist, and Virus—while tracing Povinelli's argument that contemporary critical languages often unwittingly reinforce the very system they aim to critique. By examining Indigenous Australian maneuvers against the settler state, Povinelli reveals how different forms of existence resist incorporation into Western theoretical vocabularies and suggests a radical potential in Nonlife as "merely a moment in the greater dynamic unfolding of Nonlife."
+
+Citations:
+[1] https://journals.sagepub.com/doi/10.1177/2399654419875148
+[2] https://www.goodreads.com/book/show/28691716-geontologies
+[3] https://books.apple.com/us/book/geontologies/id1152546967
+[4] https://www.americanacademy.de/elizabeth-povinelli/
+[5] https://www.societyandspace.org/articles/geontologies-by-elizabeth-povinelli
+[6] https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/9/19778/files/2021/12/cc-spencer-brown_vendicated.pdf
+[7] https://averyreview.com/issues/21/translating-geontologies
+[8] https://read.dukeupress.edu/books/book/30/GeontologiesA-Requiem-to-Late-Liberalism
+[9] https://joaocamillopenna.wordpress.com/wp-content/uploads/2018/03/povinelli-geontologies-a-requiem-to-late-liberalism-1.pdf
+[10] https://www.abebooks.com/9780822362333/Geontologies-Requiem-Late-Liberalism-Povinelli-0822362333/plp
+[11] https://www.dukeupress.edu/geontologies
+[12] https://events.sjc.edu/event/deans-lecture-series-elizabeth-povinelli-columbia-university
+[13] https://media.icamiami.org/2020/07/8724368d-povinelli-elizabeth-a-geontologies-a-requiem-to-late-liberalism-2.pdf
+[14] https://www.e-flux.com/architecture/sick-architecture/352870/the-virus-figure-and-infrastructure/
+
+---
+Answer from Perplexity: https://www.perplexity.ai/search/sts-ms-cat-core-26eOjT2rQjiRqIxKt6q3GA?utm_source=copy_output
+        </div>
+        
+        <footer>
+            <p>Part of the Reality Media Explorer project</p>
+            <p>Created with STS_MS_CAT_CORE HTML Converter</p>
+        </footer>
+    </div>
+</body>
+</html>

@@ -1,0 +1,186 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hayles N MS</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="script.js" defer></script>
+</head>
+<body>
+    <div class="theme-toggle" id="themeToggle" title="Toggle Dark/Light Mode">
+        ☀️
+    </div>
+    
+    <div class="container">
+        <header>
+            <a href="index.html" class="back-link">← Back to Author Catalog</a>
+            <h1>Hayles N MS</h1>
+            <span class="tag ms">MS</span>
+        </header>
+        
+        <div class="content">
+            <h1>A Spencer-Brown Inspired Ontological Model of Hayles' "How We Think"</h1>
+
+This report presents a structured ontological index of N. Katherine Hayles' influential 2012 work "How We Think: Digital Media and Contemporary Technogenesis" using Spencer-Brown's calculus of distinctions. By marking entities as distinctions (◻) and relationships as indications (→), we create a formal representation that illuminates the conceptual architecture of Hayles' examination of how digital technologies transform human cognition and academic practices.
+
+<h2>Foundational Entities and Primary Distinctions</h2>
+
+<h3>Core Theoretical Constructs</h3>
+
+◻ <strong>How We Think</strong>: Hayles' 2012 book examining how digital media transforms cognition and scholarship
+
+◻ <strong>technogenesis</strong>: The concept that humans and technics have coevolved together
+
+◻ <strong>comparative media studies</strong>: Framework locating digital work within print traditions and vice versa
+
+◻ <strong>digital humanities</strong>: Field representing intersection of computing with humanities scholarship
+
+◻ <strong>media-specific practices</strong>: Actions and methods tied to particular technological platforms
+
+◻ <strong>extended cognition</strong>: Human thought enmeshed within larger networks beyond individual minds
+
+◻ <strong>embodied interaction</strong>: Physical engagement with digital technologies having material effects
+
+<h3>Reading Modalities</h3>
+
+◻ <strong>close reading</strong>: Traditional humanities practice analyzing individual texts in detail
+
+◻ <strong>hyper reading</strong>: Rapid scanning, filtering, and keyword-spotting across multiple texts
+
+◻ <strong>machine reading</strong>: Computational analysis revealing patterns across large text corpora
+
+◻ <strong>pattern recognition</strong>: Identification of meaningful structures across distributed information
+
+<h3>Temporality Constructs</h3>
+
+◻ <strong>contemporary temporality</strong>: Changed perception of time in digital environments
+
+◻ <strong>complex temporalities</strong>: Multiple, overlapping time scales in digital interactions
+
+◻ <strong>human temporal processing</strong>: Cognitive engagement with digital time scales
+
+◻ <strong>technical temporalities</strong>: Machine processing speeds and algorithmic timeframes
+
+<h2>Morphisms and Relational Structures</h2>
+
+<h3>Foundational Relationships</h3>
+
+◻ <strong>humans</strong> → <em>think through, with, and alongside</em> → ◻ <strong>media</strong>
+   <em>"How do we think? N. Katherine Hayles poses this question at the beginning of this bracing exploration of the idea that we think through, with, and alongside media"[1]</em>
+
+◻ <strong>human cognition</strong> → <em>coevolves with</em> → ◻ <strong>technological systems</strong>
+   <em>"Hayles argues for contemporary technogenesis—the belief that humans and technics are coevolving"[1]</em>
+
+◻ <strong>digital technologies</strong> → <em>have material effects on</em> → ◻ <strong>human bodies</strong>
+   <em>"Our interactions with digital media are embodied, and they have bodily effects at the physical level"[13]</em>
+
+◻ <strong>technological change</strong> → <em>alters</em> → ◻ <strong>reading practices</strong>
+   <em>"A major shift that digital media have enabled is dethroning close reading as the gold-standard methodology in the humanities and augmenting it with hyper and machine reading"[7]</em>
+
+<h3>Academic Practice Framework</h3>
+
+◻ <strong>digital scholarship</strong> → <em>grows apart from</em> → ◻ <strong>print-based scholarship</strong>
+   <em>"With a rift growing between digital scholarship and its print-based counterpart, Hayles argues for contemporary technogenesis"[1]</em>
+
+◻ <strong>comparative media studies</strong> → <em>bridges</em> → ◻ <strong>print and digital traditions</strong>
+   <em>"Comparative Media Studies provides a rubric within which the interests of print-based and digital humanities scholars can come together"[13]</em>
+
+◻ <strong>digital-based scholars</strong> → <em>store information in</em> → ◻ <strong>databases rather than discursive forms</strong>
+   <em>"The scholar who works in digital media is likely to store data in databases rather than express it discursively"[13]</em>
+
+◻ <strong>digital materials</strong> → <em>require</em> → ◻ <strong>new navigation structures</strong>
+   <em>"While navigation in print is highly constrained... in web research navigation may occur in a wide variety of ways"[13]</em>
+
+<h2>Complex Conceptual Structures</h2>
+
+<h3>Extended Cognition Framework</h3>
+
+◻ <strong>keyboard</strong> → <em>becomes</em> → ◻ <strong>extension of thoughts</strong>
+   <em>"The more one works with digital technologies... the more the keyboard comes to seem an extension of one's thoughts rather than an external device on which one types"[13]</em>
+
+◻ <strong>human agency</strong> → <em>becomes enmeshed within</em> → ◻ <strong>larger networks</strong>
+   <em>"Embodiment then takes the form of extended cognition, in which human agency and thought are enmeshed within larger networks that extend beyond the desktop computer into the environment"[13]</em>
+
+◻ <strong>technical objects</strong> → <em>function as</em> → ◻ <strong>temporary coalescences in conflicting forces</strong>
+   <em>"Hayles proposes to see 'technical objects as temporary coalescences in fields of conflicting and cooperating forces'"[5][10]</em>
+
+<h3>Reading Transformation Framework</h3>
+
+◻ <strong>close reading</strong> → <em>is supplemented by</em> → ◻ <strong>hyper and machine reading</strong>
+   <em>"A major shift that digital media have enabled is dethroning close reading as the gold-standard methodology in the humanities and augmenting it with hyper and machine reading"[7]</em>
+
+◻ <strong>machine reading</strong> → <em>makes visible</em> → ◻ <strong>patterns for human interpretation</strong>
+   <em>"Machine reading might be a first pass toward making visible patterns that human reading could then interpret"[3]</em>
+
+◻ <strong>multiple reading forms</strong> → <em>open</em> → ◻ <strong>new cognitive possibilities</strong>
+   <em>"Opening new possibilities for cognition and for critical thought"[3]</em>
+
+<h3>Scholarly Evolution Framework</h3>
+
+◻ <strong>scholar transition</strong> → <em>moves through</em> → ◻ <strong>increasingly sophisticated engagement levels</strong>
+   <em>"So far I have been speaking of lower levels of engagement, carried out every day by millions of people. Scholars are among those who frequently enact more sophisticated activities in digital media"[13]</em>
+
+◻ <strong>print-only scholars</strong> → <em>exist on continuum with</em> → ◻ <strong>digital media scholars</strong>
+   <em>"At one end of the spectrum are scholars content to work only in print. Further toward the middle are those have begun to use digital technologies"[13]</em>
+
+◻ <strong>digital work</strong> → <em>transforms</em> → ◻ <strong>scholarly priorities and assumptions</strong>
+   <em>"Adopting this perspective requires rethinking priorities and assumptions on so many levels that it is more like peeling an onion than arriving at a decision"[13]</em>
+
+<h2>Case Studies and Historical Applications</h2>
+
+<h3>Telegraph as Technogenesis Example</h3>
+
+◻ <strong>telegraph code books</strong> → <em>demonstrate</em> → ◻ <strong>early technogenetic feedback loops</strong>
+   <em>"Telegraph code books demonstrate that changed relations of language and code, bodily practices and technocratic regimes, and messages and cultural imaginaries created technogenetic feedback loops"[13]</em>
+
+◻ <strong>telegraphy</strong> → <em>anticipated</em> → ◻ <strong>epigenetic changes of digital technologies</strong>
+   <em>"Telegraphy anticipated the epigenetic changes associated with digital technologies, especially fast communication and the virtualization of commodities"[13]</em>
+
+◻ <strong>operator physiology</strong> → <em>was disciplined by</em> → ◻ <strong>telegraph technology</strong>
+   <em>"The telegraph required human operators who were physiologically disciplined to correctly hear and reproduce telegraph beep tones within very short intervals"[8]</em>
+
+<h3>Literary Analysis Examples</h3>
+
+◻ <strong>literary case studies</strong> → <em>include</em> → ◻ <strong>TOC, The Raw Shark Texts, and Only Revolutions</strong>
+   <em>"She is illustrating this through three innovative digital works: Steve Tomasula's electronic novel, TOC; Steven Hall's The Raw Shark Texts; and Mark Z. Danielewski's Only Revolutions"[8]</em>
+
+◻ <strong>spatial exploration</strong> → <em>is enabled by</em> → ◻ <strong>digital technologies</strong>
+   <em>"GIS mapping, GPS technologies, and their connections with networked and programmable machines have created a culture of spatial exploration in digital media"[13]</em>
+
+◻ <strong>narrative</strong> → <em>interacts with</em> → ◻ <strong>database structures</strong>
+   <em>"She also explores how the database offers an alternative to narrative as a structure for arranging knowledge"[8]</em>
+
+<h2>Conclusion</h2>
+
+This Spencer-Brown inspired ontological model captures the rich theoretical framework of Hayles' "How We Think." Through formal distinctions (◻) and indications (→), we visualize how Hayles conceptualizes the coevolution of human cognition and digital technologies, the transformation of reading practices, and the changing landscape of humanities scholarship. The model highlights her central argument that digital media fundamentally alters not just how we access information but how we think, with profound implications for academic practice and knowledge production in the humanities.
+
+Citations:
+[1] https://press.uchicago.edu/ucp/books/book/chicago/H/bo5437533.html
+[2] http://cconlinejournal.org/fall14/reviews/Troxell/Home.html
+[3] https://journals.sagepub.com/doi/full/10.1177/0263276418818884
+[4] https://stateofthediscipline.acla.org/entry/paradigm-shift-comparative-humanities-digital-humanities-pedagogy-new-media-technology-and
+[5] https://www.invisibleculturejournal.com/pub/how-we-think-digital-media-and-contemporary-technogenesis
+[6] https://www.torosceviri.info/wp-content/uploads/2022/10/Ken-Hyland-Academic-Discourse_-English-In-A-Global-Context-Continuum-2009.pdf
+[7] https://www.digitalhumanities.org/dhq/vol/12/1/000369/000369.html
+[8] http://www.yorku.ca/caitlin/futurecinemas/?p=3898
+[9] https://www.bsls.ac.uk/2018/08/n-katherine-hayles-unthought-the-power-of-the-cognitive-nonconscious/
+[10] https://www.proquest.com/scholarly-journals/how-we-think-digital-media-contemporary/docview/1771536885/se-2
+[11] https://www.creativeleadership.net/blog/academic-discourse-beyond-turn-and-talk
+[12] https://literature.duke.edu/books/how-we-think-digital-media-and-contemporary-technogenesis
+[13] https://dms484.files.wordpress.com/2017/01/hayles-how-we-think.pdf
+[14] http://www.yorku.ca/caitlin/futurecinemas/?p=3887
+[15] https://books.google.com/books/about/How_We_Think.html?id=hdHJMV3u09oC
+[16] https://lab.cccb.org/en/katherine-hayles-we-need-a-more-comprehensive-view-of-cognition/
+
+---
+Answer from Perplexity: https://www.perplexity.ai/search/sts-ms-cat-core-26eOjT2rQjiRqIxKt6q3GA?utm_source=copy_output
+        </div>
+        
+        <footer>
+            <p>Part of the Reality Media Explorer project</p>
+            <p>Created with STS_MS_CAT_CORE HTML Converter</p>
+        </footer>
+    </div>
+</body>
+</html>

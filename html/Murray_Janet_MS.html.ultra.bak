@@ -1,0 +1,165 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Murray Janet MS</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="script.js" defer></script>
+</head>
+<body>
+    <div class="theme-toggle" id="themeToggle" title="Toggle Dark/Light Mode">
+        ☀️
+    </div>
+    
+    <div class="container">
+        <header>
+            <a href="index.html" class="back-link">← Back to Author Catalog</a>
+            <h1>Murray Janet MS</h1>
+            <span class="tag ms">MS</span>
+        </header>
+        
+        <div class="content" >
+            <h1>A Spencer-Brown Inspired Ontological Model of Murray's "Hamlet on the Holodeck"</h1>
+
+This report presents a structured ontological index of Janet H. Murray's influential 1997/2017 work "Hamlet on the Holodeck: The Future of Narrative in Cyberspace" using Spencer-Brown's calculus of distinctions. By marking entities as distinctions (◻) and relationships as indications (→), we create a formal representation that illuminates the conceptual architecture of Murray's analysis of storytelling in digital environments.
+
+<h2>Foundational Entities and Primary Distinctions</h2>
+
+<h3>Core Theoretical Constructs</h3>
+
+◻ <strong>Hamlet on the Holodeck</strong>: Murray's analysis of digital technology's influence on narrative
+
+◻ <strong>holodeck</strong>: Star Trek concept representing an optimistic technology for exploring inner life
+
+◻ <strong>cyberdrama</strong>: Emerging narrative form unique to digital environments
+
+◻ <strong>multiform story</strong>: Narrative with multiple variations within a single framework
+
+◻ <strong>participatory narrative</strong>: Stories where audiences actively engage in shaping outcomes
+
+◻ <strong>procedural authorship</strong>: Creation method utilizing computational rules to generate experiences
+
+◻ <strong>narrative in cyberspace</strong>: Storytelling transformed by digital technologies
+
+◻ <strong>immersive experience</strong>: Sensation of being transported into another reality
+
+<h3>Digital Environment Properties</h3>
+
+◻ <strong>procedural property</strong>: Ability to execute rule-based representations
+
+◻ <strong>participatory property</strong>: Capability for user interaction and input
+
+◻ <strong>spatial property</strong>: Navigable representation of physical space
+
+◻ <strong>encyclopedic property</strong>: Capacity to contain vast amounts of information
+
+<h2>Morphisms and Relational Structures</h2>
+
+<h3>Foundational Relationships</h3>
+
+◻ <strong>digital environments</strong> → <em>possess</em> → ◻ <strong>four essential properties</strong>
+   <em>"Murray identifies four essential properties of digital environments: procedural, participatory, spatial, and encyclopedic"<a href="#citation-1" class="citation-number"><a href="#citation-1" class="citation-number">[1]</a></a></em>
+
+◻ <strong>holodeck</strong> → <em>represents</em> → ◻ <strong>future of storytelling</strong>
+   <em>"Murray states that this illustrates the future of storytelling and that the holodeck is 'an optimistic technology for exploring inner life'"<a href="#citation-1" class="citation-number"><a href="#citation-1" class="citation-number">[1]</a></a></em>
+
+◻ <strong>computer</strong> → <em>is</em> → ◻ <strong>"child of print culture"</strong>
+   <em>"The computer is not the enemy of the book. It is the child of print culture"<a href="#citation-3" class="citation-number"><a href="#citation-3" class="citation-number">[3]</a></a></em>
+
+◻ <strong>immersive experiences</strong> → <em>are</em> → ◻ <strong>fragile and easily disrupted</strong>
+   <em>"Murray examines immersive experiences, which she describes as fragile and easily disrupted"<a href="#citation-1" class="citation-number"><a href="#citation-1" class="citation-number">[1]</a></a></em>
+
+<h3>Narrative Evolution Framework</h3>
+
+◻ <strong>traditional narrative</strong> → <em>evolves into</em> → ◻ <strong>interactive narrative</strong>
+   <em>"Murray explores how narratives may change in stories based on new interactive mediums"<a href="#citation-1" class="citation-number"><a href="#citation-1" class="citation-number">[1]</a></a></em>
+
+◻ <strong>linear storytelling</strong> → <em>transforms into</em> → ◻ <strong>participatory storytelling</strong>
+   <em>"She argues that while linear storytelling provides a fixed narrative, interactive storytelling allows the audience to participate in the narrative"<a href="#citation-4" class="citation-number"><a href="#citation-4" class="citation-number">[4]</a></a></em>
+
+◻ <strong>technical innovations</strong> → <em>enable</em> → ◻ <strong>new artistic traditions</strong>
+   <em>"Taking the long view of artistic innovation over decades and even centuries, it remains forward-looking in its description of the development of new artistic traditions of practice"<a href="#citation-2" class="citation-number"><a href="#citation-2" class="citation-number">[2]</a></a></em>
+
+◻ <strong>computing</strong> → <em>offers</em> → ◻ <strong>expressive affordances for storytelling</strong>
+   <em>"Murray identifies the powerful new set of expressive affordances that computing offers for the ancient human activity of storytelling"<a href="#citation-5" class="citation-number"><a href="#citation-5" class="citation-number">[5]</a></a></em>
+
+<h2>Complex Conceptual Structures</h2>
+
+<h3>Agency and Immersion Framework</h3>
+
+◻ <strong>agency</strong> → <em>defined as</em> → ◻ <strong>"satisfying power to take meaningful action"</strong>
+   <em>"She also explores agency, which she defines as 'the satisfying power to take meaningful action and see the results of our decisions and choices'"<a href="#citation-1" class="citation-number"><a href="#citation-1" class="citation-number">[1]</a></a></em>
+
+◻ <strong>immersion</strong> → <em>creates</em> → ◻ <strong>sensation of being transported</strong>
+   <em>"Immersive experiences, which she describes as fragile and easily disrupted"<a href="#citation-1" class="citation-number"><a href="#citation-1" class="citation-number">[1]</a></a></em>
+
+◻ <strong>transformation</strong> → <em>allows</em> → ◻ <strong>technology to change digital elements</strong>
+   <em>"She also explores... the ability of technology to transform anything digital"<a href="#citation-1" class="citation-number"><a href="#citation-1" class="citation-number">[1]</a></a></em>
+
+◻ <strong>participation</strong> → <em>replaces</em> → ◻ <strong>passive spectatorship</strong>
+   <em>"The term 'participatory culture' contrasts with older notions of passive media spectatorship"<a href="#citation-4" class="citation-number"><a href="#citation-4" class="citation-number">[4]</a></a></em>
+
+<h3>Aesthetic Paradigms Framework</h3>
+
+◻ <strong>encyclopedic paradigm</strong> → <em>focuses on</em> → ◻ <strong>creating vast narrative worlds</strong>
+   <em>"The encyclopedic paradigm focuses on creating vast and detailed narrative worlds"<a href="#citation-4" class="citation-number"><a href="#citation-4" class="citation-number">[4]</a></a></em>
+
+◻ <strong>participatory paradigm</strong> → <em>emphasizes</em> → ◻ <strong>audience's active role</strong>
+   <em>"The participatory paradigm emphasizes the audience's active role in shaping the narrative"<a href="#citation-4" class="citation-number"><a href="#citation-4" class="citation-number">[4]</a></a></em>
+
+◻ <strong>procedural paradigm</strong> → <em>explores</em> → ◻ <strong>algorithms generating narratives</strong>
+   <em>"The procedural paradigm explores the use of algorithms and rules to generate narrative outcomes"<a href="#citation-4" class="citation-number"><a href="#citation-4" class="citation-number">[4]</a></a></em>
+
+◻ <strong>spatial paradigm</strong> → <em>enables</em> → ◻ <strong>navigable story environments</strong>
+   <em>"Four essential properties of digital environments: procedural, participatory, spatial, and encyclopedic"<a href="#citation-1" class="citation-number"><a href="#citation-1" class="citation-number">[1]</a></a></em>
+
+<h3>Book Structure and Reception Framework</h3>
+
+◻ <strong>original 1997 edition</strong> → <em>was both</em> → ◻ <strong>praised and condemned</strong>
+   <em>"The first publication of Hamlet on the Holodeck was published in 1997 and was both praised and condemned by literary critics"<a href="#citation-1" class="citation-number"><a href="#citation-1" class="citation-number">[1]</a></a></em>
+
+◻ <strong>updated 2017 edition</strong> → <em>includes</em> → ◻ <strong>chapter-by-chapter commentary</strong>
+   <em>"This updated edition of a book the New Yorker calls a 'cult classic' offers a new introduction by Murray and chapter-by-chapter commentary"<a href="#citation-2" class="citation-number"><a href="#citation-2" class="citation-number">[2]</a></a><a href="#citation-5" class="citation-number"><a href="#citation-5" class="citation-number">[5]</a></a></em>
+
+◻ <strong>Murray's predictions</strong> → <em>were initially seen as</em> → ◻ <strong>controversial</strong>
+   <em>"When the media scholar Janet H. Murray was asked to write a new preface to 'Hamlet on the Holodeck,' her influential book, from 1997, about digital narrative, she was tempted to make it three words long: 'I was right!'"<a href="#citation-6" class="citation-number"><a href="#citation-6" class="citation-number">[6]</a></a></em>
+
+◻ <strong>book</strong> → <em>provoked</em> → ◻ <strong>foundational game studies debate</strong>
+   <em>"It provoked a foundational debate in the emerging field of game studies on the relationship between narrative and videogames"<a href="#citation-5" class="citation-number"><a href="#citation-5" class="citation-number">[5]</a></a></em>
+
+<h2>Conclusion</h2>
+
+This Spencer-Brown inspired ontological model captures the rich theoretical framework of Murray's "Hamlet on the Holodeck." Through formal distinctions (◻) and indications (→), we visualize how Murray conceptualizes the evolution of storytelling from traditional forms to interactive digital narratives. The model highlights her identification of the four essential properties of digital environments and how they create new possibilities for narrative expression. This structured index reveals the continuing relevance of Murray's analysis for understanding the development of interactive storytelling across various digital platforms, from video games to virtual reality experiences.
+
+Citations:
+<a href="#citation-1" class="citation-number"><a href="#citation-1" class="citation-number">[1]</a></a> https://en.wikipedia.org/wiki/Hamlet_on_the_Holodeck
+<a href="#citation-2" class="citation-number"><a href="#citation-2" class="citation-number">[2]</a></a> https://www.barnesandnoble.com/w/hamlet-on-the-holodeck-updated-edition-janet-h-murray/1137255945
+<a href="#citation-3" class="citation-number"><a href="#citation-3" class="citation-number">[3]</a></a> https://www.kirkusreviews.com/book-reviews/janet-h-murray/hamlet-on-the-holodeck/
+<a href="#citation-4" class="citation-number"><a href="#citation-4" class="citation-number">[4]</a></a> https://www.blinkist.com/en/books/hamlet-on-the-holodeck-en
+<a href="#citation-5" class="citation-number"><a href="#citation-5" class="citation-number">[5]</a></a> https://www.annamonteverdi.it/digital/hamlet-on-the-holodeck-updated-edition-the-future-of-narrative-in-cyberspace-by-janet-h-murray/
+<a href="#citation-6" class="citation-number"><a href="#citation-6" class="citation-number">[6]</a></a> https://iac.gatech.edu/news/item/595850/hamlet-holodeck-years-later
+<a href="#citation-7" class="citation-number"><a href="#citation-7" class="citation-number">[7]</a></a> https://www.clockworks2.org/wiki/index.php?title=Hamlet_on_the_Holodeck%3A_The_Future_of_Narrative_in_Cyberspace
+<a href="#citation-8" class="citation-number"><a href="#citation-8" class="citation-number">[8]</a></a> https://www.rizzolibookstore.com/product/hamlet-holodeck-updated-edition-future-narrative-cyberspace-updated
+<a href="#citation-9" class="citation-number"><a href="#citation-9" class="citation-number">[9]</a></a> http://www.littlereview.com/getcritical/tvbooks/hamletho.htm
+<a href="#citation-10" class="citation-number"><a href="#citation-10" class="citation-number">[10]</a></a> https://books.google.com/books/about/Hamlet_on_the_Holodeck.html?id=bzmSLtnMZJsC
+<a href="#citation-11" class="citation-number"><a href="#citation-11" class="citation-number">[11]</a></a> https://www.complete-review.com/reviews/murrayjh/hamlet.htm
+<a href="#citation-12" class="citation-number"><a href="#citation-12" class="citation-number">[12]</a></a> https://mitpress.mit.edu/9780262631877/hamlet-on-the-holodeck/
+<a href="#citation-13" class="citation-number"><a href="#citation-13" class="citation-number">[13]</a></a> https://dl.acm.org/doi/10.5555/572887
+<a href="#citation-14" class="citation-number"><a href="#citation-14" class="citation-number">[14]</a></a> https://mitpress.mit.edu/9780262533485/hamlet-on-the-holodeck/
+<a href="#citation-15" class="citation-number"><a href="#citation-15" class="citation-number">[15]</a></a> https://prezi.com/kgmip89lgtqr/hamlet-on-the-holodeck/
+<a href="#citation-16" class="citation-number"><a href="#citation-16" class="citation-number">[16]</a></a> https://cdn.prod.website-files.com/65ffd628a5efd4c62c4916e6/673443f0ab65135f5e7a1272_tijuwofawugafedazijugaxel.pdf
+<a href="#citation-17" class="citation-number"><a href="#citation-17" class="citation-number">[17]</a></a> https://www.goodreads.com/book/show/31850799
+<a href="#citation-18" class="citation-number"><a href="#citation-18" class="citation-number">[18]</a></a> https://www.abebooks.com/9780262533485/Hamlet-Holodeck-updated-edition-Future-0262533480/plp
+<a href="#citation-19" class="citation-number"><a href="#citation-19" class="citation-number">[19]</a></a> https://inventingthemedium.com/2016/03/07/hamlet-on-the-holodeck-updated-ebook/
+
+---
+        </div>
+        
+        <footer>
+            <p>Part of the Reality Media Explorer project</p>
+            <p>Created with STS_MS_CAT_CORE HTML Converter</p>
+        </footer>
+    </div>
+</body>
+</html>

@@ -1,0 +1,158 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Nelson Ted MS</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="script.js" defer></script>
+</head>
+<body>
+    <div class="theme-toggle" id="themeToggle" title="Toggle Dark/Light Mode">
+        ☀️
+    </div>
+    
+    <div class="container">
+        <header>
+            <a href="index.html" class="back-link">← Back to Author Catalog</a>
+            <h1>Nelson Ted MS</h1>
+            <span class="tag ms">MS</span>
+        </header>
+        
+        <div class="content" >
+            <h1>A Spencer-Brown Inspired Ontological Model of Nelson's "Computer Lib/Dream Machines"</h1>
+
+This report presents a structured ontological index of Ted Nelson's influential 1974 work "Computer Lib/Dream Machines" (excerpted in The New Media Reader, 2003) using Spencer-Brown's calculus of distinctions. By marking entities as distinctions (◻) and relationships as indications (→), we create a formal representation that illuminates the conceptual architecture of Nelson's revolutionary vision for computing.
+
+<h2>Foundational Entities and Primary Distinctions</h2>
+
+<h3>Core Theoretical Constructs</h3>
+
+◻ <strong>Computer Lib/Dream Machines</strong>: Nelson's 1974 dual-natured book functioning as manifesto and vision
+
+◻ <strong>computer liberation</strong>: Philosophy advocating freedom from institutional computing controls
+
+◻ <strong>cybercrud</strong>: Practice of using computers to intimidate or mislead people
+
+◻ <strong>hypertext</strong>: Non-sequential writing that branches and allows reader choice
+
+◻ <strong>intertwingularity</strong>: Inherent interconnectedness of all knowledge domains
+
+◻ <strong>fantics</strong>: The art and science of getting ideas across, both cognitively and emotionally
+
+◻ <strong>dream machine</strong>: Technology that enables creative expression and vision
+
+<h3>Structural Components</h3>
+
+◻ <strong>Computer Lib</strong>: First half of the book focusing on demystifying computers
+
+◻ <strong>Dream Machines</strong>: Second half envisioning creative futures of computing
+
+◻ <strong>dual-book structure</strong>: Physical format with two front covers meeting in the middle
+
+◻ <strong>magazine-like layout</strong>: Unconventional design with multiple visual elements
+
+◻ <strong>computer priesthood</strong>: Institutional gatekeepers of computing knowledge
+
+◻ <strong>IBM</strong>: Embodiment of centralized computing power that Nelson opposed
+
+<h2>Morphisms and Relational Structures</h2>
+
+<h3>Foundational Relationships</h3>
+
+◻ <strong>Computer Lib</strong> → <em>challenges</em> → ◻ <strong>computer priesthood</strong>
+   <em>"He exhorted his readers to defy the computer priesthood, and its then-leader IBM, and to never accept, 'The computer doesn't work that way' as an answer again"<a href="#citation-1" class="citation-number"><a href="#citation-1" class="citation-number">[1]</a></a></em>
+
+◻ <strong>Dream Machines</strong> → <em>presents</em> → ◻ <strong>visions of creative computing</strong>
+   <em>"Dream Machines is about the potential of computers to become engines of creativity, with graphics, multimedia, animation, hypertext, the whole works"<a href="#citation-2" class="citation-number"><a href="#citation-2" class="citation-number">[2]</a></a></em>
+
+◻ <strong>computers</strong> → <em>should be</em> → ◻ <strong>accessible to everyone</strong>
+   <em>"Any nitwit can understand computers, and many do. Unfortunately, due to ridiculous historical circumstances, computers have been made a mystery to most of the world"<a href="#citation-1" class="citation-number"><a href="#citation-1" class="citation-number">[1]</a></a></em>
+
+◻ <strong>computer</strong> → <em>is</em> → ◻ <strong>changeable device for twiddling symbols</strong>
+   <em>"Feel free to begin here. The other side is just if you want to know more about computers, which are changeable devices for twiddling symbols. Otherwise, skip it."<a href="#citation-1" class="citation-number"><a href="#citation-1" class="citation-number">[1]</a></a></em>
+
+<h3>Liberation Framework</h3>
+
+◻ <strong>cybercrud</strong> → <em>intimidates</em> → ◻ <strong>ordinary people</strong>
+   <em>"Down with Cybercrud!" He exhorted his readers to defy the computer priesthood"<a href="#citation-1" class="citation-number"><a href="#citation-1" class="citation-number">[1]</a></a></em>
+
+◻ <strong>cybercrud</strong> → <em>is defined as</em> → ◻ <strong>"putting things over on people using computers"</strong>
+   <em>"Nelson coins a lot of terms in this book, most of which never went anywhere. One that sounds useful is 'cybercrud', or 'putting things over on people using computers'"<a href="#citation-16" class="citation-number"><a href="#citation-16" class="citation-number">[16]</a></a></em>
+
+◻ <strong>computer liberation</strong> → <em>requires</em> → ◻ <strong>understanding</strong>
+   <em>"Computer Lib is about how computers should become more of a mainstream technology, understood and used by everyone"<a href="#citation-2" class="citation-number"><a href="#citation-2" class="citation-number">[2]</a></a></em>
+
+◻ <strong>understanding computers</strong> → <em>enables</em> → ◻ <strong>creative use</strong>
+   <em>"It attempts to explain computers for the laymen during a time when personal computers had not yet become mainstream and anticipated the machine being open for anyone to use"<a href="#citation-7" class="citation-number"><a href="#citation-7" class="citation-number">[7]</a></a></em>
+
+<h2>Complex Conceptual Structures</h2>
+
+<h3>Media Innovation Framework</h3>
+
+◻ <strong>computer</strong> → <em>functions as</em> → ◻ <strong>metamedium</strong>
+   <em>"He believed the importance of computers lay not in their capacity for calculation, but in the fact that they would enable new generations of media"<a href="#citation-1" class="citation-number"><a href="#citation-1" class="citation-number">[1]</a></a></em>
+
+◻ <strong>hypertext</strong> → <em>exists in</em> → ◻ <strong>multiple forms</strong>
+   <em>"Chunk style consists of 'chunks' of separate text or media connected by links"<a href="#citation-7" class="citation-number"><a href="#citation-7" class="citation-number">[7]</a></a></em>
+
+◻ <strong>stretch text</strong> → <em>expands</em> → ◻ <strong>based on detail needed</strong>
+   <em>"Stretch text is text that extends itself. Instead of linking, it zooms in depending on the detail needed"<a href="#citation-7" class="citation-number"><a href="#citation-7" class="citation-number">[7]</a></a></em>
+
+◻ <strong>intertwingularity</strong> → <em>expresses</em> → ◻ <strong>interconnection of all subjects</strong>
+   <em>"Everything is deeply intertwingled. He says that all subjects and information are connected"<a href="#citation-7" class="citation-number"><a href="#citation-7" class="citation-number">[7]</a></a></em>
+
+<h3>Emotional-Technical Framework</h3>
+
+◻ <strong>fantics</strong> → <em>connects</em> → ◻ <strong>emotions and cognition</strong>
+   <em>"This is as it should be. ('The reason is, and by rights ought to be, slave to the emotions.' -- Bertrand Russell.) In the design of our future media and systems, we should not shrink from this emotional aspect as a legitimate part of our fantic design"<a href="#citation-15" class="citation-number"><a href="#citation-15" class="citation-number">[15]</a></a></em>
+
+◻ <strong>computer experience</strong> → <em>can be</em> → ◻ <strong>deeply exciting</strong>
+   <em>"To work at a highly responsive computer display screen, for instance, can be deeply exciting, like flying an airplane through a canyon, or talking to somebody brilliant"<a href="#citation-15" class="citation-number"><a href="#citation-15" class="citation-number">[15]</a></a></em>
+
+◻ <strong>technicalities</strong> → <em>are connected to</em> → ◻ <strong>emotional effects</strong>
+   <em>"The substratum of technicalities and the mind-bending, gut-slamming effects they produce, are two sides of the same coin"<a href="#citation-15" class="citation-number"><a href="#citation-15" class="citation-number">[15]</a></a></em>
+
+<h3>Visionary Design Framework</h3>
+
+◻ <strong>Project Xanadu</strong> → <em>would enable</em> → ◻ <strong>global storage and access</strong>
+   <em>"He proposed the idea of a future Xanadu Network, where users could shop at Xanadu stands and access material from global storage systems"<a href="#citation-7" class="citation-number"><a href="#citation-7" class="citation-number">[7]</a></a></em>
+
+◻ <strong>living in media</strong> → <em>motivates</em> → ◻ <strong>careful design</strong>
+   <em>"It matters because we live in media, as fish live in water... But today, at this moment, we can and must design the media, design the molecules of our new water, and I believe the details of this design matter very deeply"<a href="#citation-1" class="citation-number"><a href="#citation-1" class="citation-number">[1]</a></a></em>
+
+◻ <strong>multimedia experiences</strong> → <em>should be</em> → ◻ <strong>designed intentionally</strong>
+   <em>"He argued that computer experiences were media to be designed, and that this design should be both a creative process and undertaken with the audience (users) in mind"<a href="#citation-1" class="citation-number"><a href="#citation-1" class="citation-number">[1]</a></a></em>
+
+<h2>Conclusion</h2>
+
+This Spencer-Brown inspired ontological model captures the rich theoretical framework of Nelson's "Computer Lib/Dream Machines." Through formal distinctions (◻) and indications (→), we visualize how Nelson conceptualized computing not merely as a technical field but as a creative medium that should be accessible to all. The model highlights Nelson's revolutionary challenge to the computer priesthood and his vision of computers as tools for creative expression. This structured index reveals the continuing relevance of Nelson's dual manifesto for understanding how computing could and should function as a liberating force in human culture.
+
+Citations:
+<a href="#citation-1" class="citation-number"><a href="#citation-1" class="citation-number">[1]</a></a> http://www.newmediareader.com/book_samples/nmr-21-nelson.pdf
+<a href="#citation-2" class="citation-number"><a href="#citation-2" class="citation-number">[2]</a></a> https://nedbatchelder.com/blog/200301/computer_libdream_machines.html
+<a href="#citation-3" class="citation-number"><a href="#citation-3" class="citation-number">[3]</a></a> https://casetext.com/case/spencer-v-nelson-5
+<a href="#citation-4" class="citation-number"><a href="#citation-4" class="citation-number">[4]</a></a> https://ucm.teleshuttle.com/2018/11/as-we-will-think-legacy-of-ted-nelson.html
+<a href="#citation-5" class="citation-number"><a href="#citation-5" class="citation-number">[5]</a></a> https://archive.org/stream/computer-lib-dream-machines/Computer%20Lib,%20Dream%20Machines%20%E2%80%93%20Ted%20Nelson%20(1974)_djvu.txt
+<a href="#citation-6" class="citation-number"><a href="#citation-6" class="citation-number">[6]</a></a> https://researchportal.plymouth.ac.uk/files/38505519/Slattery%20D%20R_2010.pdf
+<a href="#citation-7" class="citation-number"><a href="#citation-7" class="citation-number">[7]</a></a> https://en.wikipedia.org/wiki/Computer_Lib/Dream_Machines
+<a href="#citation-8" class="citation-number"><a href="#citation-8" class="citation-number">[8]</a></a> https://archive.scienceforthepeople.org/vol-10/v10n2/book-review-computer-lib-dream-machines/
+<a href="#citation-9" class="citation-number"><a href="#citation-9" class="citation-number">[9]</a></a> https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2618146
+<a href="#citation-10" class="citation-number"><a href="#citation-10" class="citation-number">[10]</a></a> https://www.youtube.com/watch?v=sWDMy0kBr2g
+<a href="#citation-11" class="citation-number"><a href="#citation-11" class="citation-number">[11]</a></a> https://www.few.vu.nl/~eliens/media/short.pdf
+<a href="#citation-12" class="citation-number"><a href="#citation-12" class="citation-number">[12]</a></a> https://www.digibarn.com/collections/books/computer-lib/index.html
+<a href="#citation-13" class="citation-number"><a href="#citation-13" class="citation-number">[13]</a></a> https://utahstateaggies.com/sports/mens-basketball/roster/spencer-nelson/5297
+<a href="#citation-14" class="citation-number"><a href="#citation-14" class="citation-number">[14]</a></a> https://hamlineathletics.com/staff-directory/david-nelson/322
+<a href="#citation-15" class="citation-number"><a href="#citation-15" class="citation-number">[15]</a></a> https://worrydream.com/refs/Nelson_T_1974_-_Computer_Lib,_Dream_Machines.pdf
+<a href="#citation-16" class="citation-number"><a href="#citation-16" class="citation-number">[16]</a></a> https://www.goodreads.com/book/show/150778136
+
+---
+        </div>
+        
+        <footer>
+            <p>Part of the Reality Media Explorer project</p>
+            <p>Created with STS_MS_CAT_CORE HTML Converter</p>
+        </footer>
+    </div>
+</body>
+</html>

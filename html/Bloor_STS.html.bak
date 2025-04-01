@@ -1,0 +1,164 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bloor STS</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="script.js" defer></script>
+</head>
+<body>
+    <div class="theme-toggle" id="themeToggle" title="Toggle Dark/Light Mode">
+        ☀️
+    </div>
+    
+    <div class="container">
+        <header>
+            <a href="index.html" class="back-link">← Back to Author Catalog</a>
+            <h1>Bloor STS</h1>
+            <span class="tag sts">STS</span>
+        </header>
+        
+        <div class="content">
+            <h1>A Spencer-Brown Inspired Ontological Model of David Bloor's "Knowledge and Social Imagery"</h1>
+
+This report presents a structured ontological index of David Bloor's influential 1976 work "Knowledge and Social Imagery" using George Spencer-Brown's calculus of distinctions. By marking entities as distinctions (◻) and relationships as indications (→), we create a formal representation that illuminates the conceptual architecture of Bloor's Strong Programme in the sociology of scientific knowledge.
+
+<h2>Foundational Entities and Primary Distinctions</h2>
+
+<h3>Core Theoretical Constructs</h3>
+
+◻ <strong>Knowledge and Social Imagery</strong>: Bloor's 1976 book presenting the Strong Programme in the sociology of knowledge
+
+◻ <strong>Strong Programme</strong>: The approach advocating thorough sociological investigation of all knowledge
+
+◻ <strong>Weak Programme</strong>: Traditional sociology of knowledge that limits itself to explaining only false beliefs
+
+◻ <strong>knowledge</strong>: Defined sociologically as "whatever people take to be knowledge" or "beliefs which people confidently hold to and live by"[4]
+
+◻ <strong>scientific knowledge</strong>: Knowledge produced by scientific practices, treated as a natural phenomenon
+
+◻ <strong>true belief</strong>: Conventionally defined as belief aligned with reality
+
+◻ <strong>false belief</strong>: Conventionally defined as belief not aligned with reality
+
+<h3>Methodological Principles</h3>
+
+◻ <strong>causality</strong>: The principle requiring identification of conditions producing beliefs
+
+◻ <strong>impartiality</strong>: The principle of not privileging true or false beliefs in explanation
+
+◻ <strong>symmetry</strong>: The principle that same types of causes explain both true and false beliefs
+
+◻ <strong>reflexivity</strong>: The principle that sociology of knowledge should apply to itself
+
+<h2>Morphisms and Relational Structures</h2>
+
+<h3>Programmatic Relations</h3>
+
+◻ <strong>Strong Programme</strong> → <em>consists of</em> → ◻ <strong>four tenets</strong>
+   <em>The four methodological principles that define the approach</em>[4]
+
+◻ <strong>four tenets</strong> → <em>include</em> → ◻ <strong>causality, impartiality, symmetry, reflexivity</strong>
+   <em>The specific principles articulated by Bloor</em>[4]
+
+◻ <strong>Strong Programme</strong> → <em>treats</em> → ◻ <strong>knowledge as natural phenomenon</strong>
+   <em>Approach to knowledge as empirically investigable</em>[4]
+
+◻ <strong>Weak Programme</strong> → <em>explains only</em> → ◻ <strong>false beliefs sociologically</strong>
+   <em>Traditional approach limits sociological explanation to error</em>[3][4]
+
+◻ <strong>Strong Programme</strong> → <em>explains both</em> → ◻ <strong>true and false beliefs sociologically</strong>
+   <em>Extends sociological explanation to all knowledge</em>[3][4]
+
+<h3>Definitional Relations</h3>
+
+◻ <strong>knowledge</strong> → <em>is defined as</em> → ◻ <strong>collective beliefs</strong>
+   <em>Knowledge as collectively endorsed belief</em>[4]
+
+◻ <strong>knowledge</strong> → <em>distinguished from</em> → ◻ <strong>mere belief</strong>
+   <em>Knowledge is collective while belief may be individual</em>[4]
+
+◻ <strong>sociologist</strong> → <em>studies</em> → ◻ <strong>distribution of belief</strong>
+   <em>Focus on patterns of belief across social contexts</em>[4]
+
+◻ <strong>beliefs</strong> → <em>vary across</em> → ◻ <strong>social contexts</strong>
+   <em>The starting point for sociological investigation</em>[4]
+
+<h2>Complex Conceptual Structures</h2>
+
+<h3>Autonomy of Knowledge Critique</h3>
+
+◻ <strong>autonomy of knowledge thesis</strong> → <em>claims</em> → ◻ <strong>true beliefs need no social explanation</strong>
+   <em>The view that true beliefs are self-explanatory</em>[4]
+
+◻ <strong>autonomy of knowledge thesis</strong> → <em>creates</em> → ◻ <strong>asymmetrical explanation</strong>
+   <em>Different explanatory approaches for true and false beliefs</em>[4]
+
+◻ <strong>rationality</strong> → <em>is treated as</em> → ◻ <strong>self-explanatory</strong> by autonomy thesis
+   <em>Rational behavior needs no causal explanation</em>[4]
+
+◻ <strong>Strong Programme</strong> → <em>rejects</em> → ◻ <strong>asymmetrical explanation</strong>
+   <em>Challenges the double standard in explaining beliefs</em>[4]
+
+<h3>Criticism and Defense Framework</h3>
+
+◻ <strong>empiricist argument</strong> → <em>objects to</em> → ◻ <strong>Strong Programme</strong>
+   <em>Claim that experience, not society, determines knowledge</em>[4]
+
+◻ <strong>self-refutation argument</strong> → <em>objects to</em> → ◻ <strong>Strong Programme</strong>
+   <em>Claim that the programme undermines itself</em>[4]
+
+◻ <strong>future knowledge argument</strong> → <em>objects to</em> → ◻ <strong>Strong Programme</strong>
+   <em>Claim that future knowledge cannot be sociologically explained</em>[4]
+
+◻ <strong>Bloor</strong> → <em>counters</em> → ◻ <strong>empiricist, self-refutation, and future knowledge arguments</strong>
+   <em>Defends Strong Programme against philosophical objections</em>[4]
+
+<h2>Applications and Case Studies</h2>
+
+<h3>Popper-Kuhn Debate Analysis</h3>
+
+◻ <strong>Knowledge and Social Imagery</strong> → <em>contains</em> → ◻ <strong>case study of Popper-Kuhn debate</strong>
+   <em>Analysis of epistemological disagreement as ideological</em>[4]
+
+◻ <strong>Popper-Kuhn debate</strong> → <em>reflects</em> → ◻ <strong>Enlightenment versus Romantic ideologies</strong>
+   <em>Epistemological positions linked to broader cultural worldviews</em>[4]
+
+◻ <strong>ideological debates</strong> → <em>link to</em> → ◻ <strong>epistemological debates</strong>
+   <em>Connection between knowledge theories and political orientations</em>[4]
+
+<h3>Broader Intellectual Context</h3>
+
+◻ <strong>Strong Programme</strong> → <em>continues</em> → ◻ <strong>Scottish tradition of philosophical skepticism</strong>
+   <em>Situates work in historical intellectual lineage</em>[3]
+
+◻ <strong>Edinburgh School</strong> → <em>founded by</em> → ◻ <strong>David Bloor</strong>
+   <em>Institutional context for the Strong Programme</em>[5]
+
+◻ <strong>Science and Technology Studies</strong> → <em>was shaped by</em> → ◻ <strong>Strong Programme</strong>
+   <em>Influence on the development of the field</em>[5]
+
+<h2>Conclusion</h2>
+
+This Spencer-Brown inspired ontological model captures the rich theoretical framework presented in Bloor's "Knowledge and Social Imagery." Through formal distinctions (◻) and indications (→), we visualize how Bloor constructed his sociology of scientific knowledge, challenging traditional approaches that limited sociological investigation to erroneous beliefs. The model highlights the central role of symmetry in Bloor's methodology and his insistence that all knowledge—including scientific and mathematical knowledge—should be treated as material for sociological investigation.
+
+Citations:
+[1] https://journals.sagepub.com/doi/10.1177/004839319402400304
+[2] https://scholar.harvard.edu/files/shapin/files/shapin-here_and_everywhere_1995.pdf
+[3] https://partiallyexaminedlife.com/2015/04/08/science-technology-and-society-vi-david-bloor-and-the-strong-programme-in-the-sociology-of-knowledge/
+[4] https://altexploit.wordpress.com/wp-content/uploads/2017/09/david-bloor-knowledge-and-social-imagery-university-of-chicago-press-1991.pdf
+[5] https://en.wikipedia.org/wiki/David_Bloor
+[6] https://books.openedition.org/obp/5072?lang=en
+
+---
+Answer from Perplexity: https://www.perplexity.ai/search/sts-ms-cat-core-26eOjT2rQjiRqIxKt6q3GA?utm_source=copy_output
+        </div>
+        
+        <footer>
+            <p>Part of the Reality Media Explorer project</p>
+            <p>Created with STS_MS_CAT_CORE HTML Converter</p>
+        </footer>
+    </div>
+</body>
+</html>

@@ -1,0 +1,155 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bogost Ian MS</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="script.js" defer></script>
+</head>
+<body>
+    <div class="theme-toggle" id="themeToggle" title="Toggle Dark/Light Mode">
+        ☀️
+    </div>
+    
+    <div class="container">
+        <header>
+            <a href="index.html" class="back-link">← Back to Author Catalog</a>
+            <h1>Bogost Ian MS</h1>
+            <span class="tag ms">MS</span>
+        </header>
+        
+        <div class="content" >
+            <h1>A Spencer-Brown Inspired Ontological Model of Bogost's "Persuasive Games"</h1>
+
+This report presents a structured ontological index of Ian Bogost's influential 2007 work "Persuasive Games: The Expressive Power of Videogames" using Spencer-Brown's calculus of distinctions. By marking entities as distinctions (◻) and relationships as indications (→), we create a formal representation that illuminates the conceptual architecture of Bogost's theory of procedural rhetoric.
+
+<h2>Foundational Entities and Primary Distinctions</h2>
+
+<h3>Core Theoretical Constructs</h3>
+
+◻ <strong>Persuasive Games</strong>: Bogost's 2007 book examining videogames' expressive and persuasive capabilities
+
+◻ <strong>procedural rhetoric</strong>: The art of persuasion through rule-based representations and interactions
+
+◻ <strong>videogames</strong>: Interactive computational media that represent how systems work
+
+◻ <strong>procedurality</strong>: Rule-based representational mode unique to computational artifacts
+
+◻ <strong>expressive power</strong>: Capacity of videogames to make statements about the world
+
+◻ <strong>persuasion</strong>: Process of influencing players' beliefs or behaviors
+
+◻ <strong>computational rhetoric</strong>: Broader category of persuasion through computational processes
+
+<h3>Major Domains of Application</h3>
+
+◻ <strong>politics</strong>: Domain where videogames can make procedural arguments about political systems
+
+◻ <strong>advertising</strong>: Domain where videogames can persuade consumers through procedural representation
+
+◻ <strong>learning</strong>: Domain where videogames can teach through procedural representation
+
+◻ <strong>ideological frames</strong>: Structures that shape political understandings within games
+
+◻ <strong>advergames</strong>: Games specifically designed for advertising purposes
+
+◻ <strong>procedural literacy</strong>: Ability to read and write procedural arguments
+
+<h2>Morphisms and Relational Structures</h2>
+
+<h3>Foundational Relationships</h3>
+
+◻ <strong>videogames</strong> → <em>mount</em> → ◻ <strong>arguments</strong>
+   <em>"Videogames mount arguments and influence players"<a href="#citation-1" class="citation-number"><a href="#citation-1" class="citation-number">[1]</a></a></em>
+
+◻ <strong>videogames</strong> → <em>employ</em> → ◻ <strong>procedural rhetoric</strong>
+   <em>"Videogames, thanks to their basic representational mode of procedurality (rule-based representations and interactions), open a new domain for persuasion"<a href="#citation-1" class="citation-number"><a href="#citation-1" class="citation-number">[1]</a></a></em>
+
+◻ <strong>procedural rhetoric</strong> → <em>is tied to</em> → ◻ <strong>core affordances of computers</strong>
+   <em>"This type of persuasion is tied to the core affordances of the computer: running processes, executing calculations and rule-based symbolic manipulations"<a href="#citation-5" class="citation-number"><a href="#citation-5" class="citation-number">[5]</a></a></em>
+
+◻ <strong>videogames</strong> → <em>represent</em> → ◻ <strong>real and imagined systems</strong>
+   <em>"Videogames are an expressive medium, and a persuasive medium; they represent how real and imagined systems work"<a href="#citation-1" class="citation-number"><a href="#citation-1" class="citation-number">[1]</a></a></em>
+
+<h3>Core Theoretical Framework</h3>
+
+◻ <strong>procedural rhetoric</strong> → <em>differs from</em> → ◻ <strong>visual rhetoric</strong>
+   <em>"The field of media studies already analyzes visual rhetoric... Bogost argues that videogames, thanks to their basic representational mode of procedurality... realize a new form of rhetoric"<a href="#citation-2" class="citation-number"><a href="#citation-2" class="citation-number">[2]</a></a></em>
+
+◻ <strong>videogames</strong> → <em>invite</em> → ◻ <strong>interaction with systems</strong>
+   <em>"They invite players to interact with those systems and form judgments about them"<a href="#citation-1" class="citation-number"><a href="#citation-1" class="citation-number">[1]</a></a></em>
+
+◻ <strong>procedural rhetoric</strong> → <em>has</em> → ◻ <strong>unique persuasive power</strong>
+   <em>"He argues further that videogames have a unique persuasive power that goes beyond other forms of computational persuasion"<a href="#citation-1" class="citation-number"><a href="#citation-1" class="citation-number">[1]</a></a></em>
+
+◻ <strong>videogames</strong> → <em>can</em> → ◻ <strong>support existing social positions</strong>
+   <em>"Not only can videogames support existing social and cultural positions..."<a href="#citation-1" class="citation-number"><a href="#citation-1" class="citation-number">[1]</a></a></em>
+
+◻ <strong>videogames</strong> → <em>can also</em> → ◻ <strong>disrupt existing positions</strong>
+   <em>"...but they can also disrupt and change those positions, leading to potentially significant long-term social change"<a href="#citation-2" class="citation-number"><a href="#citation-2" class="citation-number">[2]</a></a></em>
+
+<h2>Complex Conceptual Structures</h2>
+
+<h3>Politics Framework</h3>
+
+◻ <strong>political processes</strong> → <em>can be</em> → ◻ <strong>proceduralized in games</strong>
+   <em>"Politics: Political Processes, Ideological Frames, History and Democracy"<a href="#citation-2" class="citation-number"><a href="#citation-2" class="citation-number">[2]</a></a></em>
+
+◻ <strong>games</strong> → <em>can model</em> → ◻ <strong>political systems</strong>
+   <em>"The Dean for Iowa Web game that taught the basics of caucusing to Dean supporters"<a href="#citation-4" class="citation-number"><a href="#citation-4" class="citation-number">[4]</a></a></em>
+
+◻ <strong>procedural arguments</strong> → <em>can be more effective than</em> → ◻ <strong>verbal or visual arguments</strong>
+   <em>"Arguments are made not through the construction of words or images, but through the authorship of rules of behavior, the construction of dynamic models"<a href="#citation-4" class="citation-number"><a href="#citation-4" class="citation-number">[4]</a></a></em>
+
+<h3>Advertising Framework</h3>
+
+◻ <strong>advertising logic</strong> → <em>is implemented through</em> → ◻ <strong>procedural rhetoric</strong>
+   <em>"Advertising: Advertising Logic, Licensing and Product Placement, Advergames"<a href="#citation-2" class="citation-number"><a href="#citation-2" class="citation-number">[2]</a></a></em>
+
+◻ <strong>advergames</strong> → <em>use</em> → ◻ <strong>procedural rhetoric</strong>
+   <em>"An advertising game that successfully sells you a product is just as valid and persuasive as an educational game that teaches you something"<a href="#citation-4" class="citation-number"><a href="#citation-4" class="citation-number">[4]</a></a></em>
+
+◻ <strong>product placement</strong> → <em>differs from</em> → ◻ <strong>procedural rhetoric</strong>
+   <em>"Licensing and Product Placement"<a href="#citation-2" class="citation-number"><a href="#citation-2" class="citation-number">[2]</a></a></em>
+
+<h3>Learning Framework</h3>
+
+◻ <strong>procedural literacy</strong> → <em>involves</em> → ◻ <strong>reading and writing procedurally</strong>
+   <em>"Learning: Procedural Literacy, Values and Aspirations, Exercise"<a href="#citation-2" class="citation-number"><a href="#citation-2" class="citation-number">[2]</a></a></em>
+
+◻ <strong>educational games</strong> → <em>use</em> → ◻ <strong>procedural rhetoric</strong>
+   <em>"Tenure argues that this ideal is significantly undermined by the realities of school politics, personal conflicts, and social hearsay"<a href="#citation-5" class="citation-number"><a href="#citation-5" class="citation-number">[5]</a></a></em>
+
+◻ <strong>values and aspirations</strong> → <em>can be conveyed through</em> → ◻ <strong>game processes</strong>
+   <em>"Next, I look at how games address values and aspirations, including an interrogation of consumption, corporate training, and morality"<a href="#citation-5" class="citation-number"><a href="#citation-5" class="citation-number">[5]</a></a></em>
+
+<h2>Conclusion</h2>
+
+This Spencer-Brown inspired ontological model captures the rich theoretical framework of Bogost's "Persuasive Games." Through formal distinctions (◻) and indications (→), we visualize how Bogost conceptualizes videogames as a unique medium for persuasion through their procedural nature. The model highlights the central role of procedural rhetoric—persuasion through rule-based representations and interactions—and its application across politics, advertising, and learning domains. This structured index reveals the innovative contribution Bogost makes by connecting the ancient tradition of rhetoric to the computational nature of videogames, arguing that games can not only support existing social and cultural positions but also disrupt and transform them.
+
+Citations:
+<a href="#citation-1" class="citation-number"><a href="#citation-1" class="citation-number">[1]</a></a> https://direct.mit.edu/books/monograph/4392/Persuasive-GamesThe-Expressive-Power-of-Videogames
+<a href="#citation-2" class="citation-number"><a href="#citation-2" class="citation-number">[2]</a></a> https://bogost.com/books/persuasive_games/
+<a href="#citation-3" class="citation-number"><a href="#citation-3" class="citation-number">[3]</a></a> https://sites.google.com/site/composingvideogames/six-levels-of/level-4-critical-game-studies/procedural-rhetoric
+<a href="#citation-4" class="citation-number"><a href="#citation-4" class="citation-number">[4]</a></a> https://www.museumofplay.org/app/uploads/2022/01/2-2-book-review-8.pdf
+<a href="#citation-5" class="citation-number"><a href="#citation-5" class="citation-number">[5]</a></a> https://luisnavarrete.com/USC/pdf/Bogost2.pdf
+<a href="#citation-6" class="citation-number"><a href="#citation-6" class="citation-number">[6]</a></a> https://dm.lmc.gatech.edu/research/gallery/faculty-books/persuasive-games/
+<a href="#citation-7" class="citation-number"><a href="#citation-7" class="citation-number">[7]</a></a> https://www.firstpersonscholar.com/persuasive-games/
+<a href="#citation-8" class="citation-number"><a href="#citation-8" class="citation-number">[8]</a></a> https://gamestudies.org/1102/articles/klabbers_book_review
+<a href="#citation-9" class="citation-number"><a href="#citation-9" class="citation-number">[9]</a></a> https://www.goodreads.com/book/show/68562
+<a href="#citation-10" class="citation-number"><a href="#citation-10" class="citation-number">[10]</a></a> https://search.worldcat.org/title/Persuasive-games-:-the-expressive-power-of-videogames/oclc/72161832
+<a href="#citation-11" class="citation-number"><a href="#citation-11" class="citation-number">[11]</a></a> https://megacatstudios.com/blogs/gaming-news/review-of-ian-bogosts-persuasive-games
+<a href="#citation-12" class="citation-number"><a href="#citation-12" class="citation-number">[12]</a></a> https://gamescriticism.org/2023/07/25/taking-play-seriously-but-not-too-seriously-a-review-of-ian-bogosts-how-to-talk-about-videogames/
+<a href="#citation-13" class="citation-number"><a href="#citation-13" class="citation-number">[13]</a></a> http://www.rhizomes.net/issue19/reviews/zhang.html
+
+---
+        </div>
+        
+        <footer>
+            <p>Part of the Reality Media Explorer project</p>
+            <p>Created with STS_MS_CAT_CORE HTML Converter</p>
+        </footer>
+    </div>
+</body>
+</html>

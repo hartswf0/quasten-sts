@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Brock A MS</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="script.js" defer></script>
+</head>
+<body>
+    <div class="theme-toggle" id="themeToggle" title="Toggle Dark/Light Mode">
+        ☀️
+    </div>
+    
+    <div class="container">
+        <header>
+            <a href="index.html" class="back-link">← Back to Author Catalog</a>
+            <h1>Brock A MS</h1>
+            <span class="tag ms">MS</span>
+        </header>
+        
+        <div class="content" >
+            <h1>A Spencer-Brown Inspired Ontological Model of Brock's "Critical Technocultural Discourse Analysis"</h1>
+
+This report presents a structured ontological index of André Brock's influential 2018 work "Critical Technocultural Discourse Analysis" using Spencer-Brown's calculus of distinctions. By marking entities as distinctions (◻) and relationships as indications (→), we create a formal representation that illuminates the conceptual architecture of Brock's methodological intervention in digital media studies.
+
+<h2>Foundational Entities and Primary Distinctions</h2>
+
+<h3>Core Theoretical Constructs</h3>
+
+◻ <strong>Critical Technocultural Discourse Analysis (CTDA)</strong>: Brock's multimodal analytic technique for investigating digital phenomena<a href="#citation-2" class="citation-number"><a href="#citation-2" class="citation-number">[2]</a></a><a href="#citation-10" class="citation-number"><a href="#citation-10" class="citation-number">[10]</a></a>
+
+◻ <strong>technology as cultural representation</strong>: View of technological artifacts as embodying cultural values<a href="#citation-2" class="citation-number"><a href="#citation-2" class="citation-number">[2]</a></a>
+
+◻ <strong>critical cultural framework</strong>: Theoretical approach drawing from critical race, feminist, or queer theory<a href="#citation-7" class="citation-number"><a href="#citation-7" class="citation-number">[7]</a></a><a href="#citation-9" class="citation-number"><a href="#citation-9" class="citation-number">[9]</a></a>
+
+◻ <strong>epistemological standpoint</strong>: Perspective that centers the experiences of underrepresented groups<a href="#citation-8" class="citation-number"><a href="#citation-8" class="citation-number">[8]</a></a>
+
+◻ <strong>Western deficit perspective</strong>: View that treats minority technology use as lacking or deviant<a href="#citation-8" class="citation-number"><a href="#citation-8" class="citation-number">[8]</a></a>
+
+◻ <strong>holistic analysis</strong>: Approach examining both technical artifacts and social practices<a href="#citation-8" class="citation-number"><a href="#citation-8" class="citation-number">[8]</a></a>
+
+◻ <strong>technological determinism</strong>: Perspective that Brock challenges through CTDA<a href="#citation-6" class="citation-number"><a href="#citation-6" class="citation-number">[6]</a></a>
+
+<h3>Methodological Components</h3>
+
+◻ <strong>multimodal analysis</strong>: Examination of multiple forms of meaning-making in digital contexts<a href="#citation-10" class="citation-number"><a href="#citation-10" class="citation-number">[10]</a></a>
+
+◻ <strong>semiotic interface analysis</strong>: Study of how interfaces create and convey meaning<a href="#citation-7" class="citation-number"><a href="#citation-7" class="citation-number">[7]</a></a><a href="#citation-9" class="citation-number"><a href="#citation-9" class="citation-number">[9]</a></a>
+
+◻ <strong>critical discourse analysis</strong>: Examination of language use in relation to power structures<a href="#citation-7" class="citation-number"><a href="#citation-7" class="citation-number">[7]</a></a>
+
+◻ <strong>hermeneutic perspective</strong>: Interpretive approach to technology design and use<a href="#citation-7" class="citation-number"><a href="#citation-7" class="citation-number">[7]</a></a><a href="#citation-9" class="citation-number"><a href="#citation-9" class="citation-number">[9]</a></a>
+
+◻ <strong>real-world practices</strong>: Actual rather than theorized technology use<a href="#citation-7" class="citation-number"><a href="#citation-7" class="citation-number">[7]</a></a><a href="#citation-9" class="citation-number"><a href="#citation-9" class="citation-number">[9]</a></a>
+
+<h2>Morphisms and Relational Structures</h2>
+
+<h3>Foundational Relationships</h3>
+
+◻ <strong>CTDA</strong> → <em>integrates</em> → ◻ <strong>critical cultural frameworks with technology studies</strong>
+   <em>"CTDA employs critical cultural frameworks (e.g. critical race or feminist theory) with philosophy of technology and science and technology studies"</em><a href="#citation-7" class="citation-number"><a href="#citation-7" class="citation-number">[7]</a></a><a href="#citation-9" class="citation-number"><a href="#citation-9" class="citation-number">[9]</a></a>
+
+◻ <strong>CTDA</strong> → <em>combines</em> → ◻ <strong>semiotic interface analysis with critical discourse analysis</strong>
+   <em>"CTDA integrates semiotic interface analysis with critical discourse analysis of the interface's users"</em><a href="#citation-7" class="citation-number"><a href="#citation-7" class="citation-number">[7]</a></a><a href="#citation-9" class="citation-number"><a href="#citation-9" class="citation-number">[9]</a></a>
+
+◻ <strong>CTDA</strong> → <em>decenters</em> → ◻ <strong>Western deficit perspective</strong>
+   <em>"It decenters the Western deficit perspective on minority technology use to instead prioritize the epistemological standpoint of underrepresented groups"</em><a href="#citation-8" class="citation-number"><a href="#citation-8" class="citation-number">[8]</a></a>
+
+◻ <strong>CTDA</strong> → <em>responds to</em> → ◻ <strong>technological determinism</strong>
+   <em>"CTDA is intended as a response to technological determinism in social media studies"</em><a href="#citation-6" class="citation-number"><a href="#citation-6" class="citation-number">[6]</a></a>
+
+<h3>Application Framework</h3>
+
+◻ <strong>CTDA</strong> → <em>is designed for</em> → ◻ <strong>researchers interested in minority groups</strong>
+   <em>"I designed CTDA especially for researchers interested in minority groups and digital practice"</em><a href="#citation-7" class="citation-number"><a href="#citation-7" class="citation-number">[7]</a></a><a href="#citation-9" class="citation-number"><a href="#citation-9" class="citation-number">[9]</a></a>
+
+◻ <strong>CTDA</strong> → <em>foregrounds</em> → ◻ <strong>critical cultural theories</strong>
+   <em>"It foregrounds critical cultural theories while examining digital technology"</em><a href="#citation-7" class="citation-number"><a href="#citation-7" class="citation-number">[7]</a></a><a href="#citation-9" class="citation-number"><a href="#citation-9" class="citation-number">[9]</a></a>
+
+◻ <strong>CTDA</strong> → <em>is grounded in</em> → ◻ <strong>user perspectives and real-world practices</strong>
+   <em>"Grounded in user perspectives and real-world practices"</em><a href="#citation-7" class="citation-number"><a href="#citation-7" class="citation-number">[7]</a></a><a href="#citation-9" class="citation-number"><a href="#citation-9" class="citation-number">[9]</a></a>
+
+◻ <strong>CTDA</strong> → <em>formulates</em> → ◻ <strong>technology as cultural representations and social structures</strong>
+   <em>"CTDA formulates technology as cultural representations and social structures"</em><a href="#citation-2" class="citation-number"><a href="#citation-2" class="citation-number">[2]</a></a>
+
+<h2>Complex Conceptual Structures</h2>
+
+<h3>Analytical Flexibility Framework</h3>
+
+◻ <strong>CTDA</strong> → <em>maintains</em> → ◻ <strong>methodological flexibility</strong>
+   <em>"Providing examples of how its methodological flexibility applies to examining varied ICT artifacts"</em><a href="#citation-7" class="citation-number"><a href="#citation-7" class="citation-number">[7]</a></a><a href="#citation-9" class="citation-number"><a href="#citation-9" class="citation-number">[9]</a></a>
+
+◻ <strong>methodological flexibility</strong> → <em>enables analysis of</em> → ◻ <strong>varied ICT artifacts</strong>
+   <em>"How its methodological flexibility applies to examining varied ICT artifacts"</em><a href="#citation-7" class="citation-number"><a href="#citation-7" class="citation-number">[7]</a></a><a href="#citation-9" class="citation-number"><a href="#citation-9" class="citation-number">[9]</a></a>
+
+◻ <strong>CTDA</strong> → <em>maintains</em> → ◻ <strong>hermeneutic perspective</strong>
+   <em>"While maintaining a hermeneutic perspective on design and use"</em><a href="#citation-7" class="citation-number"><a href="#citation-7" class="citation-number">[7]</a></a><a href="#citation-9" class="citation-number"><a href="#citation-9" class="citation-number">[9]</a></a>
+
+<h3>Knowledge Production Framework</h3>
+
+◻ <strong>CTDA</strong> → <em>aims to conduct</em> → ◻ <strong>holistic analysis</strong>
+   <em>"Conducting a holistic analysis of an information technology artifact and its practices"</em><a href="#citation-8" class="citation-number"><a href="#citation-8" class="citation-number">[8]</a></a>
+
+◻ <strong>CTDA</strong> → <em>examines</em> → ◻ <strong>culture as technological artifact</strong>
+   <em>"CTDA examines culture as technological artefact"</em><a href="#citation-6" class="citation-number"><a href="#citation-6" class="citation-number">[6]</a></a>
+
+◻ <strong>theoretical framework</strong> → <em>must draw from</em> → ◻ <strong>perspectives of the group under examination</strong>
+   <em>"The theoretical framework should 'draw directly from the perspectives of the group under examination'"</em><a href="#citation-6" class="citation-number"><a href="#citation-6" class="citation-number">[6]</a></a>
+
+<h2>Conclusion</h2>
+
+This Spencer-Brown inspired ontological model captures the rich theoretical framework of André Brock's Critical Technocultural Discourse Analysis. Through formal distinctions (◻) and indications (→), we visualize how Brock conceptualizes a methodological intervention that prioritizes the epistemological standpoints of underrepresented technology users. The model highlights CTDA's integration of semiotic interface analysis with critical discourse analysis to examine both technological artifacts and user practices. This structured index reveals how Brock's approach challenges technological determinism and Western deficit perspectives to offer a more holistic understanding of the relationship between culture and technology.
+
+Citations:
+<a href="#citation-1" class="citation-number"><a href="#citation-1" class="citation-number">[1]</a></a> https://datasociety.net/library/on-race-and-technoculture/
+<a href="#citation-2" class="citation-number"><a href="#citation-2" class="citation-number">[2]</a></a> https://www.semanticscholar.org/paper/Critical-technocultural-discourse-analysis-Brock/aa0a611e58055d28898f14420d873ca3154ac807
+<a href="#citation-3" class="citation-number"><a href="#citation-3" class="citation-number">[3]</a></a> https://events.temple.edu/graduate-speaker-series-critical-technoculture-discourse-analysis
+<a href="#citation-4" class="citation-number"><a href="#citation-4" class="citation-number">[4]</a></a> https://nique.net/life/2020/09/27/distributed-blackness-african-american-cybercultures/
+<a href="#citation-5" class="citation-number"><a href="#citation-5" class="citation-number">[5]</a></a> https://www.youtube.com/watch?v=8Sud4ibfaGE
+<a href="#citation-6" class="citation-number"><a href="#citation-6" class="citation-number">[6]</a></a> https://dspace.stir.ac.uk/retrieve/c2a18aa2-b4ba-4a8c-a765-1062992173fe/TikTok%20Twitter%20and%20Platform%20Specific%20Technocultural%20Discourse%20in%20Response%20to%20Taylor%20Swift%20s%20LGBTQ%20Allyship%20in%20You%20Need%20to%20Calm%20Down.pdf
+<a href="#citation-7" class="citation-number"><a href="#citation-7" class="citation-number">[7]</a></a> https://comm.uic.edu/events/talk-by-andre-brock-at-the-same-damn-time-critical-discourse-analysis-of-the-digital-and-digital-discourses/
+<a href="#citation-8" class="citation-number"><a href="#citation-8" class="citation-number">[8]</a></a> https://logicmag.io/beacons/dis-info-studies-andre-brock-jr/
+<a href="#citation-9" class="citation-number"><a href="#citation-9" class="citation-number">[9]</a></a> https://events.umich.edu/event/90184
+<a href="#citation-10" class="citation-number"><a href="#citation-10" class="citation-number">[10]</a></a> https://journals.sagepub.com/doi/abs/10.1177/1461444816677532
+<a href="#citation-11" class="citation-number"><a href="#citation-11" class="citation-number">[11]</a></a> https://csalateral.org/reviews/distributed-blackness-african-american-cybercultures-brock-suren/
+<a href="#citation-12" class="citation-number"><a href="#citation-12" class="citation-number">[12]</a></a> https://journals.sagepub.com/doi/10.1177/1461444816677532
+<a href="#citation-13" class="citation-number"><a href="#citation-13" class="citation-number">[13]</a></a> http://www.newcriticals.com/the-end-of-what-people-do-online
+<a href="#citation-14" class="citation-number"><a href="#citation-14" class="citation-number">[14]</a></a> https://scholar.google.com/citations?user=ktfwSGoAAAAJ
+<a href="#citation-15" class="citation-number"><a href="#citation-15" class="citation-number">[15]</a></a> https://enrollment.iac.gatech.edu/news/item/633101/andre-brock-works-unravel-complexities-blacktwitter
+<a href="#citation-16" class="citation-number"><a href="#citation-16" class="citation-number">[16]</a></a> https://w2.csun.edu/here-center/resources/critical-race-theory-resources/fields-study/computer-science-and-information
+
+---
+        </div>
+        
+        <footer>
+            <p>Part of the Reality Media Explorer project</p>
+            <p>Created with STS_MS_CAT_CORE HTML Converter</p>
+        </footer>
+    </div>
+</body>
+</html>

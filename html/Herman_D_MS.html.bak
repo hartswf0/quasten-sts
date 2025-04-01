@@ -1,0 +1,149 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Herman D MS</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="script.js" defer></script>
+</head>
+<body>
+    <div class="theme-toggle" id="themeToggle" title="Toggle Dark/Light Mode">
+        ☀️
+    </div>
+    
+    <div class="container">
+        <header>
+            <a href="index.html" class="back-link">← Back to Author Catalog</a>
+            <h1>Herman D MS</h1>
+            <span class="tag ms">MS</span>
+        </header>
+        
+        <div class="content">
+            <h1>A Spencer-Brown Inspired Ontological Model of Herman's "Story Logic"</h1>
+
+This report presents a structured ontological index of David Herman's influential 2002 work "Story Logic: Problems and Possibilities of Narrative" using Spencer-Brown's calculus of distinctions. By marking entities as distinctions (◻) and relationships as indications (→), we create a formal representation that illuminates the conceptual architecture of Herman's approach to narrative theory.
+
+<h2>Foundational Entities and Primary Distinctions</h2>
+
+<h3>Core Theoretical Constructs</h3>
+
+◻ <strong>Story Logic</strong>: Herman's 2002 book examining narrative as simultaneously cognitive style, discourse genre, and writing resource
+
+◻ <strong>narrative</strong>: A strategy for creating mental representations of the world
+
+◻ <strong>narrative comprehension</strong>: Process of mentally constructing storyworlds 
+
+◻ <strong>interdisciplinary narrative theory</strong>: Synthesis of concepts from literary criticism, linguistics, and cognitive science
+
+◻ <strong>storyworld</strong>: Mental model of the circumstances and events narrated
+
+◻ <strong>narrativity</strong>: Quality that makes a discourse more or less "story-like"
+
+◻ <strong>cognitive narratology</strong>: Approach examining mind-relevant aspects of storytelling practices
+
+<h3>Key Analytical Dimensions</h3>
+
+◻ <strong>qualia</strong>: Felt, experiential qualities of what it's like for someone or something to experience events
+
+◻ <strong>action structure</strong>: Organization of events and behaviors in narrative
+
+◻ <strong>spatiotemporal parameters</strong>: Coordinates for organizing narrative experience
+
+◻ <strong>participant roles</strong>: Functions of entities (human or nonhuman) in narrated events
+
+◻ <strong>contextualization cues</strong>: Signals indicating how narratives should be interpreted
+
+<h2>Morphisms and Relational Structures</h2>
+
+<h3>Foundational Relationships</h3>
+
+◻ <strong>narrative</strong> → <em>functions as</em> → ◻ <strong>cognitive style</strong>
+   <em>"Herman maintains that narrative is not just a discourse genre and a resource for writing, but also a cognitive style"</em>[5]
+
+◻ <strong>stories</strong> → <em>provide</em> → ◻ <strong>cognitive strategies</strong>
+   <em>"Stories are cognitive strategies that help humans make sense of their world"</em>[5]
+
+◻ <strong>narrative</strong> → <em>creates</em> → ◻ <strong>mental representations of the world</strong>
+   <em>"Conceiving of narrative 'as a strategy for creating mental representations of the world'"</em>[5]
+
+◻ <strong>Story Logic</strong> → <em>examines</em> → ◻ <strong>key concepts of narrative</strong>
+   <em>"Story Logic brings together and pointedly examines key concepts of narrative in literary criticism, linguistics, and cognitive science"</em>[1]
+
+<h3>Disciplinary Framework</h3>
+
+◻ <strong>narrative theory</strong> → <em>should be construed as</em> → ◻ <strong>resource for cognitive science</strong>
+   <em>"Both narrative theory and linguistics should instead be construed as resources for cognitive science"</em>[13]
+
+◻ <strong>language</strong> → <em>serves as</em> → ◻ <strong>tool-system for building mental models</strong>
+   <em>"Both language generally and narrative specifically can be viewed as tool-systems for building mental models of the world"</em>[13]
+
+◻ <strong>narratology</strong> → <em>can be recharacterized as</em> → ◻ <strong>subdomain of cognitive-scientific research</strong>
+   <em>"Narratology, like linguistics, can be recharacterized as a subdomain of cognitive-scientific research"</em>[13]
+
+<h2>Complex Conceptual Structures</h2>
+
+<h3>Narrative Comprehension Framework</h3>
+
+◻ <strong>narrative comprehension</strong> → <em>involves</em> → ◻ <strong>constructing mental models</strong>
+   <em>"Narrative comprehension as a process of...creating mental representations of the world"</em>[5]
+
+◻ <strong>folk psychology</strong> → <em>relies on</em> → ◻ <strong>narrative thinking</strong>
+   <em>"Folk psychology can be said to rely crucially on a style of thinking fundamentally narrative in nature"</em>[13]
+
+◻ <strong>narrative templates</strong> → <em>inform</em> → ◻ <strong>everyday thinking</strong>
+   <em>"When imputing mental states and dispositions to others, we may be recruiting from basic story templates"</em>[13]
+
+<h3>Analytical Tool Framework</h3>
+
+◻ <strong>Story Logic</strong> → <em>provides</em> → ◻ <strong>interpretive tool kit</strong>
+   <em>"Story Logic provides a powerful interpretive tool kit that broadens the applicability of narrative theory"</em>[2]
+
+◻ <strong>additional concepts</strong> → <em>enable analysis of</em> → ◻ <strong>different kinds of narratives</strong>
+   <em>"Supplementing them with a battery of additional concepts that enable many different kinds of narratives to be analyzed and understood"</em>[2]
+
+◻ <strong>narrative theory</strong> → <em>broadens</em> → ◻ <strong>applicability to complex stories</strong>
+   <em>"Broadens the applicability of narrative theory to more complex forms of stories, however and wherever they appear"</em>[2]
+
+<h3>Cognitive-Narratological Framework</h3>
+
+◻ <strong>story template</strong> → <em>negotiates</em> → ◻ <strong>passage from equilibrium through disturbance to new equilibrium</strong>
+   <em>"Basic story templates identified early on by Tzvetan Todorov (1968), who viewed narrative as an instrument for negotiating the passage from an initial state of equilibrium, through an action or event disturbing that initial state, to a terminal state in which equilibrium is reestablished but on other grounds"</em>[13]
+
+◻ <strong>participants</strong> → <em>use</em> → ◻ <strong>problem-solving criterion for action selection</strong>
+   <em>"Participants can be seen as using a problem-solving criterion for action selection; i.e., participants act in ways designed to eliminate conflicts between wished-for possible worlds and the actual worlds"</em>[13]
+
+◻ <strong>parabolic projection</strong> → <em>connects</em> → ◻ <strong>stories and analogical reasoning</strong>
+   <em>"Turner's (1996) work on a principle that he terms parabolic projection-or narrative imagining-suggests fundamental interconnections between stories and reasoning by analogy"</em>[13]
+
+<h2>Conclusion</h2>
+
+This Spencer-Brown inspired ontological model captures the rich theoretical framework of Herman's "Story Logic." Through formal distinctions (◻) and indications (→), we visualize how Herman conceptualizes narrative as simultaneously a cognitive style, a discourse genre, and a resource for writing. The model highlights his synthesis of concepts from literary criticism, linguistics, and cognitive science, and his argument that stories function as cognitive strategies helping humans make sense of their world. By positioning narrative theory as a resource for cognitive science, Herman reframes narratology as a subdomain of cognitive-scientific research, emphasizing the role of narrative in constructing mental models of reality.
+
+Citations:
+[1] https://books.google.com/books/about/Story_Logic.html?id=6jAy0Yml51gC
+[2] https://www.abebooks.com/9780803273429/Story-Logic-Problems-Possibilities-Narrative-0803273428/plp
+[3] https://www.academia.edu/47782867/Book_Review_Story_Logic_Problems_and_Possibilities_of_Narrative
+[4] http://lhn.sub.uni-hamburg.de/index.php/Cognitive_Narratology.html
+[5] https://www.proquest.com/scholarly-journals/story-logic-problems-possibilities-narrative/docview/208047487/se-2
+[6] https://www.fabula.org/actualites/3768/story-logic-problems-and-possibilities-of-narrative.html
+[7] https://www.barnesandnoble.com/w/story-logic-david-herman/1112183068
+[8] https://www.academia.edu/34397470/Review_of_Story_Logic_Problems_and_Possibilities_of_Narrative_David_Herman_Lincoln_University_of_Nebraska_Press_2002
+[9] https://web.stanford.edu/group/cslipublications/cslipublications/site/1575864681.shtml
+[10] https://www.nebraskapress.unl.edu/nebraska-paperback/9780803273429/story-logic/
+[11] https://mainstreetbooks.indielite.org/book/9780803223998
+[12] https://www.jstor.org/stable/20107238
+[13] https://www.imageandnarrative.be/inarchive/narratology/davidherman.htm
+[14] https://jgoodwin.net/academic/papers/herman_review.pdf
+
+---
+Answer from Perplexity: https://www.perplexity.ai/search/sts-ms-cat-core-26eOjT2rQjiRqIxKt6q3GA?utm_source=copy_output
+        </div>
+        
+        <footer>
+            <p>Part of the Reality Media Explorer project</p>
+            <p>Created with STS_MS_CAT_CORE HTML Converter</p>
+        </footer>
+    </div>
+</body>
+</html>

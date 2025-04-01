@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
+    <title>Galison Datson STS</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="script.js" defer></script>
+</head>
+<body>
+    <div class="theme-toggle" id="themeToggle" title="Toggle Dark/Light Mode">
+        ☀️
+    </div>
+    
+    <div class="container">
+        <header>
+            <a href="index.html" class="back-link">← Back to Author Catalog</a>
+            <h1>Galison Datson STS</h1>
+            <span class="tag sts">STS</span>
+        </header>
+        
+        <div class="content">
+<h2>Objectivity in Historical Context: Daston and Galison's Epistemic Virtues</h2>
+
+This Spencer-Brown inspired ontological model captures the rich historical framework of Daston and Galison's "Objectivity." Through formal distinctions (◻) and indications (→), we visualize how objectivity emerged as a specific epistemic virtue in the mid-nineteenth century, distinct from the earlier truth-to-nature and later supplemented by trained judgment. The model highlights their central insight that each epistemic virtue corresponds to a particular conception of the scientific self, showing how knowledge practices are inseparable from ethical self-cultivation. The structured index reveals how scientific atlases served as sites where these shifting epistemic commitments became visible, and how the meaning of objectivity has been continuously renegotiated throughout the history of science.
+
+<div class="citations ultra-dense">
+<h3>Citations</h3>
+<p class="citation"><a href="#citation-1" class="citation-number">[1]</a> <a href="https://journals.sagepub.com/doi/10.1177/004839319402400304" target="_blank">https://journals.sagepub.com/doi/10.1177/004839319402400304</a></p>
+<p class="citation"><a href="#citation-2" class="citation-number">[2]</a> <a href="https://scholar.harvard.edu/files/shapin/files/shapin-here_and_everywhere_1995.pdf" target="_blank">https://scholar.harvard.edu/files/shapin/files/shapin-here_and_everywhere_1995.pdf</a></p>
+<p class="citation"><a href="#citation-3" class="citation-number">[3]</a> <a href="https://partiallyexaminedlife.com/2015/04/08/science-technology-and-society-vi-david-bloor-and-the-strong-programme-in-the-sociology-of-knowledge/" target="_blank">https://partiallyexaminedlife.com/2015/04/08/science-technology-and-society-vi-david-bloor-and-the-strong-programme-in-the-sociology-of-knowledge/</a></p>
+<p class="citation"><a href="#citation-4" class="citation-number">[4]</a> <a href="https://altexploit.wordpress.com/wp-content/uploads/2017/09/david-bloor-knowledge-and-social-imagery-university-of-chicago-press-1991.pdf" target="_blank">https://altexploit.wordpress.com/wp-content/uploads/2017/09/david-bloor-knowledge-and-social-imagery-university-of-chicago-press-1991.pdf</a></p>
+<p class="citation"><a href="#citation-5" class="citation-number">[5]</a> <a href="https://en.wikipedia.org/wiki/David_Bloor" target="_blank">https://en.wikipedia.org/wiki/David_Bloor</a></p>
+<p class="citation"><a href="#citation-6" class="citation-number">[6]</a> <a href="https://books.openedition.org/obp/5072?lang=en" target="_blank">https://books.openedition.org/obp/5072?lang=en</a></p>
+</div>
+        </div>
+        
+        <footer>
+            <p>Part of the Reality Media Explorer project</p>
+            <p>Created with STS_MS_CAT_CORE HTML Converter</p>
+        </footer>
+    </div>
+</body></html>

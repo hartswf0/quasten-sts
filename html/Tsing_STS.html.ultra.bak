@@ -1,0 +1,182 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tsing STS</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="script.js" defer></script>
+</head>
+<body>
+    <div class="theme-toggle" id="themeToggle" title="Toggle Dark/Light Mode">
+        ☀️
+    </div>
+    
+    <div class="container">
+        <header>
+            <a href="index.html" class="back-link">← Back to Author Catalog</a>
+            <h1>Tsing STS</h1>
+            <span class="tag sts">STS</span>
+        </header>
+        
+        <div class="content" >
+            <h1>A Spencer-Brown Inspired Ontological Model of Tsing's "The Mushroom at the End of the World"</h1>
+
+This report presents a structured ontological index of Anna Lowenhaupt Tsing's influential 2015 work "The Mushroom at the End of the World: On the Possibility of Life in Capitalist Ruins" using Spencer-Brown's calculus of distinctions. By marking entities as distinctions (◻) and relationships as indications (→), we create a formal representation that illuminates the conceptual architecture of Tsing's examination of matsutake mushrooms and their significance for understanding life in the aftermath of capitalist extraction.
+
+<h2>Foundational Entities and Primary Distinctions</h2>
+
+<h3>Core Theoretical Constructs</h3>
+
+◻ <strong>The Mushroom at the End of the World</strong>: Tsing's 2015 book examining possibilities of life in capitalist ruins
+
+◻ <strong>matsutake</strong>: The most valuable mushroom in the world, growing in human-disturbed forests
+
+◻ <strong>capitalist ruins</strong>: Landscapes abandoned after extraction of singular assets
+
+◻ <strong>precarity</strong>: Condition of being vulnerable to others; indeterminacy of existence
+
+◻ <strong>salvage accumulation</strong>: Process through which capital is amassed without controlling production conditions
+
+◻ <strong>pericapitalist</strong>: Sites that are simultaneously inside and outside capitalism
+
+◻ <strong>assemblage</strong>: Gathering of diverse elements that creates possibilities beyond the sum of parts
+
+◻ <strong>multispecies world-making</strong>: Collaborative processes through which humans and nonhumans create ecological niches
+
+<h3>Key Conceptual Domains</h3>
+
+◻ <strong>commodity chain</strong>: Global networks connecting matsutake foragers, traders, and consumers
+
+◻ <strong>human disturbance</strong>: Activities that transform ecosystems in ways that can support matsutake growth
+
+◻ <strong>Anthropocene</strong>: Current epoch characterized by destabilizing human impact on Earth
+
+◻ <strong>ecological resilience</strong>: Capacity for life to emerge in disturbed environments
+
+◻ <strong>indeterminacy</strong>: Unpredictability at the heart of interspecies encounters
+
+◻ <strong>collaboration</strong>: Interactions between species that create possibilities for mutual survival
+
+<h2>Morphisms and Relational Structures</h2>
+
+<h3>Foundational Relationships</h3>
+
+◻ <strong>matsutake</strong> → <em>thrives in</em> → ◻ <strong>human-disturbed forests</strong>
+   <em>"Matsutake is the most valuable mushroom in the world—and a weed that grows in human-disturbed forests across the northern hemisphere"</em><a href="#citation-2" class="citation-number"><a href="#citation-2" class="citation-number">[2]</a></a>
+
+◻ <strong>humans</strong> → <em>make</em> → ◻ <strong>ecological living places</strong>
+   <em>"Making worlds is not limited to humans. We know that beavers reshape streams as they make dams, canals, and lodges; in fact, all organisms make ecological living places"</em><a href="#citation-4" class="citation-number"><a href="#citation-4" class="citation-number">[4]</a></a>
+
+◻ <strong>multispecies encounters</strong> → <em>involve</em> → ◻ <strong>indeterminacy</strong>
+   <em>"Precarity is the condition of being vulnerable to others. Unpredictable encounters transform us: we are not in control, even of ourselves"</em><a href="#citation-3" class="citation-number"><a href="#citation-3" class="citation-number">[3]</a></a>
+
+◻ <strong>alienation</strong> → <em>creates</em> → ◻ <strong>ruins</strong>
+   <em>"Alienation obviates living-space entanglement. The dream of alienation inspires landscape modification in which only one stand-alone asset matters; everything else becomes weeds or waste"</em><a href="#citation-4" class="citation-number"><a href="#citation-4" class="citation-number">[4]</a></a>
+
+<h3>Economic Framework Relationships</h3>
+
+◻ <strong>supply chains</strong> → <em>translate between</em> → ◻ <strong>capitalist and non-capitalist value systems</strong>
+   <em>"'Supply Chains' are commodity chains that translate value to the benefit of dominant firms; translation between non-capitalist and capitalist value systems is what they do"</em><a href="#citation-13" class="citation-number"><a href="#citation-13" class="citation-number">[13]</a></a>
+
+◻ <strong>salvage capitalism</strong> → <em>takes advantage of</em> → ◻ <strong>value produced without capitalist control</strong>
+   <em>"This is what I shall call 'salvage,' that is, taking advantage of value produced without capitalist control"</em><a href="#citation-5" class="citation-number"><a href="#citation-5" class="citation-number">[5]</a></a>
+
+◻ <strong>pericapitalist spaces</strong> → <em>exist</em> → ◻ <strong>simultaneously inside and outside capitalism</strong>
+   <em>"Pericapitalist (as opposed to postcapitalist) is a term that acknowledges, that we are caught in constant transitions and translations between gift and commodity"</em><a href="#citation-8" class="citation-number"><a href="#citation-8" class="citation-number">[8]</a></a>
+
+◻ <strong>capitalist firms</strong> → <em>depend on</em> → ◻ <strong>life processes outside their control</strong>
+   <em>"Even in industrial farms, farmers depend on life processes outside of their control, such as photosynthesis and animal digestion"</em><a href="#citation-5" class="citation-number"><a href="#citation-5" class="citation-number">[5]</a></a>
+
+<h2>Complex Conceptual Structures</h2>
+
+<h3>Assemblage Framework</h3>
+
+◻ <strong>assemblages</strong> → <em>gather</em> → ◻ <strong>lifeways</strong>
+   <em>"Assemblages don't just gather lifeways; they make them"</em><a href="#citation-4" class="citation-number"><a href="#citation-4" class="citation-number">[4]</a></a>
+
+◻ <strong>assemblages</strong> → <em>allow</em> → ◻ <strong>multiple species to coexist</strong>
+   <em>"World-making projects can overlap, allowing room for more than one species"</em><a href="#citation-4" class="citation-number"><a href="#citation-4" class="citation-number">[4]</a></a>
+
+◻ <strong>patterns</strong> → <em>develop in</em> → ◻ <strong>assemblages</strong>
+   <em>"Patterns of unintentional coordination develop in assemblages"</em><a href="#citation-4" class="citation-number"><a href="#citation-4" class="citation-number">[4]</a></a>
+
+◻ <strong>species identity</strong> → <em>is just</em> → ◻ <strong>starting point</strong>
+   <em>"For living things, species identities are a place to begin, but they are not enough: ways of being are emergent effects of encounters"</em><a href="#citation-4" class="citation-number"><a href="#citation-4" class="citation-number">[4]</a></a>
+
+<h3>Precarity and Survival Framework</h3>
+
+◻ <strong>precarity</strong> → <em>requires</em> → ◻ <strong>collaborative survival</strong>
+   <em>"We change through our collaborations both within and across species"</em><a href="#citation-3" class="citation-number"><a href="#citation-3" class="citation-number">[3]</a></a>
+
+◻ <strong>survival</strong> → <em>always involves</em> → ◻ <strong>others</strong>
+   <em>"If survival always involves others, it is also necessarily subject to the indeterminacy of self-and-other transformations"</em><a href="#citation-3" class="citation-number"><a href="#citation-3" class="citation-number">[3]</a></a>
+
+◻ <strong>life</strong> → <em>continues in</em> → ◻ <strong>capitalist ruins</strong>
+   <em>"Still, these places can be lively despite announcements of their death"</em><a href="#citation-7" class="citation-number"><a href="#citation-7" class="citation-number">[7]</a></a>
+
+◻ <strong>precarious encounters</strong> → <em>transform</em> → ◻ <strong>participants</strong>
+   <em>"The important stuff for life on earth happens in those transformations, not in the decision trees of self-contained individuals"</em><a href="#citation-3" class="citation-number"><a href="#citation-3" class="citation-number">[3]</a></a>
+
+<h3>Unintentional Design Framework</h3>
+
+◻ <strong>pine forests</strong> → <em>emerge from</em> → ◻ <strong>unintentional design</strong>
+   <em>"One could say that pines, matsutake, and humans all cultivate each other unintentionally"</em><a href="#citation-1" class="citation-number"><a href="#citation-1" class="citation-number">[1]</a></a>
+
+◻ <strong>landscapes</strong> → <em>are products of</em> → ◻ <strong>overlapping world-making activities</strong>
+   <em>"Landscapes are products of unintentional design, that is, the overlapping world-making activities of many agents, human and not human"</em><a href="#citation-1" class="citation-number"><a href="#citation-1" class="citation-number">[1]</a></a>
+
+◻ <strong>unintentional design</strong> → <em>decenters</em> → ◻ <strong>human hubris</strong>
+   <em>"As sites for more-than-human dramas, landscapes are radical tools for decentering human hubris"</em><a href="#citation-1" class="citation-number"><a href="#citation-1" class="citation-number">[1]</a></a>
+
+◻ <strong>indeterminacy</strong> → <em>characterizes</em> → ◻ <strong>life in the Anthropocene</strong>
+   <em>"In her opinion, life in the age of the Anthropocene is characterized by uncertainty"</em><a href="#citation-3" class="citation-number"><a href="#citation-3" class="citation-number">[3]</a></a>
+
+<h2>Case Studies and Applied Examples</h2>
+
+<h3>Matsutake Networks</h3>
+
+◻ <strong>matsutake commerce</strong> → <em>connects</em> → ◻ <strong>diverse communities</strong>
+   <em>"These companions lead us into fungal ecologies and forest histories to better understand the promise of cohabitation in a time of massive human destruction"</em><a href="#citation-2" class="citation-number"><a href="#citation-2" class="citation-number">[2]</a></a>
+
+◻ <strong>matsutake</strong> → <em>grows in</em> → ◻ <strong>Oregon, Yunnan, and Lapland</strong>
+   <em>"The matsutake is considered a delicacy and thrives in human-disturbed forests, foraged by humans in locales as diverse as Oregon, Yunnan, and Lapland"</em><a href="#citation-1" class="citation-number"><a href="#citation-1" class="citation-number">[1]</a></a>
+
+◻ <strong>Japanese consumers</strong> → <em>prize</em> → ◻ <strong>matsutake as gifts</strong>
+   <em>"In the book, Tsing follows foragers as they search for matsutakes, the traders who buy and sell them, and the Japanese consumers who especially prize them, largely as gifts"</em><a href="#citation-1" class="citation-number"><a href="#citation-1" class="citation-number">[1]</a></a>
+
+◻ <strong>matsutake</strong> → <em>resists</em> → ◻ <strong>cultivation</strong>
+   <em>"Tsing highlights both the resilience of the matsutake, which humans have found cannot be cultivated"</em><a href="#citation-1" class="citation-number"><a href="#citation-1" class="citation-number">[1]</a></a>
+
+<h2>Conclusion</h2>
+
+This Spencer-Brown inspired ontological model captures the rich theoretical framework of Tsing's "The Mushroom at the End of the World." Through formal distinctions (◻) and indications (→), we visualize how Tsing conceptualizes possibilities for life in capitalist ruins through the lens of matsutake mushrooms. The model highlights the central concepts of precarity, assemblage, salvage accumulation, and pericapitalism that Tsing develops to understand how humans and nonhumans collaborate in the aftermath of capitalist extraction. This structured index reveals Tsing's contribution to multispecies ethnography and her challenge to progress narratives by showing how life continues in unexpected ways amid ruins and disturbance.
+
+Citations:
+<a href="#citation-1" class="citation-number"><a href="#citation-1" class="citation-number">[1]</a></a> https://en.wikipedia.org/wiki/The_Mushroom_at_the_End_of_the_World
+<a href="#citation-2" class="citation-number"><a href="#citation-2" class="citation-number">[2]</a></a> https://www.powells.com/book/mushroom-at-the-end-of-the-world-on-the-possibility-of-life-in-capitalist-ruins-9780691220550
+<a href="#citation-3" class="citation-number"><a href="#citation-3" class="citation-number">[3]</a></a> https://www.en.envstudies.carsoncenter.uni-muenchen.de/student-broadcasts/short-stories/environmental-anthropology/a-multispecies-pluriverse.pdf
+<a href="#citation-4" class="citation-number"><a href="#citation-4" class="citation-number">[4]</a></a> https://libarynth.org/the_mushroom_at_the_end_of_the_world
+<a href="#citation-5" class="citation-number"><a href="#citation-5" class="citation-number">[5]</a></a> https://aworkinglibrary.com/writing/salvage
+<a href="#citation-6" class="citation-number"><a href="#citation-6" class="citation-number">[6]</a></a> https://stateofthediscipline.acla.org/entry/love-stories-or-multispecies-ethnography-comparative-literature-and-their-entanglements
+<a href="#citation-7" class="citation-number"><a href="#citation-7" class="citation-number">[7]</a></a> http://naturalezacienciaysociedad.org/wp-content/uploads/sites/3/2016/02/Tsing-Anna-Lowenhaupt-The-mushroom-at-the-end-of-the-world-on-the-possibility-of-life-in-capitalist-ruins-Princeton-University-Press-2015.pdf
+<a href="#citation-8" class="citation-number"><a href="#citation-8" class="citation-number">[8]</a></a> http://makecommoningwork.fed.wiki/pericapitalist.html
+<a href="#citation-9" class="citation-number"><a href="#citation-9" class="citation-number">[9]</a></a> https://culanth.org/fieldsights/work-and-nonwork-in-pericapitalist-sites
+<a href="#citation-10" class="citation-number"><a href="#citation-10" class="citation-number">[10]</a></a> https://aworkinglibrary.com/reading/mushroom-at-the-end-of-the-world
+<a href="#citation-11" class="citation-number"><a href="#citation-11" class="citation-number">[11]</a></a> https://www.environmentandsociety.org/sites/default/files/key_docs/eh_1.9_tsing.pdf
+<a href="#citation-12" class="citation-number"><a href="#citation-12" class="citation-number">[12]</a></a> https://cosmopolis.alanwoo.ca/media/pages/events/08-11-19/collective-thinking/bf13aaa861-1573120369/tsing-anna-lowenhaupt-the-mushroom-at-the-end-of-the-world-prologue-chapter-one.pdf
+<a href="#citation-13" class="citation-number"><a href="#citation-13" class="citation-number">[13]</a></a> https://www.anthro.unibe.ch/unibe/portal/fak_historisch/dkk/anthro/content/e40416/e96353/e106464/files1063599/SupplyChains_SalvageAccumulation_andtheProblemwithLabour_JonasBernetta_Cor_ger.pdf
+<a href="#citation-14" class="citation-number"><a href="#citation-14" class="citation-number">[14]</a></a> https://www.journals.uchicago.edu/doi/abs/10.1086/703391
+<a href="#citation-15" class="citation-number"><a href="#citation-15" class="citation-number">[15]</a></a> https://culanth.org/fieldsights/the-world-is-ending-what-now
+<a href="#citation-16" class="citation-number"><a href="#citation-16" class="citation-number">[16]</a></a> https://knowledge.uchicago.edu/record/3107/files/D'Anieri%20MA%20Thesis.pdf
+
+---
+        </div>
+        
+        <footer>
+            <p>Part of the Reality Media Explorer project</p>
+            <p>Created with STS_MS_CAT_CORE HTML Converter</p>
+        </footer>
+    </div>
+</body>
+</html>

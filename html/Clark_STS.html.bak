@@ -1,0 +1,176 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Clark STS</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="script.js" defer></script>
+</head>
+<body>
+    <div class="theme-toggle" id="themeToggle" title="Toggle Dark/Light Mode">
+        ☀️
+    </div>
+    
+    <div class="container">
+        <header>
+            <a href="index.html" class="back-link">← Back to Author Catalog</a>
+            <h1>Clark STS</h1>
+            <span class="tag sts">STS</span>
+        </header>
+        
+        <div class="content">
+            <h1>A Spencer-Brown Inspired Ontological Model of "Situational Analysis in Practice"</h1>
+
+This report presents a structured ontological index of Adele E. Clarke, Carrie Friese, Rachel Washburn, and Kathy Charmaz's 2015 work "Situational Analysis in Practice: Mapping Research with Grounded Theory" using Spencer-Brown's calculus of distinctions. By marking entities as distinctions (◻) and relationships as indications (→), we create a formal representation that illuminates the conceptual architecture of this methodological innovation.
+
+<h2>Foundational Entities and Primary Distinctions</h2>
+
+<h3>Core Theoretical Constructs</h3>
+
+◻ <strong>Situational Analysis</strong>: Extension of grounded theory focusing on embodiment and situatedness of the researcher
+
+◻ <strong>Grounded Theory</strong>: Methodological foundation that Situational Analysis extends
+
+◻ <strong>situation of inquiry</strong>: The fundamental unit of analysis in Situational Analysis
+
+◻ <strong>constructivist grounded theory</strong>: Charmaz's approach that attends to researchers' subjectivity
+
+◻ <strong>social worlds/arenas theory</strong>: Strauss's theoretical contribution incorporated in Situational Analysis
+
+◻ <strong>pragmatist interactionism</strong>: Philosophical foundation shared with traditional grounded theory
+
+<h3>Key Methodological Tools</h3>
+
+◻ <strong>maps</strong>: The primary analytical tool in Situational Analysis
+
+◻ <strong>situational maps</strong>: Maps that lay out all major elements in the research situation
+
+◻ <strong>social worlds/arenas maps</strong>: Maps that lay out collective actors and their relationships
+
+◻ <strong>positional maps</strong>: Maps that represent positions taken in discourses
+
+◻ <strong>relational analysis</strong>: Systematic exploration of relationships between elements
+
+<h2>Morphisms and Relational Structures</h2>
+
+<h3>Foundational Relationships</h3>
+
+◻ <strong>Situational Analysis</strong> → <em>extends</em> → ◻ <strong>Grounded Theory</strong>
+   <em>Builds on grounded theory while addressing its limitations</em>[1][7]
+
+◻ <strong>Situational Analysis</strong> → <em>focuses on</em> → ◻ <strong>embodiment and situatedness</strong>
+   <em>Emphasizes researcher's position and context</em>[2]
+
+◻ <strong>Situational Analysis</strong> → <em>transforms</em> → ◻ <strong>research situation</strong>
+   <em>Makes the situation itself an object of analysis</em>[10]
+
+◻ <strong>Situational Analysis</strong> → <em>incorporates</em> → ◻ <strong>discourse analysis</strong>
+   <em>Extends beyond interview data to analyze discourses</em>[10]
+
+◻ <strong>Situational Analysis</strong> → <em>emerges from</em> → ◻ <strong>critique of grounded theory</strong>
+   <em>Addresses positivist underpinnings of traditional approaches</em>[7]
+
+<h3>Map Relationships</h3>
+
+◻ <strong>situational maps</strong> → <em>lay out</em> → ◻ <strong>human and nonhuman elements</strong>
+   <em>Capture all important elements in the research situation</em>[3][7]
+
+◻ <strong>social worlds/arenas maps</strong> → <em>represent</em> → ◻ <strong>collective actors</strong>
+   <em>Map organizational and institutional dimensions</em>[3]
+
+◻ <strong>positional maps</strong> → <em>articulate</em> → ◻ <strong>positions in discourses</strong>
+   <em>Represent viewpoints independent of specific individuals</em>[3][10]
+
+◻ <strong>relational analysis</strong> → <em>connects</em> → ◻ <strong>elements on situational maps</strong>
+   <em>Examines relationships between mapped elements</em>[7]
+
+<h2>Complex Conceptual Structures</h2>
+
+<h3>Map Construction Process</h3>
+
+◻ <strong>messy maps</strong> → <em>evolve into</em> → ◻ <strong>ordered maps</strong>
+   <em>Initial chaotic representations become more structured</em>[2]
+
+◻ <strong>maps</strong> → <em>are revised after</em> → ◻ <strong>data collection waves</strong>
+   <em>Maps evolve throughout the research process</em>[3]
+
+◻ <strong>maps</strong> → <em>provoke</em> → ◻ <strong>analytic memos</strong>
+   <em>Researchers write about insights gained from maps</em>[3][10]
+
+◻ <strong>positional maps</strong> → <em>are created</em> → ◻ <strong>late in research process</strong>
+   <em>Typically developed after most data are collected</em>[2]
+
+<h3>Theoretical Foundations</h3>
+
+◻ <strong>Situational Analysis</strong> → <em>aligns with</em> → ◻ <strong>constructivist approach</strong>
+   <em>Shares philosophical foundations with Charmaz's constructivist grounded theory</em>[5][7]
+
+◻ <strong>Situational Analysis</strong> → <em>draws on</em> → ◻ <strong>pragmatist interactionism</strong>
+   <em>Incorporates Strauss's theoretical perspective</em>[3]
+
+◻ <strong>Situational Analysis</strong> → <em>incorporates</em> → ◻ <strong>nonhuman elements</strong>
+   <em>Includes technical and material aspects in analysis</em>[7]
+
+◻ <strong>Situational Analysis</strong> → <em>rejects</em> → ◻ <strong>basic social process</strong>
+   <em>Moves away from simplified core categories</em>[7]
+
+<h2>Methodological Innovations</h2>
+
+<h3>Distinctive Features</h3>
+
+◻ <strong>Situational Analysis</strong> → <em>enhances</em> → ◻ <strong>researcher reflexivity</strong>
+   <em>Promotes awareness of researcher's position</em>[10]
+
+◻ <strong>Situational Analysis</strong> → <em>elucidates</em> → ◻ <strong>differences and varied perspectives</strong>
+   <em>Attends to complexity and diverse viewpoints</em>[10]
+
+◻ <strong>Situational Analysis</strong> → <em>helps</em> → ◻ <strong>silences speak</strong>
+   <em>Identifies absent positions in discourses</em>[10]
+
+◻ <strong>Situational Analysis</strong> → <em>moves beyond</em> → ◻ <strong>knowing subject of interviews</strong>
+   <em>Incorporates discourse analysis beyond individual accounts</em>[10]
+
+<h3>Applications and Uses</h3>
+
+◻ <strong>Situational Analysis</strong> → <em>is used in</em> → ◻ <strong>health and educational settings</strong>
+   <em>Applied in various research contexts</em>[1][6]
+
+◻ <strong>Situational Analysis</strong> → <em>supports</em> → ◻ <strong>collaborative analysis</strong>
+   <em>Enables team-based research approaches</em>[4]
+
+◻ <strong>Situational Analysis</strong> → <em>guides</em> → ◻ <strong>mixed-methods projects</strong>
+   <em>Provides framework for integrating varied data types</em>[4]
+
+◻ <strong>Situational Analysis</strong> → <em>travels across</em> → ◻ <strong>multiple disciplines</strong>
+   <em>Used by researchers in various fields</em>[4]
+
+<h2>Conclusion</h2>
+
+This Spencer-Brown inspired ontological model captures the rich methodological framework of "Situational Analysis in Practice." Through formal distinctions (◻) and indications (→), we visualize how Clarke and colleagues conceptualize Situational Analysis as an extension of grounded theory that emphasizes the situation of inquiry, researcher reflexivity, and complexity of social processes. The model highlights the central role of mapping as an analytical tool and the three types of maps—situational, social worlds/arenas, and positional—that constitute the methodological innovation of Situational Analysis.
+
+Citations:
+[1] https://www.semanticscholar.org/paper/Situational-Analysis-in-Practice-:-Mapping-Research-Clarke-Friese/7f20e0533c1bacffe57f2e6964c3a85522dee086
+[2] https://www.morgan-klaus.com/readings/situational-analysis-1.html
+[3] https://api.pageplace.de/preview/DT0400.9781000540116_A42450792/preview-9781000540116_A42450792.pdf
+[4] https://www.perlego.com/book/3282569/situational-analysis-in-practice-mapping-relationalities-across-disciplines-pdf
+[5] https://nsuworks.nova.edu/cgi/viewcontent.cgi?article=6163&context=tqr
+[6] https://www.taylorfrancis.com/books/mono/10.4324/9781315420134/situational-analysis-practice-adele-clarke-rachel-washburn-carrie-friese-adele-clarke-rachel-washburn
+[7] https://www.qualitative-research.net/index.php/fqs/article/download/432/934?inline=1
+[8] https://books.google.com/books/about/Situational_Analysis_in_Practice.html?id=GF6TDAAAQBAJ
+[9] https://books.google.com/books/about/Situational_Analysis_in_Practice.html?id=zXv8CAAAQBAJ
+[10] https://research-proposal.ir/wp-content/uploads/2019/06/Situational_Analysis_in_Practice__Mapping_Research_with_Grounded_Theory.pdf
+[11] https://www.qualitative-research.net/index.php/fqs/article/view/4061
+[12] https://www.routledge.com/Situational-Analysis-in-Practice-Mapping-Relationalities-Across-Disciplines/Clarke-Washburn-Friese/p/book/9780367470999
+
+---
+Answer from Perplexity: https://www.perplexity.ai/search/sts-ms-cat-core-26eOjT2rQjiRqIxKt6q3GA?utm_source=copy_output
+        </div>
+        
+        <footer>
+            <p>Part of the Reality Media Explorer project</p>
+            <p>Created with STS_MS_CAT_CORE HTML Converter</p>
+        </footer>
+    </div>
+</body>
+</html>

@@ -1,0 +1,159 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Benjamin STS</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="script.js" defer></script>
+</head>
+<body>
+    <div class="theme-toggle" id="themeToggle" title="Toggle Dark/Light Mode">
+        ☀️
+    </div>
+    
+    <div class="container">
+        <header>
+            <a href="index.html" class="back-link">← Back to Author Catalog</a>
+            <h1>Benjamin STS</h1>
+            <span class="tag sts">STS</span>
+        </header>
+        
+        <div class="content" >
+            <h1>A Spencer-Brown Inspired Ontological Model of Ruha Benjamin's "Race After Technology"</h1>
+
+This report presents a structured ontological index of Ruha Benjamin's influential 2019 work "Race After Technology: Abolitionist Tools for the New Jim Code" using Spencer-Brown's calculus of distinctions. By marking entities as distinctions (◻) and relationships as indications (→), we create a formal representation that illuminates the book's key arguments about technology's role in perpetuating racial hierarchies.
+
+<h2>Primary Entities and Foundational Distinctions</h2>
+
+<h3>Core Theoretical Constructs</h3>
+
+◻ <strong>Race After Technology</strong>: Benjamin's 2019 book examining discriminatory design in technology<a href="#citation-1" class="citation-number"><a href="#citation-1" class="citation-number">[1]</a></a>
+
+◻ <strong>New Jim Code</strong>: Benjamin's central theoretical framework describing discriminatory designs that encode inequity<a href="#citation-2" class="citation-number"><a href="#citation-2" class="citation-number">[2]</a></a><a href="#citation-5" class="citation-number"><a href="#citation-5" class="citation-number">[5]</a></a><a href="#citation-6" class="citation-number"><a href="#citation-6" class="citation-number">[6]</a></a>
+
+◻ <strong>discriminatory design</strong>: Technology design that encodes inequality through seemingly neutral systems<a href="#citation-1" class="citation-number"><a href="#citation-1" class="citation-number">[1]</a></a><a href="#citation-5" class="citation-number"><a href="#citation-5" class="citation-number">[5]</a></a>
+
+◻ <strong>race as technology</strong>: Conceptualization of race itself as a tool designed to stratify and sanctify social injustice<a href="#citation-6" class="citation-number"><a href="#citation-6" class="citation-number">[6]</a></a><a href="#citation-7" class="citation-number"><a href="#citation-7" class="citation-number">[7]</a></a>
+
+◻ <strong>abolitionist tools</strong>: Conceptual frameworks offered to counter discriminatory design<a href="#citation-5" class="citation-number"><a href="#citation-5" class="citation-number">[5]</a></a><a href="#citation-7" class="citation-number"><a href="#citation-7" class="citation-number">[7]</a></a>
+
+◻ <strong>race neutrality</strong>: A destructive force that masks how technologies reproduce inequalities<a href="#citation-5" class="citation-number"><a href="#citation-5" class="citation-number">[5]</a></a>
+
+◻ <strong>race critical code studies</strong>: The hybrid literature in which Benjamin situates her work<a href="#citation-5" class="citation-number"><a href="#citation-5" class="citation-number">[5]</a></a>
+
+<h3>Forms of Discriminatory Design</h3>
+
+◻ <strong>explicit hierarchical amplification</strong>: Discriminatory designs that overtly amplify racial hierarchies<a href="#citation-2" class="citation-number"><a href="#citation-2" class="citation-number">[2]</a></a><a href="#citation-5" class="citation-number"><a href="#citation-5" class="citation-number">[5]</a></a><a href="#citation-6" class="citation-number"><a href="#citation-6" class="citation-number">[6]</a></a>
+
+◻ <strong>default replication</strong>: Designs that ignore but thereby replicate social divisions<a href="#citation-2" class="citation-number"><a href="#citation-2" class="citation-number">[2]</a></a><a href="#citation-5" class="citation-number"><a href="#citation-5" class="citation-number">[5]</a></a><a href="#citation-6" class="citation-number"><a href="#citation-6" class="citation-number">[6]</a></a>
+
+◻ <strong>failed bias fixes</strong>: Technologies aiming to fix racial bias but doing the opposite<a href="#citation-2" class="citation-number"><a href="#citation-2" class="citation-number">[2]</a></a><a href="#citation-5" class="citation-number"><a href="#citation-5" class="citation-number">[5]</a></a><a href="#citation-6" class="citation-number"><a href="#citation-6" class="citation-number">[6]</a></a>
+
+◻ <strong>coded bias</strong>: Discrimination embedded within technological systems<a href="#citation-4" class="citation-number"><a href="#citation-4" class="citation-number">[4]</a></a><a href="#citation-5" class="citation-number"><a href="#citation-5" class="citation-number">[5]</a></a>
+
+◻ <strong>imagined objectivity</strong>: The perceived neutrality of technologies that masks their bias<a href="#citation-5" class="citation-number"><a href="#citation-5" class="citation-number">[5]</a></a>
+
+<h2>Morphisms and Relational Structures</h2>
+
+<h3>Theoretical Relationships</h3>
+
+◻ <strong>New Jim Code</strong> → <em>comprises</em> → ◻ <strong>range of discriminatory designs</strong>
+   <em>Different types of discriminatory designs that work in various ways to encode inequity</em><a href="#citation-2" class="citation-number"><a href="#citation-2" class="citation-number">[2]</a></a><a href="#citation-5" class="citation-number"><a href="#citation-5" class="citation-number">[5]</a></a><a href="#citation-6" class="citation-number"><a href="#citation-6" class="citation-number">[6]</a></a>
+
+◻ <strong>race</strong> → <em>functions as</em> → ◻ <strong>technology</strong>
+   <em>Race itself operates as a technology designed to stratify social injustice</em><a href="#citation-6" class="citation-number"><a href="#citation-6" class="citation-number">[6]</a></a><a href="#citation-7" class="citation-number"><a href="#citation-7" class="citation-number">[7]</a></a>
+
+◻ <strong>technology</strong> → <em>appears as</em> → ◻ <strong>neutral and benevolent</strong>
+   <em>Technology presents itself as objective while hiding discrimination</em><a href="#citation-2" class="citation-number"><a href="#citation-2" class="citation-number">[2]</a></a><a href="#citation-5" class="citation-number"><a href="#citation-5" class="citation-number">[5]</a></a><a href="#citation-7" class="citation-number"><a href="#citation-7" class="citation-number">[7]</a></a>
+
+◻ <strong>Race After Technology</strong> → <em>provides</em> → ◻ <strong>conceptual tools</strong>
+   <em>The book offers tools to decode tech promises with sociological skepticism</em><a href="#citation-4" class="citation-number"><a href="#citation-4" class="citation-number">[4]</a></a><a href="#citation-5" class="citation-number"><a href="#citation-5" class="citation-number">[5]</a></a><a href="#citation-7" class="citation-number"><a href="#citation-7" class="citation-number">[7]</a></a>
+
+◻ <strong>New Jim Code</strong> → <em>enables</em> → ◻ <strong>social containment</strong>
+   <em>Innovation that maintains social control while appearing fairer than previous eras</em><a href="#citation-5" class="citation-number"><a href="#citation-5" class="citation-number">[5]</a></a>
+
+◻ <strong>coded bias</strong> + ◻ <strong>imagined objectivity</strong> → <em>produces</em> → ◻ <strong>New Jim Code</strong>
+   <em>The combination creates a system that hides the nature of domination</em><a href="#citation-5" class="citation-number"><a href="#citation-5" class="citation-number">[5]</a></a>
+
+<h3>Technological Impact Relationships</h3>
+
+◻ <strong>technology</strong> → <em>can hide, speed, and deepen</em> → ◻ <strong>discrimination</strong>
+   <em>Technology has the potential to conceal and accelerate discriminatory practices</em><a href="#citation-2" class="citation-number"><a href="#citation-2" class="citation-number">[2]</a></a><a href="#citation-5" class="citation-number"><a href="#citation-5" class="citation-number">[5]</a></a><a href="#citation-6" class="citation-number"><a href="#citation-6" class="citation-number">[6]</a></a>
+
+◻ <strong>automation</strong> → <em>reinforces</em> → ◻ <strong>White supremacy</strong>
+   <em>Automated systems can deepen social inequity while appearing neutral</em><a href="#citation-5" class="citation-number"><a href="#citation-5" class="citation-number">[5]</a></a><a href="#citation-7" class="citation-number"><a href="#citation-7" class="citation-number">[7]</a></a>
+
+◻ <strong>technologies</strong> → <em>reinforce and deepen</em> → ◻ <strong>societal inequities</strong>
+   <em>Tech systems amplify existing social divisions rather than resolving them</em><a href="#citation-1" class="citation-number"><a href="#citation-1" class="citation-number">[1]</a></a><a href="#citation-3" class="citation-number"><a href="#citation-3" class="citation-number">[3]</a></a>
+
+◻ <strong>race neutrality</strong> → <em>functions as</em> → ◻ <strong>deadly force</strong>
+   <em>The apparent neutrality of technology enables harm to marginalized communities</em><a href="#citation-5" class="citation-number"><a href="#citation-5" class="citation-number">[5]</a></a>
+
+<h2>Empirical Examples and Case Studies</h2>
+
+<h3>Documented Instances of Discriminatory Design</h3>
+
+◻ <strong>gang database</strong> → <em>exhibits</em> → ◻ <strong>discriminatory design</strong>
+   <em>A database that is 87% Black and Latinx, including babies under age 1</em><a href="#citation-1" class="citation-number"><a href="#citation-1" class="citation-number">[1]</a></a>
+
+◻ <strong>beauty contest algorithm</strong> → <em>exhibits</em> → ◻ <strong>discriminatory design</strong>
+   <em>A robot-judged contest where all winners were white with only one dark-skinned finalist</em><a href="#citation-1" class="citation-number"><a href="#citation-1" class="citation-number">[1]</a></a>
+
+◻ <strong>recidivism risk algorithm</strong> → <em>exhibits</em> → ◻ <strong>discriminatory design</strong>
+   <em>An algorithm more likely to wrongly flag Black defendants as future criminals</em><a href="#citation-1" class="citation-number"><a href="#citation-1" class="citation-number">[1]</a></a>
+
+◻ <strong>Google Maps glitch</strong> → <em>exhibits</em> → ◻ <strong>discriminatory design</strong>
+   <em>Software reading "Malcolm X Boulevard" as "Malcolm Ten Boulevard"</em><a href="#citation-1" class="citation-number"><a href="#citation-1" class="citation-number">[1]</a></a>
+
+◻ <strong>automated soap dispenser</strong> → <em>exhibits</em> → ◻ <strong>infrared technology bias</strong>
+   <em>A device that wouldn't work with darker skin because it absorbs more light</em><a href="#citation-4" class="citation-number"><a href="#citation-4" class="citation-number">[4]</a></a>
+
+<h2>Conceptual Extensions and Applications</h2>
+
+<h3>Institutional Connections</h3>
+
+◻ <strong>criminal justice system</strong> → <em>employs</em> → ◻ <strong>risk assessment tools</strong>
+   <em>Institutions outsourcing human decisions to potentially biased technologies</em><a href="#citation-4" class="citation-number"><a href="#citation-4" class="citation-number">[4]</a></a>
+
+◻ <strong>healthcare system</strong> → <em>employs</em> → ◻ <strong>risk assessment tools</strong>
+   <em>Medical institutions using technologies that may encode discriminatory practices</em><a href="#citation-4" class="citation-number"><a href="#citation-4" class="citation-number">[4]</a></a>
+
+◻ <strong>education system</strong> → <em>employs</em> → ◻ <strong>risk assessment tools</strong>
+   <em>Educational institutions deploying technologies with potential hidden biases</em><a href="#citation-4" class="citation-number"><a href="#citation-4" class="citation-number">[4]</a></a>
+
+<h3>Methodological Approaches</h3>
+
+◻ <strong>Just Data Lab</strong> → <em>is founded by</em> → ◻ <strong>Ruha Benjamin</strong>
+   <em>Research lab examining data discriminations and developing tools for justice</em><a href="#citation-5" class="citation-number"><a href="#citation-5" class="citation-number">[5]</a></a>
+
+◻ <strong>Race After Technology</strong> → <em>analyzes</em> → ◻ <strong>tech industry hype</strong>
+   <em>The book cuts through promotional claims to reveal discriminatory realities</em><a href="#citation-5" class="citation-number"><a href="#citation-5" class="citation-number">[5]</a></a><a href="#citation-7" class="citation-number"><a href="#citation-7" class="citation-number">[7]</a></a>
+
+◻ <strong>race critical code studies</strong> → <em>informs</em> → ◻ <strong>New Jim Code concept</strong>
+   <em>The theoretical approach examining how race and racism enter technological processes</em><a href="#citation-5" class="citation-number"><a href="#citation-5" class="citation-number">[5]</a></a>
+
+<h2>Conclusion</h2>
+
+This Spencer-Brown inspired ontological model captures the rich conceptual architecture of Benjamin's "Race After Technology." Through formal distinctions (◻) and indications (→), we visualize how Benjamin analyzes the ways in which ostensibly neutral technologies can embed and amplify racial hierarchies. The structured index highlights Benjamin's central contribution: exposing the "New Jim Code" as a set of discriminatory designs that encode inequity while appearing objective and progressive, while also offering abolitionist tools to contest these systems.
+
+Citations:
+<a href="#citation-1" class="citation-number"><a href="#citation-1" class="citation-number">[1]</a></a> https://www.princeton.edu/news/2020/05/15/benjamins-race-after-technology-speaks-growing-concern-among-many-tech-bias
+<a href="#citation-2" class="citation-number"><a href="#citation-2" class="citation-number">[2]</a></a> https://www.youtube.com/watch?v=aMuD_lAy2zQ
+<a href="#citation-3" class="citation-number"><a href="#citation-3" class="citation-number">[3]</a></a> https://ephemerajournal.org/contribution/biased-robots-race-technology
+<a href="#citation-4" class="citation-number"><a href="#citation-4" class="citation-number">[4]</a></a> https://www.youtube.com/watch?v=rY8RkET3KC0
+<a href="#citation-5" class="citation-number"><a href="#citation-5" class="citation-number">[5]</a></a> https://listen.datasociety.net/episodes/race-after-technology/transcript
+<a href="#citation-6" class="citation-number"><a href="#citation-6" class="citation-number">[6]</a></a> https://scijust.ucsc.edu/2019/10/16/oct-16-ruha-benjamin/
+<a href="#citation-7" class="citation-number"><a href="#citation-7" class="citation-number">[7]</a></a> https://www.wiley.com/en-us/Race+After+Technology:+Abolitionist+Tools+for+the+New+Jim+Code-p-9781509526437
+<a href="#citation-8" class="citation-number"><a href="#citation-8" class="citation-number">[8]</a></a> https://livrepository.liverpool.ac.uk/3101665/1/Spencer%20Brown%20submission%20(1)%20(1).pdf
+
+---
+        </div>
+        
+        <footer>
+            <p>Part of the Reality Media Explorer project</p>
+            <p>Created with STS_MS_CAT_CORE HTML Converter</p>
+        </footer>
+    </div>
+</body>
+</html>

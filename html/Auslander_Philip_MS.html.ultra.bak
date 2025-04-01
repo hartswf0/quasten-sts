@@ -1,0 +1,167 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Auslander Philip MS</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="script.js" defer></script>
+</head>
+<body>
+    <div class="theme-toggle" id="themeToggle" title="Toggle Dark/Light Mode">
+        ☀️
+    </div>
+    
+    <div class="container">
+        <header>
+            <a href="index.html" class="back-link">← Back to Author Catalog</a>
+            <h1>Auslander Philip MS</h1>
+            <span class="tag ms">MS</span>
+        </header>
+        
+        <div class="content" >
+            <h1>A Spencer-Brown Inspired Ontological Model of Auslander's "Liveness"</h1>
+
+This report presents a structured ontological index of Philip Auslander's influential 1999 work "Liveness: Performance in a Mediatized Culture" using Spencer-Brown's calculus of distinctions. By marking entities as distinctions (◻) and relationships as indications (→), we create a formal representation that illuminates the conceptual architecture of Auslander's examination of live performance in media-dominated culture.
+
+<h2>Foundational Entities and Primary Distinctions</h2>
+
+<h3>Core Theoretical Constructs</h3>
+
+◻ <strong>Liveness</strong>: Auslander's 1999 book examining performance in a media-saturated society
+
+◻ <strong>live performance</strong>: Traditional conceptualization of unmediated performance in physical space
+
+◻ <strong>mediatized performance</strong>: Performance that is circulated through and dependent on media technologies
+
+◻ <strong>historically contingent liveness</strong>: Concept that notions of liveness change with technological development
+
+◻ <strong>cultural economy</strong>: System of values and exchanges that determine significance of performance types
+
+◻ <strong>media encroachment</strong>: Process by which media technologies infiltrate supposedly live performances
+
+◻ <strong>televisual liveness</strong>: Television's capacity to broadcast events as they happen
+
+<h3>Key Performance Domains</h3>
+
+◻ <strong>theater</strong>: Performance domain challenged by televisual and cinematic forms
+
+◻ <strong>rock music</strong>: Performance domain where authenticity is tied to liveness despite media infiltration
+
+◻ <strong>sport</strong>: Performance domain viewed primarily through media frameworks
+
+◻ <strong>courtroom testimony</strong>: Domain where liveness retains legal significance
+
+<h2>Morphisms and Relational Structures</h2>
+
+<h3>Foundational Relationships</h3>
+
+◻ <strong>live performance</strong> → <em>is no longer</em> → ◻ <strong>ontologically privileged</strong>
+   <em>"No clear-cut ontological distinction between live and mediatized events"</em>
+
+◻ <strong>media technology</strong> → <em>has encroached upon</em> → ◻ <strong>live events</strong>
+   <em>"Media technology has encroached on live events to the point where many are hardly live at all"<a href="#citation-3" class="citation-number"><a href="#citation-3" class="citation-number">[3]</a></a></em>
+
+◻ <strong>mediatized culture</strong> → <em>challenges</em> → ◻ <strong>cultural status of liveness</strong>
+   <em>"Tackles some of the last great shibboleths surrounding the high cultural status of the live event"<a href="#citation-9" class="citation-number"><a href="#citation-9" class="citation-number">[9]</a></a></em>
+
+◻ <strong>television</strong> → <em>appropriates</em> → ◻ <strong>liveness</strong>
+   <em>"Television's ability to broadcast events as they happen, to 'go live,' that truly enabled the appropriation of liveness"<a href="#citation-7" class="citation-number"><a href="#citation-7" class="citation-number">[7]</a></a></em>
+
+<h3>Historical Framework</h3>
+
+◻ <strong>liveness as concept</strong> → <em>emerges from</em> → ◻ <strong>recording technologies</strong>
+   <em>"The very desire for liveness, its very discourse even, is a symptom of the age of sound recording and television"<a href="#citation-7" class="citation-number"><a href="#citation-7" class="citation-number">[7]</a></a></em>
+
+◻ <strong>early television</strong> → <em>was imagined as</em> → ◻ <strong>theater</strong>
+   <em>"Early television, unlike cinema, he says, remade the theatrical experience by both extending and replacing it through its immediacy. 'Television was imagined as theater'"<a href="#citation-7" class="citation-number"><a href="#citation-7" class="citation-number">[7]</a></a></em>
+
+◻ <strong>liveness</strong> → <em>is historically contingent on</em> → ◻ <strong>technological change</strong>
+   <em>"The historicity of the concept of liveness, the way that the idea of what counts culturally as live experience changes over time in relation to technological change"<a href="#citation-1" class="citation-number"><a href="#citation-1" class="citation-number">[1]</a></a></em>
+
+◻ <strong>live performance</strong> → <em>loses</em> → ◻ <strong>traditional value</strong>
+   <em>"Live performance has been pried from its shell and that all performance modes, live or mediated, are now equal: none is perceived as auratic or authentic"<a href="#citation-7" class="citation-number"><a href="#citation-7" class="citation-number">[7]</a></a></em>
+
+<h2>Complex Conceptual Structures</h2>
+
+<h3>Authenticity Framework</h3>
+
+◻ <strong>live performance</strong> → <em>was traditionally valued as</em> → ◻ <strong>more authentic</strong>
+   <em>"Critically appraise live performance as more authentic"<a href="#citation-4" class="citation-number"><a href="#citation-4" class="citation-number">[4]</a></a></em>
+
+◻ <strong>rock ideology</strong> → <em>privileges</em> → ◻ <strong>authenticity of live performance</strong>
+   <em>"Auslander argues that live performance has been devalued here, as it has been in the culture at large"<a href="#citation-2" class="citation-number"><a href="#citation-2" class="citation-number">[2]</a></a></em>
+
+◻ <strong>authenticity</strong> → <em>is now attributed to</em> → ◻ <strong>recordings</strong>
+   <em>"The authenticism of performance lies in the recording itself"<a href="#citation-4" class="citation-number"><a href="#citation-4" class="citation-number">[4]</a></a></em>
+
+◻ <strong>mediatization and liveness</strong> → <em>are not contrary but</em> → ◻ <strong>reciprocal concepts</strong>
+   <em>"Auslander argues that mediatization and liveness are not contrary, but rather reciprocal concepts"<a href="#citation-4" class="citation-number"><a href="#citation-4" class="citation-number">[4]</a></a></em>
+
+<h3>Media Culture Framework</h3>
+
+◻ <strong>sitcoms</strong> → <em>became</em> → ◻ <strong>standard for judging live performances</strong>
+   <em>"Sitcoms gradually became the standard by which live performances would be judged while the latter became their sloppy impersonation"<a href="#citation-7" class="citation-number"><a href="#citation-7" class="citation-number">[7]</a></a></em>
+
+◻ <strong>mediatized performances</strong> → <em>penetrate</em> → ◻ <strong>live events</strong>
+   <em>"Mediatized forms like film, television and audio recording subsume and reposition live performance"<a href="#citation-7" class="citation-number"><a href="#citation-7" class="citation-number">[7]</a></a></em>
+
+◻ <strong>electronic text</strong> → <em>becomes</em> → ◻ <strong>social text</strong>
+   <em>"Electronic text becomes social text"<a href="#citation-7" class="citation-number"><a href="#citation-7" class="citation-number">[7]</a></a></em>
+
+◻ <strong>distinction between live and mediatized</strong> → <em>grows increasingly</em> → ◻ <strong>suspect</strong>
+   <em>"The distinction itself between mediated and live has grown increasingly suspect"<a href="#citation-7" class="citation-number"><a href="#citation-7" class="citation-number">[7]</a></a></em>
+
+<h3>Legal Framework</h3>
+
+◻ <strong>courtroom proceedings</strong> → <em>continue to privilege</em> → ◻ <strong>liveness</strong>
+   <em>"Legal proceedings in the courtroom continue to privilege liveness by making it mandatory for juries and judges ultimately to see witnesses perform memory retrievals in front of them"<a href="#citation-7" class="citation-number"><a href="#citation-7" class="citation-number">[7]</a></a></em>
+
+◻ <strong>testimony</strong> → <em>has purpose beyond</em> → ◻ <strong>communication of information</strong>
+   <em>"The real purpose of testimony is not the communication of information recalled but the strength of the performance in its recollection before the accused and jury"<a href="#citation-7" class="citation-number"><a href="#citation-7" class="citation-number">[7]</a></a></em>
+
+◻ <strong>face-to-face confrontation</strong> → <em>is prioritized in</em> → ◻ <strong>legal proceedings</strong>
+   <em>"The priority given to liveness over that of mediatization in courts of law, and conceivably other arenas of contest and high drama, is grounded in an 'ideological' presumption"<a href="#citation-7" class="citation-number"><a href="#citation-7" class="citation-number">[7]</a></a></em>
+
+<h2>Phenomenological Framework</h2>
+
+<h3>Audience Engagement</h3>
+
+◻ <strong>liveness</strong> → <em>is an interaction produced through</em> → ◻ <strong>engagement with object</strong>
+   <em>"Liveness is an interaction produced through our engagement with the object and our willingness to accept its claim"<a href="#citation-1" class="citation-number"><a href="#citation-1" class="citation-number">[1]</a></a></em>
+
+◻ <strong>digital liveness</strong> → <em>emerges as</em> → ◻ <strong>relation between self and other</strong>
+   <em>"Digital liveness emerges as a specific relation between self and other, a particular way of 'being involved with something'"<a href="#citation-1" class="citation-number"><a href="#citation-1" class="citation-number">[1]</a></a></em>
+
+◻ <strong>liveness</strong> → <em>results from</em> → ◻ <strong>conscious act of grasping virtual entities as live</strong>
+   <em>"The experience of liveness results from our conscious act of grasping virtual entities as live in response to the claims they make on us"<a href="#citation-1" class="citation-number"><a href="#citation-1" class="citation-number">[1]</a></a></em>
+
+<h2>Conclusion</h2>
+
+This Spencer-Brown inspired ontological model captures the rich theoretical framework of Auslander's "Liveness." Through formal distinctions (◻) and indications (→), we visualize how Auslander reconceptualizes the relationship between live and mediatized performance, challenging the traditional privileging of liveness as more authentic or valuable. The model highlights Auslander's central argument that media technologies have not merely influenced live performance but have fundamentally transformed our understanding of what constitutes "liveness" itself. This structured index reveals how Auslander's work continues to provoke debate about the status of live performance in our increasingly mediatized culture.
+
+Citations:
+<a href="#citation-1" class="citation-number"><a href="#citation-1" class="citation-number">[1]</a></a> https://raley.english.ucsb.edu/wp-content/Engl800/Auslander-digital-liveness.pdf
+<a href="#citation-2" class="citation-number"><a href="#citation-2" class="citation-number">[2]</a></a> https://auslander.lmc.gatech.edu/liveness-performance-in-a-mediatized-culture-1999/
+<a href="#citation-3" class="citation-number"><a href="#citation-3" class="citation-number">[3]</a></a> https://www.routledge.com/Liveness-Performance-in-a-Mediatized-Culture/Auslander/p/book/9780367468170
+<a href="#citation-4" class="citation-number"><a href="#citation-4" class="citation-number">[4]</a></a> https://www.ipl.org/essay/Philip-Auslanders-Liveness-Performance-In-A-Mediatized-DDA7251082155AFF
+<a href="#citation-5" class="citation-number"><a href="#citation-5" class="citation-number">[5]</a></a> https://auslander.lmc.gatech.edu/liveness-performance-in-a-mediatized-culture-third-edition-2023/
+<a href="#citation-6" class="citation-number"><a href="#citation-6" class="citation-number">[6]</a></a> https://books.google.com/books/about/Liveness.html?id=9VREtiEV04oC
+<a href="#citation-7" class="citation-number"><a href="#citation-7" class="citation-number">[7]</a></a> http://www.othervoices.org/3.1/pdesimone/index.php
+<a href="#citation-8" class="citation-number"><a href="#citation-8" class="citation-number">[8]</a></a> https://www.goodreads.com/book/show/134233775
+<a href="#citation-9" class="citation-number"><a href="#citation-9" class="citation-number">[9]</a></a> https://auslander.lmc.gatech.edu/liveness-performance-in-a-mediatized-culture-2008/
+<a href="#citation-10" class="citation-number"><a href="#citation-10" class="citation-number">[10]</a></a> https://books.google.com/books/about/Liveness.html?id=aEQxSZ0s8V0C
+<a href="#citation-11" class="citation-number"><a href="#citation-11" class="citation-number">[11]</a></a> https://www.taylorfrancis.com/books/mono/10.4324/9780203938133/liveness-philip-auslander-philip-auslander
+<a href="#citation-12" class="citation-number"><a href="#citation-12" class="citation-number">[12]</a></a> https://www.taylorfrancis.com/books/mono/10.4324/9781003031314/liveness-philip-auslander
+<a href="#citation-13" class="citation-number"><a href="#citation-13" class="citation-number">[13]</a></a> https://www.abebooks.com/9780415196901/Liveness-Performance-Mediatized-Culture-Auslander-0415196906/plp
+
+---
+        </div>
+        
+        <footer>
+            <p>Part of the Reality Media Explorer project</p>
+            <p>Created with STS_MS_CAT_CORE HTML Converter</p>
+        </footer>
+    </div>
+</body>
+</html>

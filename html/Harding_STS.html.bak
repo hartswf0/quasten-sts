@@ -1,0 +1,166 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Harding STS</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="script.js" defer></script>
+</head>
+<body>
+    <div class="theme-toggle" id="themeToggle" title="Toggle Dark/Light Mode">
+        ☀️
+    </div>
+    
+    <div class="container">
+        <header>
+            <a href="index.html" class="back-link">← Back to Author Catalog</a>
+            <h1>Harding STS</h1>
+            <span class="tag sts">STS</span>
+        </header>
+        
+        <div class="content">
+            <h1>A Spencer-Brown Inspired Ontological Model of Harding's "Rethinking Standpoint Epistemology"</h1>
+
+This report presents a structured ontological index of Sandra Harding's influential 1992 article "Rethinking Standpoint Epistemology: What is 'Strong Objectivity'?" using Spencer-Brown's calculus of distinctions. By marking entities as distinctions (◻) and relationships as indications (→), we create a formal representation that illuminates the conceptual architecture of Harding's epistemological intervention.
+
+<h2>Foundational Entities and Primary Distinctions</h2>
+
+<h3>Core Theoretical Constructs</h3>
+
+◻ <strong>strong objectivity</strong>: Harding's concept that strengthens objectivity by acknowledging the social situatedness of knowledge[1][3]
+
+◻ <strong>standpoint epistemology</strong>: Framework arguing that starting thought from marginalized lives generates more objective knowledge[2][4]
+
+◻ <strong>weak objectivity</strong>: Traditional conception of objectivity that erroneously claims value-neutrality is possible[4][11]
+
+◻ <strong>value-neutrality</strong>: Conventional scientific ideal that purports to separate knowledge from politics[11]
+
+◻ <strong>situated knowledge</strong>: Understanding that all knowledge arises from specific social positions[2][6]
+
+◻ <strong>God-trick</strong>: Illusion of knowledge from nowhere particular that hides researcher positionality[4]
+
+<h3>Key Epistemological Positions</h3>
+
+◻ <strong>marginalized lives</strong>: Social positions that provide epistemically privileged starting points for inquiry[4][9]
+
+◻ <strong>dominant groups</strong>: Social positions with limited ability to perceive biases in their worldviews[4]
+
+◻ <strong>feminist standpoint</strong>: Position that starts research from women's lives but is not limited to women[2][3]
+
+◻ <strong>scientific community</strong>: Collective body that evaluates and judges knowledge claims[1]
+
+<h2>Morphisms and Relational Structures</h2>
+
+<h3>Foundational Relationships</h3>
+
+◻ <strong>standpoint epistemology</strong> → <em>provides foundation for</em> → ◻ <strong>strong objectivity</strong>
+   <em>"The standpoint claims that all knowledge attempts are socially situated and that some of these objective social locations are better than others as starting points for knowledge projects"</em>[4]
+
+◻ <strong>starting from marginalized lives</strong> → <em>produces</em> → ◻ <strong>less partial and distorted knowledge</strong>
+   <em>"Starting off research from women's lives will generate less partial and distorted accounts not only of women's lives but also of men's lives and of the whole social order"</em>[4][9]
+
+◻ <strong>social situatedness</strong> → <em>influences</em> → ◻ <strong>all knowledge production</strong>
+   <em>"All thought by humans starts off from socially determinate lives"</em>[4]
+
+◻ <strong>strong objectivity</strong> → <em>requires</em> → ◻ <strong>researcher reflexivity</strong>
+   <em>"Strong objectivity argues that there is androcentric bias in research because male researchers attempt to be a neutral researcher, where Harding argues that is not possible"</em>[1]
+
+<h3>Methodological Relationships</h3>
+
+◻ <strong>strong objectivity</strong> → <em>maximizes</em> → ◻ <strong>objectivity</strong>
+   <em>"Strong objectivity builds on the insights of feminist standpoint theory... to produce more objective and more relevant knowledge"</em>[6][8]
+
+◻ <strong>standpoint theory</strong> → <em>starts thought from</em> → ◻ <strong>marginalized lives</strong>
+   <em>"These maps are easy to misread if one doesn't understand the principles used to construct them"</em>[4]
+
+◻ <strong>standpoint theory</strong> → <em>takes</em> → ◻ <strong>everyday life as problematic</strong>
+   <em>"Start thought from marginalized lives" and "take everyday life as problematic"</em>[4]
+
+◻ <strong>standpoint approach</strong> → <em>generates</em> → ◻ <strong>critical questions</strong>
+   <em>"Starting off thought from the lives of marginalized peoples... will generate illuminating critical questions that do not arise in thought that begins from dominant group lives"</em>[4]
+
+<h2>Complex Conceptual Structures</h2>
+
+<h3>Objectivity Framework</h3>
+
+◻ <strong>traditional objectivity</strong> → <em>mistakes</em> → ◻ <strong>neutrality for objectivity</strong>
+   <em>"The problem with the conventional conception of objectivity is not that it is too rigorous or too 'objectifying'... but that it is not rigorous or objectifying enough"</em>[4]
+
+◻ <strong>objectivism</strong> → <em>fails to</em> → ◻ <strong>identify cultural-wide assumptions</strong>
+   <em>"Objectivism cannot detect cultural-wide presumptions, values, interests, and social projects that have shaped our society"</em>[11]
+
+◻ <strong>strong objectivity</strong> → <em>provides</em> → ◻ <strong>systematic methods for locating knowledge in history</strong>
+   <em>"Socially situated grounds and subjects of standpoint epistemologies require and generate stronger standards for objectivity"</em>[4]
+
+◻ <strong>strong objectivity</strong> → <em>blocks</em> → ◻ <strong>"might makes right" in knowledge production</strong>
+   <em>"How can we block 'might makes right' in the realm of knowledge production?"</em>[11]
+
+<h3>Epistemological Contrasts</h3>
+
+◻ <strong>standpoint theory</strong> → <em>is neither</em> → ◻ <strong>objectivism nor relativism</strong>
+   <em>"Critics of standpoint writings have tended to... assimilate standpoint claims either to objectivism or some kind of conventional foundationalism or to ethnocentrism, relativism, or phenomenological approaches"</em>[4]
+
+◻ <strong>standpoint approach</strong> → <em>rejects</em> → ◻ <strong>judgmental relativism</strong>
+   <em>"Standpoint theory does not advocate—nor is it doomed to—relativism"</em>[4]
+
+◻ <strong>standpoint theory</strong> → <em>argues against</em> → ◻ <strong>all social situations providing equally useful resources</strong>
+   <em>"It argues against the idea that all social situations provide equally useful resources for learning about the world"</em>[4]
+
+◻ <strong>weak objectivity</strong> → <em>cannot detect</em> → ◻ <strong>androcentric or Eurocentric assumptions</strong>
+   <em>"The prevailing standards for good procedures for maximizing objectivity are too weak to be able to identify such culture-wide assumptions as androcentric or Eurocentric ones"</em>[11]
+
+<h2>Grounds and Subjects of Knowledge</h2>
+
+<h3>Grounds Framework</h3>
+
+◻ <strong>grounds for knowledge</strong> → <em>are</em> → ◻ <strong>fully saturated with history and social life</strong>
+   <em>"For standpoint theories, the grounds for knowledge are fully saturated with history and social life rather than abstracted from it"</em>[4]
+
+◻ <strong>women's lives</strong> → <em>provide</em> → ◻ <strong>grounds for knowledge</strong>
+   <em>"Women's lives and experiences provide the 'grounds' for this knowledge, though these clearly do not provide foundations for knowledge in the conventional philosophical sense"</em>[4]
+
+◻ <strong>epistemologically advantaged starting points</strong> → <em>provide</em> → ◻ <strong>necessary but not sufficient conditions</strong>
+   <em>"These grounds provide only a necessary—not a sufficient—starting point for maximizing objectivity"</em>[4]
+
+<h3>New Subjects of Knowledge</h3>
+
+◻ <strong>traditional subject of knowledge</strong> → <em>is conceived as</em> → ◻ <strong>culturally and historically disembodied</strong>
+   <em>"First, this subject of knowledge is culturally and historically disembodied or invisible because knowledge is by definition universal"</em>[4]
+
+◻ <strong>strong objectivity</strong> → <em>requires</em> → ◻ <strong>new subjects of knowledge</strong>
+   <em>"The subject of knowledge—that which 'knows' the 'best beliefs' of the day—is supposed to have a number of distinctive characteristics"</em>[4]
+
+◻ <strong>marginalized groups</strong> → <em>have</em> → ◻ <strong>stronger motivation to understand power</strong>
+   <em>"Knowledge produced from the point of view of subordinated groups may offer stronger objectivity due to the increased motivation for them to understand the views or perspectives of those in positions of power"</em>[6][8]
+
+<h2>Conclusion</h2>
+
+This Spencer-Brown inspired ontological model captures the rich theoretical framework of Sandra Harding's "Rethinking Standpoint Epistemology." Through formal distinctions (◻) and indications (→), we visualize how Harding reconceptualizes objectivity as strengthened rather than weakened by acknowledging the social situatedness of knowledge. The model highlights Harding's central argument that starting research from marginalized lives generates more objective knowledge by revealing biases invisible from dominant perspectives, while avoiding the pitfalls of both traditional objectivism and relativism.
+
+Citations:
+[1] https://en.wikipedia.org/wiki/Strong_objectivity
+[2] https://wordpress.viu.ca/compassrose/feminist-standpoint-epistemology-and-objectivity/
+[3] https://en.wikipedia.org/wiki/Feminist_epistemology
+[4] https://sidoli.w.waseda.jp/Harding_1993_Rethinking_Standpoint_Epistemology.pdf
+[5] https://www.youtube.com/watch?v=xOAMc12PqmI
+[6] https://onlinelibrary.wiley.com/doi/abs/10.1002/9781405165518.wbeoss286.pub2
+[7] https://digitalcommons.usf.edu/cgi/viewcontent.cgi?article=8823&context=etd
+[8] https://onlinelibrary.wiley.com/doi/abs/10.1002/9781405165518.wbeoss286
+[9] https://en.wikipedia.org/wiki/Standpoint_theory
+[10] https://www.cambridge.org/core/journals/philosophy-of-science/article/feminist-epistemology-implications-for-philosophy-of-science/EA579780A76CF432E2E9C84D846CA5C8
+[11] http://thehangedman.com/teaching-files/svd-phd/2-gender/harding.pdf
+[12] https://newdiscourses.com/tftw-standpoint-epistemology/
+[13] https://plato.stanford.edu/entries/feminism-epistemology/
+
+---
+Answer from Perplexity: https://www.perplexity.ai/search/sts-ms-cat-core-26eOjT2rQjiRqIxKt6q3GA?utm_source=copy_output
+        </div>
+        
+        <footer>
+            <p>Part of the Reality Media Explorer project</p>
+            <p>Created with STS_MS_CAT_CORE HTML Converter</p>
+        </footer>
+    </div>
+</body>
+</html>

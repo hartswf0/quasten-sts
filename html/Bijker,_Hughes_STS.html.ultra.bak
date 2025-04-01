@@ -1,0 +1,150 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bijker, Hughes STS</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="script.js" defer></script>
+</head>
+<body>
+    <div class="theme-toggle" id="themeToggle" title="Toggle Dark/Light Mode">
+        ☀️
+    </div>
+    
+    <div class="container">
+        <header>
+            <a href="index.html" class="back-link">← Back to Author Catalog</a>
+            <h1>Bijker, Hughes STS</h1>
+            <span class="tag sts">STS</span>
+        </header>
+        
+        <div class="content" >
+            <h1>A Spencer-Brown Inspired Ontological Model of Pinch and Bijker's "The Social Construction of Facts and Artefacts"</h1>
+
+This report presents a structured ontological index using Spencer-Brown's calculus of distinctions to map the key concepts in Trevor Pinch and Wiebe Bijker's seminal 1984 paper "The Social Construction of Facts and Artefacts: or How the Sociology of Science and the Sociology of Technology might Benefit Each Other," which later became Chapter 1 in the influential volume "The Social Construction of Technological Systems."
+
+<h2>Foundational Entities and Primary Distinctions</h2>
+
+<h3>Core Theoretical Constructs</h3>
+
+◻ <strong>Social Construction of Technology (SCOT)</strong>: An approach arguing that technology does not determine human action but is shaped by it<a href="#citation-2" class="citation-number"><a href="#citation-2" class="citation-number">[2]</a></a>
+
+◻ <strong>social constructivist approach</strong>: Framework wherein both scientific facts and technological artifacts are understood as social constructs<a href="#citation-1" class="citation-number"><a href="#citation-1" class="citation-number">[1]</a></a><a href="#citation-5" class="citation-number"><a href="#citation-5" class="citation-number">[5]</a></a><a href="#citation-7" class="citation-number"><a href="#citation-7" class="citation-number">[7]</a></a>
+
+◻ <strong>technological artifact</strong>: Technical objects whose properties are studied as being constructed rather than intrinsic<a href="#citation-1" class="citation-number"><a href="#citation-1" class="citation-number">[1]</a></a>
+
+◻ <strong>scientific fact</strong>: Knowledge claims viewed as social constructs rather than reflections of natural truth<a href="#citation-5" class="citation-number"><a href="#citation-5" class="citation-number">[5]</a></a>
+
+◻ <strong>integrated approach</strong>: The proposed synthesis of sociology of science and sociology of technology<a href="#citation-5" class="citation-number"><a href="#citation-5" class="citation-number">[5]</a></a>
+
+<h3>Methodological Concepts</h3>
+
+◻ <strong>interpretative flexibility</strong>: Concept demonstrating how artifacts are culturally constructed and interpreted<a href="#citation-5" class="citation-number"><a href="#citation-5" class="citation-number">[5]</a></a><a href="#citation-7" class="citation-number"><a href="#citation-7" class="citation-number">[7]</a></a>
+
+◻ <strong>closure mechanism</strong>: Process by which interpretative flexibility diminishes and artifacts stabilize<a href="#citation-5" class="citation-number"><a href="#citation-5" class="citation-number">[5]</a></a><a href="#citation-7" class="citation-number"><a href="#citation-7" class="citation-number">[7]</a></a>
+
+◻ <strong>social group</strong>: Collections of actors who share meaning attributions to specific artifacts<a href="#citation-5" class="citation-number"><a href="#citation-5" class="citation-number">[5]</a></a><a href="#citation-7" class="citation-number"><a href="#citation-7" class="citation-number">[7]</a></a>
+
+◻ <strong>Empirical Programme of Relativism (EPOR)</strong>: Methodology from sociology of science adapted for technology studies<a href="#citation-5" class="citation-number"><a href="#citation-5" class="citation-number">[5]</a></a>
+
+<h2>Morphisms and Relational Structures</h2>
+
+<h3>Theoretical Relationships</h3>
+
+◻ <strong>social constructivist approach</strong> → <em>unifies</em> → ◻ <strong>science studies and technology studies</strong>
+   <em>Bringing together previously separated fields</em>
+
+◻ <strong>interpretative flexibility</strong> → <em>demonstrates</em> → ◻ <strong>multiple interpretations of artifacts</strong>
+   <em>Different social groups can have radically different understandings of the same technology</em>
+
+◻ <strong>social group</strong> → <em>attributes</em> → ◻ <strong>meaning to artifact</strong>
+   <em>Technologies have different meanings for different social groups</em>
+
+◻ <strong>closure mechanism</strong> → <em>reduces</em> → ◻ <strong>interpretative flexibility</strong>
+   <em>The process by which artifacts become stabilized and controversy diminishes</em>
+
+◻ <strong>technological artifact</strong> → <em>emerges through</em> → ◻ <strong>social construction</strong>
+   <em>Artifacts are not merely technical objects but products of social processes</em>
+
+<h3>Methodological Relationships</h3>
+
+◻ <strong>EPOR</strong> → <em>adapts to become</em> → ◻ <strong>SCOT</strong>
+   <em>Methodology transferred from science studies to technology studies</em>
+
+◻ <strong>technological determinism</strong> → <em>is challenged by</em> → ◻ <strong>SCOT</strong>
+   <em>SCOT opposes the view that technology determines human action</em><a href="#citation-2" class="citation-number"><a href="#citation-2" class="citation-number">[2]</a></a>
+
+◻ <strong>social worlds</strong> → <em>replace</em> → ◻ <strong>natural worlds as explanatory resources</strong>
+   <em>Explanations sought in social rather than natural domains</em><a href="#citation-5" class="citation-number"><a href="#citation-5" class="citation-number">[5]</a></a>
+
+◻ <strong>sociology of scientific knowledge</strong> → <em>provides foundation for</em> → ◻ <strong>sociology of technology</strong>
+   <em>Applying lessons from one field to another</em>
+
+<h2>Complex Conceptual Structures</h2>
+
+<h3>Bicycle Development Example</h3>
+
+◻ <strong>bicycle</strong> → <em>exhibits</em> → ◻ <strong>interpretative flexibility</strong>
+   <em>Different designs interpreted differently by various social groups</em><a href="#citation-3" class="citation-number"><a href="#citation-3" class="citation-number">[3]</a></a><a href="#citation-5" class="citation-number"><a href="#citation-5" class="citation-number">[5]</a></a>
+
+◻ <strong>high-wheeler bicycle</strong> → <em>presents</em> → ◻ <strong>safety problem</strong>
+   <em>For some social groups, this design posed safety concerns</em><a href="#citation-3" class="citation-number"><a href="#citation-3" class="citation-number">[3]</a></a>
+
+◻ <strong>safety bicycle</strong> → <em>represents</em> → ◻ <strong>closure mechanism</strong>
+   <em>Example of how one design achieved stabilization</em>
+
+◻ <strong>social groups</strong> → <em>include</em> → ◻ <strong>anticyclists, women cyclists, engineers</strong>
+   <em>Various groups that influenced bicycle development</em><a href="#citation-3" class="citation-number"><a href="#citation-3" class="citation-number">[3]</a></a>
+
+<h3>Science-Technology Relationship</h3>
+
+◻ <strong>science-technology relationship</strong> → <em>is problematized by</em> → ◻ <strong>social constructivist approach</strong>
+   <em>Questioning traditional views of science generating knowledge that technology applies</em><a href="#citation-3" class="citation-number"><a href="#citation-3" class="citation-number">[3]</a></a>
+
+◻ <strong>science</strong> → <em>is not separate from</em> → ◻ <strong>technology</strong>
+   <em>Both are socially constructed structures that use each other's resources</em><a href="#citation-3" class="citation-number"><a href="#citation-3" class="citation-number">[3]</a></a>
+
+◻ <strong>"black box"</strong> → <em>is opened by</em> → ◻ <strong>SCOT methodology</strong>
+   <em>Looking inside technological development rather than treating it as given</em><a href="#citation-3" class="citation-number"><a href="#citation-3" class="citation-number">[3]</a></a>
+
+<h2>Methodological Framework</h2>
+
+<h3>Three-Stage Model</h3>
+
+◻ <strong>first stage</strong> → <em>demonstrates</em> → ◻ <strong>interpretative flexibility</strong>
+   <em>Showing different interpretations of technological artifacts</em><a href="#citation-5" class="citation-number"><a href="#citation-5" class="citation-number">[5]</a></a>
+
+◻ <strong>second stage</strong> → <em>identifies</em> → ◻ <strong>closure mechanisms</strong>
+   <em>Examining how flexibility diminishes and artifacts stabilize</em><a href="#citation-5" class="citation-number"><a href="#citation-5" class="citation-number">[5]</a></a>
+
+◻ <strong>third stage</strong> → <em>relates</em> → ◻ <strong>content to wider context</strong>
+   <em>Connecting technical content to the sociopolitical milieu</em><a href="#citation-2" class="citation-number"><a href="#citation-2" class="citation-number">[2]</a></a>
+
+◻ <strong>multidirectionality</strong> → <em>characterizes</em> → ◻ <strong>technological development</strong>
+   <em>Development is not linear but involves various possible paths</em><a href="#citation-3" class="citation-number"><a href="#citation-3" class="citation-number">[3]</a></a>
+
+<h2>Conclusion</h2>
+
+This Spencer-Brown inspired ontological model captures the rich theoretical framework of Pinch and Bijker's "The Social Construction of Facts and Artefacts." Through formal distinctions (◻) and indications (→), we visualize how they integrate sociology of science and technology to create a unified social constructivist approach. The model highlights their key methodological concepts—interpretative flexibility, closure mechanisms, and social groups—that form the foundation of the SCOT approach, which has profoundly influenced our understanding of how technologies develop within social contexts.
+
+Citations:
+<a href="#citation-1" class="citation-number"><a href="#citation-1" class="citation-number">[1]</a></a> https://onlinelibrary.wiley.com/doi/full/10.1002/9781405186407.wbiect025
+<a href="#citation-2" class="citation-number"><a href="#citation-2" class="citation-number">[2]</a></a> https://en.wikipedia.org/wiki/Social_construction_of_technology
+<a href="#citation-3" class="citation-number"><a href="#citation-3" class="citation-number">[3]</a></a> https://technsoc2013.wordpress.com/2013/02/11/reading-4-the-social-construction-of-technology-by-pinch-trevor-j-and-wiebe-e-bijker/
+<a href="#citation-4" class="citation-number"><a href="#citation-4" class="citation-number">[4]</a></a> https://learningally.org/bookdetails/bookid/JP013
+<a href="#citation-5" class="citation-number"><a href="#citation-5" class="citation-number">[5]</a></a> https://dtc-wsuv.org/wp/dtc375-spring15/files/2015/02/The-Social-Construction-of-Facts-and-Artefacts.pdf
+<a href="#citation-6" class="citation-number"><a href="#citation-6" class="citation-number">[6]</a></a> https://mitpress.mit.edu/9780262517607/the-social-construction-of-technological-systems/
+<a href="#citation-7" class="citation-number"><a href="#citation-7" class="citation-number">[7]</a></a> https://journals.sagepub.com/doi/10.1177/030631284014003004
+<a href="#citation-8" class="citation-number"><a href="#citation-8" class="citation-number">[8]</a></a> https://www.jstor.org/stable/j.ctt5vjrsq
+
+---
+        </div>
+        
+        <footer>
+            <p>Part of the Reality Media Explorer project</p>
+            <p>Created with STS_MS_CAT_CORE HTML Converter</p>
+        </footer>
+    </div>
+</body>
+</html>

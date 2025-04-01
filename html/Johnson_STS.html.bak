@@ -1,0 +1,290 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Johnson STS</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="script.js" defer></script>
+</head>
+<body>
+    <div class="theme-toggle" id="themeToggle" title="Toggle Dark/Light Mode">
+        ☀️
+    </div>
+    
+    <div class="container">
+        <header>
+            <a href="index.html" class="back-link">← Back to Author Catalog</a>
+            <h1>Johnson STS</h1>
+            <span class="tag sts">STS</span>
+        </header>
+        
+        <div class="content">
+            <h1>A Spencer-Brown Inspired Ontological Model of Johnson's "Computer Ethics"</h1>
+
+This report presents a structured ontological index of Deborah G. Johnson's influential 2009 work "Computer Ethics" (4th edition) using Spencer-Brown's calculus of distinctions. By marking entities as distinctions (◻) and relationships as indications (→), we create a formal representation that illuminates the conceptual architecture of this foundational text in computer ethics.
+
+<h2>Foundational Entities and Primary Distinctions</h2>
+
+<h3>Core Theoretical Constructs</h3>
+
+◻ <strong>Computer Ethics</strong>: Johnson's 2009 textbook analyzing ethical issues in information technology
+
+◻ <strong>sociotechnical computer ethics</strong>: New approach introduced in the 4th edition, drawing on STS theories
+
+◻ <strong>standard account</strong>: Moor's framework defining computer ethics in terms of policy vacuums and conceptual muddles
+
+◻ <strong>new possibilities</strong>: Component of the standard account - computers create new possibilities for human action
+
+◻ <strong>policy vacuum</strong>: Component of the standard account - lack of policies for new technological situations
+
+◻ <strong>conceptual muddles</strong>: Component of the standard account - confusion around new technological concepts
+
+◻ <strong>information technology (IT)</strong>: Technology for processing, storing, and transmitting information
+
+◻ <strong>IT-configured societies</strong>: Societies shaped by information technology
+
+<h3>Sociotechnical Systems Framework</h3>
+
+◻ <strong>technological determinism</strong>: View that technology determines social change (rejected in the book)
+
+◻ <strong>coshaping thesis</strong>: View that technology and society mutually shape each other
+
+◻ <strong>technology as material objects</strong>: Narrow view of technology as physical artifacts (rejected in the book)
+
+◻ <strong>sociotechnical systems</strong>: Broader view of technology as embedded in social contexts
+
+◻ <strong>technology as neutral</strong>: View that technology has no inherent values (rejected in the book)
+
+◻ <strong>technology infused with value</strong>: View that technology embodies values
+
+◻ <strong>micro-level analysis</strong>: Focus on specific situations and decisions
+
+◻ <strong>macro-level analysis</strong>: Focus on broader societal impacts
+
+<h2>Morphisms and Relational Structures</h2>
+
+<h3>Foundational Relationships</h3>
+
+◻ <strong>Computer Ethics</strong> → <em>introduces</em> → ◻ <strong>sociotechnical computer ethics</strong>
+   <em>The 4th edition brings the field into the 21st century with this new approach</em>
+
+◻ <strong>standard account</strong> → <em>defines</em> → ◻ <strong>computer ethics</strong>
+   <em>Moor's framework defines the field in terms of policy vacuums and conceptual muddles</em>
+
+◻ <strong>sociotechnical computer ethics</strong> → <em>rejects</em> → ◻ <strong>technological determinism</strong>
+   <em>The new approach rejects the view that technology determines social change</em>
+
+◻ <strong>sociotechnical computer ethics</strong> → <em>promotes</em> → ◻ <strong>coshaping thesis</strong>
+   <em>The book advocates the view that technology and society shape each other</em>
+
+◻ <strong>sociotechnical computer ethics</strong> → <em>rejects</em> → ◻ <strong>technology as material objects</strong>
+   <em>The book rejects the view that technology is merely physical artifacts</em>
+
+◻ <strong>sociotechnical computer ethics</strong> → <em>promotes</em> → ◻ <strong>sociotechnical systems</strong>
+   <em>The book advocates viewing technology as embedded in social systems</em>
+
+◻ <strong>sociotechnical computer ethics</strong> → <em>rejects</em> → ◻ <strong>technology as neutral</strong>
+   <em>The book rejects the view that technology has no inherent values</em>
+
+◻ <strong>sociotechnical computer ethics</strong> → <em>promotes</em> → ◻ <strong>technology infused with value</strong>
+   <em>The book advocates the view that technology embodies values</em>
+
+<h2>Ethical Frameworks</h2>
+
+<h3>Ethical Theories</h3>
+
+◻ <strong>ethics</strong>: Reflection on right and wrong, good and bad, moral and immoral
+
+◻ <strong>descriptive ethics</strong>: Study of what people actually believe about ethics
+
+◻ <strong>normative ethics</strong>: Study of what ethical standards should be followed
+
+◻ <strong>dialectic method</strong>: Approach to ethics through dialogue and questioning
+
+◻ <strong>utilitarianism</strong>: Ethical theory based on maximizing good consequences
+
+◻ <strong>intrinsic value</strong>: Value something has in itself
+
+◻ <strong>instrumental value</strong>: Value something has as a means to other ends
+
+◻ <strong>act utilitarianism</strong>: Evaluating individual actions by their consequences
+
+◻ <strong>rule utilitarianism</strong>: Evaluating rules by the consequences of their adoption
+
+◻ <strong>deontological theory</strong>: Ethics based on duties, rights, and principles
+
+◻ <strong>rights</strong>: Justified claims that generate duties in others
+
+◻ <strong>social contract theory</strong>: Theory of social arrangements based on agreement
+
+◻ <strong>virtue ethics</strong>: Ethics focused on character and virtues
+
+<h3>Theoretical Relationships</h3>
+
+◻ <strong>Computer Ethics</strong> → <em>applies</em> → ◻ <strong>utilitarianism</strong>
+   <em>The book applies utilitarian ethics to computer ethics issues</em>
+
+◻ <strong>utilitarianism</strong> → <em>distinguishes between</em> → ◻ <strong>intrinsic and instrumental value</strong>
+   <em>Utilitarian theory makes this distinction in assessing value</em>
+
+◻ <strong>utilitarianism</strong> → <em>has forms</em> → ◻ <strong>act utilitarianism and rule utilitarianism</strong>
+   <em>The book discusses these two forms of utilitarian ethics</em>
+
+◻ <strong>Computer Ethics</strong> → <em>applies</em> → ◻ <strong>deontological theory</strong>
+   <em>The book applies deontological ethics to computer ethics issues</em>
+
+◻ <strong>deontological theory</strong> → <em>focuses on</em> → ◻ <strong>rights</strong>
+   <em>Deontological approaches emphasize rights and duties</em>
+
+◻ <strong>Computer Ethics</strong> → <em>applies</em> → ◻ <strong>virtue ethics</strong>
+   <em>The book applies virtue ethics to computer ethics issues</em>
+
+<h2>Complex Conceptual Structures</h2>
+
+<h3>IT-Configured Societies Framework</h3>
+
+◻ <strong>technology as the instrumentation of human action</strong>: Technology extending human capabilities
+
+◻ <strong>global, many-to-many scope</strong>: Feature of IT-configured activities
+
+◻ <strong>distinctive identity conditions</strong>: Feature of IT-configured activities
+
+◻ <strong>reproducibility</strong>: Feature of IT-configured activities
+
+◻ <strong>virtuality</strong>: Domain of life configured by IT
+
+◻ <strong>friendship and social networking</strong>: Domain of life configured by IT
+
+◻ <strong>education and plagiarism detection</strong>: Domain of life configured by IT
+
+◻ <strong>democracy and the Internet</strong>: Domain of life configured by IT
+
+<h3>Digital Order Framework</h3>
+
+◻ <strong>digital order</strong>: Governance and regulation of online activities
+
+◻ <strong>sociotechnical order</strong>: Order created by law, markets, norms, and architecture
+
+◻ <strong>online crime</strong>: Criminal activities in digital environments
+
+◻ <strong>hackers</strong>: Actors who gain unauthorized access to computer systems
+
+◻ <strong>hacker ethic</strong>: Value system of the hacker community
+
+◻ <strong>sociotechnical security</strong>: Security approach addressing both technical and social aspects
+
+◻ <strong>Wikipedia</strong>: Example of new order of knowledge production
+
+◻ <strong>freedom of expression</strong>: Value potentially supported by internet technologies
+
+◻ <strong>censorship</strong>: Potential restriction of expression online
+
+<h3>Professional Ethics Framework</h3>
+
+◻ <strong>professional ethics</strong>: Ethical standards specific to professional roles
+
+◻ <strong>computing profession</strong>: The field of computing practitioners
+
+◻ <strong>software engineering</strong>: Branch of engineering focused on software development
+
+◻ <strong>Therac-25</strong>: Case study of software failure used in the book
+
+◻ <strong>mastery of knowledge</strong>: Characteristic of professions
+
+◻ <strong>formal organization</strong>: Characteristic of professions
+
+◻ <strong>autonomy</strong>: Characteristic of professions
+
+◻ <strong>codes of ethics</strong>: Formal ethical guidelines for professionals
+
+<h2>Domain-Specific Morphisms</h2>
+
+<h3>IT-Society Relationships</h3>
+
+◻ <strong>IT-configured societies</strong> → <em>feature</em> → ◻ <strong>technology as the instrumentation of human action</strong>
+   <em>IT extends and transforms human capabilities</em>
+
+◻ <strong>IT-configured activities</strong> → <em>have</em> → ◻ <strong>global, many-to-many scope</strong>
+   <em>IT enables activities with global reach and many-to-many interactions</em>
+
+◻ <strong>IT-configured activities</strong> → <em>have</em> → ◻ <strong>distinctive identity conditions</strong>
+   <em>IT creates new ways of establishing and verifying identity</em>
+
+◻ <strong>IT-configured activities</strong> → <em>have</em> → ◻ <strong>reproducibility</strong>
+   <em>IT enables perfect reproduction of digital content</em>
+
+◻ <strong>IT</strong> → <em>configures</em> → ◻ <strong>virtuality, friendship, education, democracy</strong>
+   <em>IT reshapes these domains of human life</em>
+
+<h3>Digital Governance Relationships</h3>
+
+◻ <strong>digital order</strong> → <em>is created by</em> → ◻ <strong>law, markets, social norms, and architecture</strong>
+   <em>Multiple forces shape order in digital environments</em>
+
+◻ <strong>digital order</strong> → <em>addresses</em> → ◻ <strong>online crime</strong>
+   <em>Governance systems respond to criminal activities online</em>
+
+◻ <strong>sociotechnical security</strong> → <em>responds to</em> → ◻ <strong>security breaches</strong>
+   <em>Security approaches address failures in information security</em>
+
+◻ <strong>digital order</strong> → <em>negotiates tension between</em> → ◻ <strong>freedom of expression and censorship</strong>
+   <em>Online governance addresses this fundamental tension</em>
+
+<h3>Professional Ethics Relationships</h3>
+
+◻ <strong>professional ethics</strong> → <em>applies to</em> → ◻ <strong>computing profession</strong>
+   <em>The book examines ethical standards for computing professionals</em>
+
+◻ <strong>professions</strong> → <em>are characterized by</em> → ◻ <strong>mastery of knowledge, formal organization, autonomy</strong>
+   <em>These features define professional fields</em>
+
+◻ <strong>professional ethics</strong> → <em>is codified in</em> → ◻ <strong>codes of ethics</strong>
+   <em>Ethical standards are formalized in professional codes</em>
+
+<h2>Conclusion</h2>
+
+This Spencer-Brown inspired ontological model captures the rich theoretical framework of Johnson's "Computer Ethics." Through formal distinctions (◻) and indications (→), we visualize how Johnson conceptualizes computer ethics as a sociotechnical enterprise that recognizes the mutual shaping of technology and society. The model highlights the book's central innovation: moving beyond the standard account to a more nuanced understanding of technology as value-laden and embedded in social contexts. This structured index reveals how Johnson's work integrates ethical theory, sociological analysis, and professional practice to address the distinctive challenges posed by information technology.
+
+Citations:
+[1] https://mrce.in/ebooks/Computer%20Ethics%204th%20Ed.pdf
+[2] https://www.pearson.com/en-us/subject-catalog/p/computer-ethics/P200000002905/9780131112414
+[3] https://scholar.uwindsor.ca/cgi/viewcontent.cgi?article=1017&context=philosophypub
+[4] https://coeckelbergh.net/wp-content/uploads/2015/03/81.pdf
+[5] https://www.sbl-site.org/assets/pdfs/pubs/9781628374407.pdf
+[6] https://plato.stanford.edu/archIves/fall2006/entries/ethics-computer/
+[7] https://www.pearson.com/en-ca/subject-catalog/p/computer-ethics/P200000002905/9780131112414
+[8] https://www.qcc.cuny.edu/socialSciences/ppecorino/CISESHV_TEXT/Chapter-2-Computers-and-Ethics/Presentation-of-Issues.html
+[9] https://www.biblio.com/9780131112414
+[10] https://www.abebooks.com/9780131112414/Computer-Ethics-Johnson-Deborah-0131112414/plp
+[11] https://groupoids.org.uk/pdffiles/rbrsbookb-e010909.pdf
+[12] https://gulf.edu.sa/assets/lib/cs/information-computer-ethics.pdf
+[13] https://www.worldscientific.com/doi/pdf/10.1142/9789811247439_0001
+[14] https://engineering.virginia.edu/faculty/deborah-g-johnson
+[15] https://pnp.wustl.edu/files/philosophy/imce/struct_scientif_theories_0.pdf
+[16] https://constable.blog/wp-content/uploads/An_Esoteric_Guide_to_Spencer_Browns_Laws.pdf
+[17] https://philpapers.org/rec/JOHCES-3
+[18] https://groupoids.org.uk/pdffiles/NAT-book.pdf
+[19] https://wbricken.com/pdfs/02teach/09ethics/ethics-all31.pdf
+[20] http://www.westdenhaag.nl/information/publications/Alphabetum/Laws_of_Form/Alphabetum_III_V8_ONLINE.pdf
+[21] https://en.wikipedia.org/wiki/Laws_of_Form
+[22] https://www.philadelphia.edu.jo/academics/lalqoran/uploads/A-Gift-of-Fire-4thEd-2012.pdf
+[23] https://harvardlawreview.org/wp-content/uploads/2019/01/894-991_Online.pdf
+[24] https://pmc.ncbi.nlm.nih.gov/articles/PMC8553227/
+[25] https://www.d.umn.edu/~tcolburn/cs3111/writing/sources/EthicsOnline.pdf
+[26] https://www.ams.org/journals/notices/202411/202411FullIssue-optimized.pdf
+[27] https://www.dnr.wa.gov/publications/ger_b80_regional_geol_wa_1.pdf
+[28] https://jointmathematicsmeetings.org/meetings/national/jmm2025/2314_progfull.html
+[29] https://fmcc.edu/images/Downloads/2024-2025%20SUNY%20FMCC%20Catalog.pdf
+
+---
+Answer from Perplexity: https://www.perplexity.ai/search/sts-ms-cat-core-26eOjT2rQjiRqIxKt6q3GA?utm_source=copy_output
+        </div>
+        
+        <footer>
+            <p>Part of the Reality Media Explorer project</p>
+            <p>Created with STS_MS_CAT_CORE HTML Converter</p>
+        </footer>
+    </div>
+</body>
+</html>

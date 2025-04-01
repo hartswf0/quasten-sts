@@ -1,0 +1,168 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Shilton STS</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="script.js" defer></script>
+</head>
+<body>
+    <div class="theme-toggle" id="themeToggle" title="Toggle Dark/Light Mode">
+        ☀️
+    </div>
+    
+    <div class="container">
+        <header>
+            <a href="index.html" class="back-link">← Back to Author Catalog</a>
+            <h1>Shilton STS</h1>
+            <span class="tag sts">STS</span>
+        </header>
+        
+        <div class="content" >
+            <h1>A Spencer-Brown Inspired Ontological Model of Shilton's "Values Levers"</h1>
+
+This report presents a structured ontological index of Katie Shilton's influential 2012/2013 work "Values Levers: Building Ethics into Design" using Spencer-Brown's calculus of distinctions. By marking entities as distinctions (◻) and relationships as indications (→), we create a formal representation that illuminates the conceptual architecture of how design practices can foster ethical reflection.
+
+<h2>Foundational Entities and Primary Distinctions</h2>
+
+<h3>Core Theoretical Constructs</h3>
+
+◻ <strong>values levers</strong>: Practices within design processes that open conversations about social values and build consensus
+
+◻ <strong>design practices</strong>: Activities and methods employed during technology development
+
+◻ <strong>social values</strong>: Ethical considerations such as privacy, consent, equity, and forgetting
+
+◻ <strong>ethics in design</strong>: Incorporation of ethical principles into technological artifacts
+
+◻ <strong>regimes of living</strong>: Cohesive ethical orientations providing shared sense of appropriate practice
+
+◻ <strong>technological design</strong>: Process of creating technological artifacts and systems
+
+◻ <strong>sociotechnical systems</strong>: Complex arrangements of human and technical components
+
+<h3>Case Study Context</h3>
+
+◻ <strong>CENS laboratory</strong>: Center for Embedded Networked Sensing at UCLA where the research took place
+
+◻ <strong>participatory sensing</strong>: Mobile phone-based data collection about people's activities, environments, and locations
+
+◻ <strong>personal data</strong>: Information about individuals' locations, behaviors, habits, and patterns
+
+◻ <strong>surveillance concerns</strong>: Ethical issues raised by collecting personal data
+
+<h2>Morphisms and Relational Structures</h2>
+
+<h3>Core Theoretical Relationships</h3>
+
+◻ <strong>values levers</strong> → <em>encourage</em> → ◻ <strong>ethical reflection</strong>
+   <em>"Values levers are practices that pry open discussions about values in design and helped the team build consensus around social values as design criteria"</em><a href="#citation-4" class="citation-number"><a href="#citation-4" class="citation-number">[4]</a></a>
+
+◻ <strong>values levers</strong> → <em>lead to</em> → ◻ <strong>consensus around social values</strong>
+   <em>"Practices that open new conversations about social values, and encourage consensus around those values as design criteria"</em><a href="#citation-4" class="citation-number"><a href="#citation-4" class="citation-number">[4]</a></a>
+
+◻ <strong>social values</strong> → <em>materialize in</em> → ◻ <strong>technological features</strong>
+   <em>"The study investigated how social values such as privacy, consent, equity and forgetting, were raised as topics in design and transformed into concrete technological features"</em><a href="#citation-4" class="citation-number"><a href="#citation-4" class="citation-number">[4]</a></a>
+
+◻ <strong>ethical reflection</strong> → <em>precedes</em> → ◻ <strong>design decisions</strong>
+   <em>"These activities, which I have called values levers, raised new conversations about ethics and values"</em><a href="#citation-4" class="citation-number"><a href="#citation-4" class="citation-number">[4]</a></a>
+
+<h3>Specific Values Relationships</h3>
+
+◻ <strong>privacy</strong> → <em>counteracts</em> → ◻ <strong>surveillance</strong>
+   <em>"Privacy, consent, equity and social forgetting are all tied to questions of surveillance, and are important social values"</em><a href="#citation-5" class="citation-number"><a href="#citation-5" class="citation-number">[5]</a></a>
+
+◻ <strong>privacy</strong> → <em>depends on</em> → ◻ <strong>utilitarian framework</strong>
+   <em>"Privacy and social forgetting, values which emphasize protecting, obscuring or discarding sensitive data, are traditionally considered to be utilitarian ethics"</em><a href="#citation-5" class="citation-number"><a href="#citation-5" class="citation-number">[5]</a></a>
+
+◻ <strong>consent and equity</strong> → <em>emerge from</em> → ◻ <strong>deontological ethics</strong>
+   <em>"Values such as consent and equity emerge from deontological ethics, as articulated by philosophers such as Kant"</em><a href="#citation-5" class="citation-number"><a href="#citation-5" class="citation-number">[5]</a></a>
+
+◻ <strong>equity</strong> → <em>promotes</em> → ◻ <strong>human dignity</strong>
+   <em>"Deontological ethics are at the heart of human rights such as equity and human dignity"</em><a href="#citation-5" class="citation-number"><a href="#citation-5" class="citation-number">[5]</a></a>
+
+<h2>Complex Conceptual Structures</h2>
+
+<h3>Specific Values Levers Framework</h3>
+
+◻ <strong>prototype testing</strong> → <em>refocuses attention on</em> → ◻ <strong>personal data</strong>
+   <em>"The common HCI design practice of internal prototype testing impacted designers' consideration of social values... fostered a focus on personal data that was distinctive within the design process"</em><a href="#citation-4" class="citation-number"><a href="#citation-4" class="citation-number">[4]</a></a>
+
+◻ <strong>interdisciplinary collaboration</strong> → <em>generates</em> → ◻ <strong>cross-boundary dialogue</strong>
+   <em>"Being forced to talk across disciplinary boundaries helped the design team articulate and agree upon values like legibility and, more broadly, equity"</em><a href="#citation-3" class="citation-number"><a href="#citation-3" class="citation-number">[3]</a></a>
+
+◻ <strong>values advocate</strong> → <em>raises</em> → ◻ <strong>ethical concerns</strong>
+   <em>"I was hired by CENS to consider values issues in design, and my resulting engagement served as a values lever. I raised issues of privacy, consent, equity and forgetting in group meetings"</em><a href="#citation-5" class="citation-number"><a href="#citation-5" class="citation-number">[5]</a></a>
+
+◻ <strong>funding</strong> → <em>structures</em> → ◻ <strong>design practices</strong>
+   <em>"Resources and funding were also values levers. Larger, better funded projects had correspondingly large development teams, requiring weekly meetings and clear lines of communication"</em><a href="#citation-4" class="citation-number"><a href="#citation-4" class="citation-number">[4]</a></a>
+
+◻ <strong>institutional mandates</strong> → <em>function as</em> → ◻ <strong>imperfect lever</strong>
+   <em>"But though it was an infrequent requirement, designers considered seeking IRB approval to be undesirable or even painful, because it required paperwork, could take quite a bit of time, and therefore slowed down the pace of testing and implementation"</em><a href="#citation-4" class="citation-number"><a href="#citation-4" class="citation-number">[4]</a></a>
+
+<h3>Values Transformation Framework</h3>
+
+◻ <strong>constraint reframing</strong> → <em>transforms</em> → ◻ <strong>values from burden to opportunity</strong>
+   <em>"Unconstrained design is often boring. If you take a very practical view of it, the privacy constraints pose really good challenges, right? … That's a kind of sales pitch"</em><a href="#citation-3" class="citation-number"><a href="#citation-3" class="citation-number">[3]</a></a>
+
+◻ <strong>personal experience</strong> → <em>makes</em> → ◻ <strong>abstract values concrete</strong>
+   <em>"When CENS students ran their colleagues' location-tracking programs over the weekend, or answered sensitive survey questions, they gained new respect for privacy and equity as design criteria"</em><a href="#citation-4" class="citation-number"><a href="#citation-4" class="citation-number">[4]</a></a>
+
+◻ <strong>leaders' values</strong> → <em>influence</em> → ◻ <strong>laboratory culture</strong>
+   <em>"At the head of the lab was the Director, whose leadership was infused with her social ideals... I have an intellectual interest in building systems that support a wider range of people's notions of privacy"</em><a href="#citation-3" class="citation-number"><a href="#citation-3" class="citation-number">[3]</a></a>
+
+<h3>Organizational Framework</h3>
+
+◻ <strong>large development teams</strong> → <em>require</em> → ◻ <strong>formal communication</strong>
+   <em>"Large teams required formal weekly planning meetings and fairly clear lines of communication. Antisurveillance values tended to come up in these meetings"</em><a href="#citation-5" class="citation-number"><a href="#citation-5" class="citation-number">[5]</a></a>
+
+◻ <strong>small teams</strong> → <em>rely on</em> → ◻ <strong>informal communication</strong>
+   <em>"Design meetings for these projects were informal, and leaders and team members communicated about these projects largely over email... Fewer ethical concerns surfaced in the discussions of the small working teams"</em><a href="#citation-4" class="citation-number"><a href="#citation-4" class="citation-number">[4]</a></a>
+
+◻ <strong>interdisciplinary design team</strong> → <em>spans</em> → ◻ <strong>computer science, statistics, design/media arts, and information studies</strong>
+   <em>"The unusually interdisciplinary nature of CENS design positioned the data collected by participatory sensing as a bridge between computer science, statistics, design/media arts, and information studies"</em><a href="#citation-4" class="citation-number"><a href="#citation-4" class="citation-number">[4]</a></a>
+
+<h2>Applied Framework and Best Practices</h2>
+
+<h3>Laboratory Structure Recommendations</h3>
+
+◻ <strong>laboratory leaders</strong> → <em>can enable</em> → ◻ <strong>values levers</strong>
+   <em>"Laboratory leaders and advocates within design can enable and strengthen these levers to encourage social values as an explicit part of design practice"</em><a href="#citation-4" class="citation-number"><a href="#citation-4" class="citation-number">[4]</a></a>
+
+◻ <strong>increasing attention to data</strong> → <em>facilitates</em> → ◻ <strong>values discussions</strong>
+   <em>"Work practices at CENS that facilitated attention to the sensitive data collected in participatory sensing, its meanings, and its potential uses, encouraged antisurveillance values in design"</em><a href="#citation-5" class="citation-number"><a href="#citation-5" class="citation-number">[5]</a></a>
+
+◻ <strong>encouraging interdisciplinarity</strong> → <em>sparks</em> → ◻ <strong>values conversations</strong>
+   <em>"Including statisticians and a social scientist in design at CENS provided a values lever by sparking conversations using the lingua franca of participatory sensing: personal data"</em><a href="#citation-5" class="citation-number"><a href="#citation-5" class="citation-number">[5]</a></a>
+
+◻ <strong>rewarding testing</strong> → <em>promotes</em> → ◻ <strong>ethical design culture</strong>
+   <em>"Rewarding students for testing their own software, and that of colleagues, can promote a design culture in which sensitive data is taken seriously"</em><a href="#citation-5" class="citation-number"><a href="#citation-5" class="citation-number">[5]</a></a>
+
+<h2>Conclusion</h2>
+
+This Spencer-Brown inspired ontological model captures the rich theoretical framework of Shilton's "Values Levers." Through formal distinctions (◻) and indications (→), we visualize how specific design practices can open conversations about social values and build consensus around their importance in technological design. The model highlights the five key values levers Shilton identified—prototype testing, interdisciplinary collaboration, values advocacy, funding structures, and institutional mandates—and their relationships to antisurveillance values like privacy, consent, equity, and forgetting. This structured index reveals how design practices can be intentionally structured to encourage ethical reflection and help engineers transform abstract ethical concerns into concrete technological features.
+
+Citations:
+<a href="#citation-1" class="citation-number"><a href="#citation-1" class="citation-number">[1]</a></a> https://par.nsf.gov/servlets/purl/10042516
+<a href="#citation-2" class="citation-number"><a href="#citation-2" class="citation-number">[2]</a></a> https://par.nsf.gov/servlets/purl/10066776
+<a href="#citation-3" class="citation-number"><a href="#citation-3" class="citation-number">[3]</a></a> https://archive.mith.umd.edu/mith-2020/wp-content/uploads/2014/11/ShiltonSTHVpreprint.pdf
+<a href="#citation-4" class="citation-number"><a href="#citation-4" class="citation-number">[4]</a></a> http://mmi.tudelft.nl/ValuesInDesign/submissions/shilton.pdf
+<a href="#citation-5" class="citation-number"><a href="#citation-5" class="citation-number">[5]</a></a> https://ethicscenter.web.illinois.edu/wp-content/uploads/2018/12/Shilton.pdf
+<a href="#citation-6" class="citation-number"><a href="#citation-6" class="citation-number">[6]</a></a> https://www.youtube.com/watch?v=T2JT4Apxw3Q
+<a href="#citation-7" class="citation-number"><a href="#citation-7" class="citation-number">[7]</a></a> https://pmc.ncbi.nlm.nih.gov/articles/PMC8376715/
+<a href="#citation-8" class="citation-number"><a href="#citation-8" class="citation-number">[8]</a></a> https://scholar.google.com/citations?user=PaBmnk0AAAAJ
+<a href="#citation-9" class="citation-number"><a href="#citation-9" class="citation-number">[9]</a></a> https://archive.mith.umd.edu/mith-2020/index.html%3Fp=10328.html
+<a href="#citation-10" class="citation-number"><a href="#citation-10" class="citation-number">[10]</a></a> https://neurotree.org/neurotree/publications.php?pid=672380
+<a href="#citation-11" class="citation-number"><a href="#citation-11" class="citation-number">[11]</a></a> https://mith.umd.edu/digital-dialogues/katie-shilton-finding-values-levers-building-ethics-into-emerging-technologies/
+
+---
+        </div>
+        
+        <footer>
+            <p>Part of the Reality Media Explorer project</p>
+            <p>Created with STS_MS_CAT_CORE HTML Converter</p>
+        </footer>
+    </div>
+</body>
+</html>

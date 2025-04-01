@@ -1,0 +1,156 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Brock Andr MS</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="script.js" defer></script>
+</head>
+<body>
+    <div class="theme-toggle" id="themeToggle" title="Toggle Dark/Light Mode">
+        ☀️
+    </div>
+    
+    <div class="container">
+        <header>
+            <a href="index.html" class="back-link">← Back to Author Catalog</a>
+            <h1>Brock Andr MS</h1>
+            <span class="tag ms">MS</span>
+        </header>
+        
+        <div class="content" >
+            <h1>A Spencer-Brown Inspired Ontological Model of André Brock's "Distributed Blackness"</h1>
+
+This report presents a structured ontological index of André Brock's influential 2020 work "Distributed Blackness: African American Cybercultures" using Spencer-Brown's calculus of distinctions. By marking entities as distinctions (◻) and relationships as indications (→), we create a formal representation that illuminates the conceptual architecture of Black digital practices and information experiences.
+
+<h2>Foundational Entities and Primary Distinctions</h2>
+
+<h3>Core Theoretical Constructs</h3>
+
+◻ <strong>Distributed Blackness</strong>: Brock's 2020 book exploring Black digital practices beyond notions of absence and resistance
+
+◻ <strong>Black cyberculture</strong>: Online identity and digital practices of African Americans
+
+◻ <strong>Critical Technocultural Discourse Analysis (CTDA)</strong>: Brock's analytic technique combining linguistics, rhetoric, and critical race theory
+
+◻ <strong>libidinal economy</strong>: The affective infrastructure powering Black digital expression
+
+◻ <strong>Black technocultural matrix</strong>: The interweaving of technology, culture, self, and identity
+
+◻ <strong>naturalized internet identity</strong>: The default online identity often assumed to be white
+
+◻ <strong>safe spaces</strong>: Online environments constructed by African-Americans
+
+<h3>Key Aspects of the Black Technocultural Matrix</h3>
+
+◻ <strong>Blackness</strong>: The foundational quality informing online identity practices
+
+◻ <strong>Intersectionality</strong>: Recognition of multiple interacting dimensions of identity
+
+◻ <strong>America</strong>*: The particular national context shaping experience
+
+◻ <strong>Invention/Style</strong>: Creative expressive modes unique to Black cyberculture
+
+◻ <strong>Modernity</strong>: Relationship to contemporary technological frameworks
+
+◻ <strong>The Future</strong>: Forward-looking engagement with technological possibilities
+
+<h2>Morphisms and Relational Structures</h2>
+
+<h3>Theoretical Relationships</h3>
+
+◻ <strong>Black people</strong> → <em>have a natural affinity for</em> → ◻ <strong>internet and digital media</strong>
+   <em>Brock's assertion about Black engagement with technological platforms</em><a href="#citation-1" class="citation-number"><a href="#citation-1" class="citation-number">[1]</a></a>
+
+◻ <strong>Black cyberculture</strong> → <em>decenters</em> → ◻ <strong>whiteness</strong>
+   <em>How Black online spaces shift the assumed default identity</em><a href="#citation-1" class="citation-number"><a href="#citation-1" class="citation-number">[1]</a></a>
+
+◻ <strong>Black-created internet platforms</strong> → <em>function as</em> → ◻ <strong>safe spaces</strong>
+   <em>Online environments where Black identity can be normalized</em><a href="#citation-1" class="citation-number"><a href="#citation-1" class="citation-number">[1]</a></a>
+
+◻ <strong>technology</strong> → <em>is shaped by</em> → ◻ <strong>culture</strong>
+   <em>Cultural influences operate behind technological creation and use</em><a href="#citation-1" class="citation-number"><a href="#citation-1" class="citation-number">[1]</a></a><a href="#citation-3" class="citation-number"><a href="#citation-3" class="citation-number">[3]</a></a>
+
+◻ <strong>racism</strong> → <em>is not</em> → ◻ <strong>sole defining characteristic of Black identity</strong>
+   <em>Brock's rejection of deficit-based analysis of Black online presence</em><a href="#citation-2" class="citation-number"><a href="#citation-2" class="citation-number">[2]</a></a><a href="#citation-3" class="citation-number"><a href="#citation-3" class="citation-number">[3]</a></a>
+
+<h3>Methodological Relationships</h3>
+
+◻ <strong>CTDA</strong> → <em>combines</em> → ◻ <strong>user discourse and technological artifact</strong>
+   <em>Methodology linking form, function, belief, and meaning</em><a href="#citation-1" class="citation-number"><a href="#citation-1" class="citation-number">[1]</a></a><a href="#citation-3" class="citation-number"><a href="#citation-3" class="citation-number">[3]</a></a>
+
+◻ <strong>CTDA</strong> → <em>employs</em> → ◻ <strong>assemblage technique</strong>
+   <em>Integration of racial, social, cultural analysis with tech-based inquiry</em><a href="#citation-3" class="citation-number"><a href="#citation-3" class="citation-number">[3]</a></a>
+
+◻ <strong>Black technocultural matrix</strong> → <em>incorporates</em> → ◻ <strong>six aspects</strong>
+   <em>Framework including Blackness, Intersectionality, America</em>, Invention/Style, Modernity, and Future*<a href="#citation-3" class="citation-number"><a href="#citation-3" class="citation-number">[3]</a></a>
+
+<h2>Complex Conceptual Structures</h2>
+
+<h3>Libidinal Economy and Expression</h3>
+
+◻ <strong>libidinal economy</strong> → <em>powers</em> → ◻ <strong>Black online expression</strong>
+   <em>Affective infrastructure enabling digital communication</em><a href="#citation-3" class="citation-number"><a href="#citation-3" class="citation-number">[3]</a></a>
+
+◻ <strong>ratchetry</strong> → <em>is</em> → ◻ <strong>speaking without a filter</strong>
+   <em>Aesthetic expression with a libidinal component of pleasure</em><a href="#citation-3" class="citation-number"><a href="#citation-3" class="citation-number">[3]</a></a>
+
+◻ <strong>ratchetry</strong> → <em>challenges</em> → ◻ <strong>respectability politics</strong>
+   <em>Speaking freely without self-censorship imposed by white norms</em><a href="#citation-3" class="citation-number"><a href="#citation-3" class="citation-number">[3]</a></a>
+
+◻ <strong>joy</strong> → <em>exists beyond</em> → ◻ <strong>resistance to racism</strong>
+   <em>Focus on positive affective expressions in Black digital practice</em><a href="#citation-2" class="citation-number"><a href="#citation-2" class="citation-number">[2]</a></a><a href="#citation-3" class="citation-number"><a href="#citation-3" class="citation-number">[3]</a></a>
+
+<h3>Black Twitter as Network Space</h3>
+
+◻ <strong>Black Twitter</strong> → <em>functions as</em> → ◻ <strong>satellite counterpublic sphere</strong>
+   <em>Network space for Black social discourse</em><a href="#citation-3" class="citation-number"><a href="#citation-3" class="citation-number">[3]</a></a>
+
+◻ <strong>Black Twitter</strong> → <em>exemplifies</em> → ◻ <strong>networked information crucial to Black identity</strong>
+   <em>Digital space facilitating identity formation and expression</em><a href="#citation-3" class="citation-number"><a href="#citation-3" class="citation-number">[3]</a></a>
+
+◻ <strong>Black Twitter</strong> → <em>answers</em> → ◻ <strong>"What would a Black online network look like?"</strong>
+   <em>Response to Amiri Baraka's 1965 question about Black cyberculture</em><a href="#citation-3" class="citation-number"><a href="#citation-3" class="citation-number">[3]</a></a>
+
+<h2>Theoretical Frameworks and Influences</h2>
+
+<h3>Influences and Theoretical Positions</h3>
+
+◻ <strong>Distributed Blackness</strong> → <em>engages with</em> → ◻ <strong>Afro-pessimism</strong>
+   <em>Engagement with theoretical tradition of Wilderson, Sexton, and Moton</em><a href="#citation-3" class="citation-number"><a href="#citation-3" class="citation-number">[3]</a></a>
+
+◻ <strong>Brock</strong> → <em>moves beyond</em> → ◻ <strong>Afro-pessimism toward Afro-optimism</strong>
+   <em>Theoretical evolution seeking creative potential</em><a href="#citation-3" class="citation-number"><a href="#citation-3" class="citation-number">[3]</a></a>
+
+◻ <strong>Distributed Blackness</strong> → <em>builds on</em> → ◻ <strong>Black feminist thought and Black queer theory</strong>
+   <em>Theoretical foundations informing Brock's analysis</em><a href="#citation-3" class="citation-number"><a href="#citation-3" class="citation-number">[3]</a></a>
+
+◻ <strong>Distributed Blackness</strong> → <em>situates in legacy of</em> → ◻ <strong>Black informational projects</strong>
+   <em>Connection to historical projects like The Negro Motorist Green Book</em><a href="#citation-2" class="citation-number"><a href="#citation-2" class="citation-number">[2]</a></a>
+
+<h2>Conclusion</h2>
+
+This Spencer-Brown inspired ontological model captures the rich theoretical framework of André Brock's "Distributed Blackness." Through formal distinctions (◻) and indications (→), we visualize how Brock conceptualizes Black cybercultures as spaces of joy, creativity, and self-definition beyond resistance to racism. The model highlights Brock's methodological innovation of Critical Technocultural Discourse Analysis (CTDA) and his articulation of the Black technocultural matrix as a framework for understanding how technology, culture, self, and identity interweave in Black digital practice.
+
+The ontological structure demonstrates Brock's central argument that Black digital identity should not be defined primarily against racism, but rather understood through its own libidinal economies, networked information practices, and creative expressions that allow Black folks to "simply be and to self-define"<a href="#citation-3" class="citation-number"><a href="#citation-3" class="citation-number">[3]</a></a> in digital spaces.
+
+Citations:
+<a href="#citation-1" class="citation-number"><a href="#citation-1" class="citation-number">[1]</a></a> https://nique.net/life/2020/09/27/distributed-blackness-african-american-cybercultures/
+<a href="#citation-2" class="citation-number"><a href="#citation-2" class="citation-number">[2]</a></a> https://csalateral.org/reviews/distributed-blackness-african-american-cybercultures-brock-suren/
+<a href="#citation-3" class="citation-number"><a href="#citation-3" class="citation-number">[3]</a></a> https://quod.lib.umich.edu/m/mij/15031809.0007.207/--book-review-distributed-blackness-african-american?rgn=main%3Bview%3Dfulltext
+<a href="#citation-4" class="citation-number"><a href="#citation-4" class="citation-number">[4]</a></a> https://catalystjournal.org/index.php/catalyst/article/view/35995/28524
+<a href="#citation-5" class="citation-number"><a href="#citation-5" class="citation-number">[5]</a></a> https://nyupress.org/9781479829965/distributed-blackness/
+<a href="#citation-6" class="citation-number"><a href="#citation-6" class="citation-number">[6]</a></a> https://www.jstor.org/stable/jj.13944228
+<a href="#citation-7" class="citation-number"><a href="#citation-7" class="citation-number">[7]</a></a> https://academic.oup.com/nyu-press-scholarship-online/book/34192
+
+---
+        </div>
+        
+        <footer>
+            <p>Part of the Reality Media Explorer project</p>
+            <p>Created with STS_MS_CAT_CORE HTML Converter</p>
+        </footer>
+    </div>
+</body>
+</html>

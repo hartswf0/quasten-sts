@@ -1,0 +1,182 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Goffman STS</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="script.js" defer></script>
+</head>
+<body>
+    <div class="theme-toggle" id="themeToggle" title="Toggle Dark/Light Mode">
+        ☀️
+    </div>
+    
+    <div class="container">
+        <header>
+            <a href="index.html" class="back-link">← Back to Author Catalog</a>
+            <h1>Goffman STS</h1>
+            <span class="tag sts">STS</span>
+        </header>
+        
+        <div class="content">
+            <h1>A Spencer-Brown Inspired Ontological Model of Goffman's "The Presentation of Self in Everyday Life"</h1>
+
+This report presents a structured ontological index of Erving Goffman's influential 1956 work "The Presentation of Self in Everyday Life" using Spencer-Brown's calculus of distinctions. By marking entities as distinctions (◻) and relationships as indications (→), we create a formal representation that illuminates the conceptual architecture of Goffman's dramaturgical approach to social interaction.
+
+<h2>Foundational Entities and Primary Distinctions</h2>
+
+<h3>Core Theoretical Constructs</h3>
+
+◻ <strong>The Presentation of Self in Everyday Life</strong>: Goffman's 1956 book presenting a dramaturgical approach to social interaction
+
+◻ <strong>dramaturgy</strong>: The theatrical metaphor used to analyze everyday social interactions
+
+◻ <strong>performance</strong>: Controlled actions that individuals do to persuade others' perceptions of themselves
+
+◻ <strong>impression management</strong>: The process by which people attempt to control how others see them
+
+◻ <strong>front</strong>: The part of an individual's performance that regularly functions to define the situation for observers
+
+◻ <strong>mask</strong>: The theatrical display that allows performers to express what they want their audience to see
+
+◻ <strong>frame</strong>: Abstract contextual idea that gives meaning to social situations
+
+<h3>Performance Components</h3>
+
+◻ <strong>front stage</strong>: Area where individuals perform for an audience, adhering to conventions and norms
+
+◻ <strong>backstage</strong>: Area where performers can relax, drop their front, and step out of character
+
+◻ <strong>personal front</strong>: Expressive equipment identified with the performer personally (appearance, manner)
+
+◻ <strong>setting</strong>: The physical scene that supplies the scenery for human action to play out
+
+◻ <strong>teams</strong>: Groups of individuals who cooperate in staging a single performance
+
+◻ <strong>region</strong>: Any place bounded by barriers to perception
+
+◻ <strong>discrepant roles</strong>: Roles that provide access to information not intended for the audience
+
+<h2>Morphisms and Relational Structures</h2>
+
+<h3>Core Performance Relationships</h3>
+
+◻ <strong>individual</strong> → <em>engages in</em> → ◻ <strong>performance</strong>
+   <em>"Any action that is repeated frequently becomes cast into a pattern"</em>[1]
+
+◻ <strong>performance</strong> → <em>creates</em> → ◻ <strong>impressions</strong>
+   <em>"Performances are controlled actions to persuade others' perceptions"</em>[1]
+
+◻ <strong>individual</strong> → <em>wears</em> → ◻ <strong>mask</strong>
+   <em>"Person means mask - allowing the performer to express what they want audiences to see"</em>[1]
+
+◻ <strong>front stage</strong> → <em>contrasts with</em> → ◻ <strong>backstage</strong>
+   <em>"In society, there is also a front stage and a back stage"</em>[13]
+
+◻ <strong>individuals</strong> → <em>become</em> → ◻ <strong>sincere or cynical performers</strong>
+   <em>Performers either believe in the impression of reality they stage or do not</em>[3]
+
+<h3>Team and Regional Relationships</h3>
+
+◻ <strong>teams</strong> → <em>maintain</em> → ◻ <strong>collective responsibility</strong>
+   <em>"Individuals normally work in groups or teams where each participant accepts responsibility"</em>[1]
+
+◻ <strong>teams</strong> → <em>cooperate to sustain</em> → ◻ <strong>front stage performance</strong>
+   <em>"Cooperation among the members is imperative"</em>[1]
+
+◻ <strong>regions</strong> → <em>are bounded by</em> → ◻ <strong>barriers to perception</strong>
+   <em>"A region is any space where accessibility by non-performers is limited"</em>[1]
+
+◻ <strong>backstage</strong> → <em>allows</em> → ◻ <strong>out of character behavior</strong>
+   <em>"The backstage behavior may be more authentic"</em>[1]
+
+◻ <strong>audience</strong> → <em>is excluded from</em> → ◻ <strong>backstage region</strong>
+   <em>"Barriers are in place to keep them from seeing what happens behind the scenes"</em>[1]
+
+<h2>Complex Conceptual Structures</h2>
+
+<h3>Sincerity-Cynicism Framework</h3>
+
+◻ <strong>sincere performers</strong> → <em>believe in</em> → ◻ <strong>their own act</strong>
+   <em>"The performer can be fully taken in by his own act"</em>[3]
+
+◻ <strong>cynical performers</strong> → <em>do not believe in</em> → ◻ <strong>their own act</strong>
+   <em>"The performer may not be taken in at all by his own routine"</em>[3]
+
+◻ <strong>cynical performance</strong> → <em>can transform into</em> → ◻ <strong>sincere performance</strong>
+   <em>"People can oscillate between these two extremes as they move through different stages"</em>[3]
+
+<h3>Idealization Complex</h3>
+
+◻ <strong>performances</strong> → <em>become</em> → ◻ <strong>idealized</strong>
+   <em>"People innately want to conform to norms, so performances often become idealized"</em>[1]
+
+◻ <strong>idealized performances</strong> → <em>conceal</em> → ◻ <strong>inconsistent behaviors</strong>
+   <em>The front presented hides actions incompatible with idealized version</em>
+
+◻ <strong>social roles</strong> → <em>shape</em> → ◻ <strong>performance expectations</strong>
+   <em>"People have social roles that allow them to understand one's self and each other"</em>[1]
+
+<h3>Discrepant Roles Framework</h3>
+
+◻ <strong>discrepant roles</strong> → <em>provide access to</em> → ◻ <strong>backstage information</strong>
+   <em>"Non-performers have 'discrepant roles' where they intentionally pursue secret knowledge"</em>[1]
+
+◻ <strong>out-of-character outbursts</strong> → <em>reveal</em> → ◻ <strong>backstage information</strong>
+   <em>"One way a performer unintentionally reveals secret information"</em>[1]
+
+◻ <strong>secret information</strong> → <em>can destroy</em> → ◻ <strong>definition of the situation</strong>
+   <em>"If the secrets of performances are revealed, it destroys the definition of the situation"</em>[1]
+
+<h2>Identity Construction Framework</h2>
+
+<h3>Face and Self-Presentation</h3>
+
+◻ <strong>face</strong> → <em>is defined as</em> → ◻ <strong>positive social value</strong>
+   <em>"The positive social value a person effectively claims for himself"</em>[16]
+
+◻ <strong>identity</strong> → <em>is influenced by</em> → ◻ <strong>front and back region behaviors</strong>
+   <em>"Workers integrate the two into a professional sense of self"</em>[14]
+
+◻ <strong>self-presentation</strong> → <em>means</em> → ◻ <strong>efforts to create impressions</strong>
+   <em>"A person's efforts to create specific impressions in the minds of others"</em>[13]
+
+◻ <strong>performance</strong> → <em>both succeeds and fails in</em> → ◻ <strong>authentic self-expression</strong>
+   <em>Different performances can be staged but felt to be authentic by performers</em>[14]
+
+<h2>Conclusion</h2>
+
+This Spencer-Brown inspired ontological model captures the rich theoretical framework of Goffman's "The Presentation of Self in Everyday Life." Through formal distinctions (◻) and indications (→), we visualize how Goffman conceptualizes social interaction as a theatrical performance, with individuals managing impressions through front and backstage behaviors. The model highlights Goffman's central insight that social identity is not fixed but continually constructed through performances that may be sincere or cynical, and that become increasingly ritualized and idealized as they are repeated within social contexts.
+
+Citations:
+[1] https://scholarworks.sjsu.edu/cgi/viewcontent.cgi?article=8097&context=etd_theses
+[2] https://www.thoughtco.com/goffmans-front-stage-and-back-stage-behavior-4087971
+[3] https://revisesociology.com/2016/02/04/the-presentation-of-the-self-in-everyday-life-extended-summary/
+[4] https://web.pdx.edu/~tothm/theory/Presentation%20of%20Self.htm
+[5] https://en.wikipedia.org/wiki/Laws_of_Form
+[6] https://mathworld.wolfram.com/Spencer-BrownForm.html
+[7] https://luhmann.ir/wp-content/uploads/2021/07/Deconstruction-as-Second-Order-Observing.pdf
+[8] https://pmc.ncbi.nlm.nih.gov/articles/PMC8604840/
+[9] https://earnestlyeccentric.wordpress.com/2022/12/13/the-presentation-of-self-in-everyday-life/
+[10] https://www.projectenportfolio.nl/images/1/16/Robertson-Laws_of_Form.pdf
+[11] https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/8/144490/files/2024/04/provocation-1.2-95809233f0e92bd9.pdf
+[12] https://www.cambridge.org/core/books/cambridge-handbook-of-sociopragmatics/face-facework-and-facethreatening-acts/8FAE3558DB5416EE5DC4D9193BCD2970
+[13] https://study.com/academy/lesson/erving-goffmans-theories-impression-management-dramaturgy-symbolic-interaction.html
+[14] https://journals.sagepub.com/doi/10.1177/0891241612458122
+[15] http://homepages.math.uic.edu/~kauffman/Laws.pdf
+[16] https://core.ac.uk/download/pdf/46963.pdf
+[17] https://www.iiis.org/videoLKrf-rel3.pdf
+[18] https://www.strategicstructures.com/?p=957
+
+---
+Answer from Perplexity: https://www.perplexity.ai/search/sts-ms-cat-core-26eOjT2rQjiRqIxKt6q3GA?utm_source=copy_output
+        </div>
+        
+        <footer>
+            <p>Part of the Reality Media Explorer project</p>
+            <p>Created with STS_MS_CAT_CORE HTML Converter</p>
+        </footer>
+    </div>
+</body>
+</html>

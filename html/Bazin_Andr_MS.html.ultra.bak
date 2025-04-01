@@ -1,0 +1,145 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bazin Andr MS</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="script.js" defer></script>
+</head>
+<body>
+    <div class="theme-toggle" id="themeToggle" title="Toggle Dark/Light Mode">
+        ☀️
+    </div>
+    
+    <div class="container">
+        <header>
+            <a href="index.html" class="back-link">← Back to Author Catalog</a>
+            <h1>Bazin Andr MS</h1>
+            <span class="tag ms">MS</span>
+        </header>
+        
+        <div class="content" >
+            <h1>A Spencer-Brown Inspired Ontological Model of Bazin's "The Ontology of the Photographic Image"</h1>
+
+This report presents a structured ontological index of André Bazin's influential 1945 essay "The Ontology of the Photographic Image" using Spencer-Brown's calculus of distinctions. By marking entities as distinctions (◻) and relationships as indications (→), we create a formal representation that illuminates the conceptual architecture of Bazin's analysis of photography's unique ontological status.
+
+<h2>Foundational Entities and Primary Distinctions</h2>
+
+<h3>Core Theoretical Constructs</h3>
+
+◻ <strong>The Ontology of the Photographic Image</strong>: Bazin's 1945 essay examining photography's nature and relationship to reality
+
+◻ <strong>mummification</strong>: Preservation ritual that psychologically motivates art's development
+
+◻ <strong>plastic arts</strong>: Visual arts including photography, painting, sculpture, and cinema
+
+◻ <strong>photography</strong>: Mechanical process creating images through light and chemical processes
+
+◻ <strong>objectivity</strong>: Quality of photographic representation resulting from mechanical process
+
+◻ <strong>psychological need</strong>: Human desire to preserve life against time and death
+
+◻ <strong>realism</strong>: Representation that depicts subjects as they appear in material reality
+
+◻ <strong>subjectivity</strong>: Human intervention in artistic representation
+
+<h3>Historical Components</h3>
+
+◻ <strong>Egyptian mummification</strong>: Preservation practice that attempted to defeat death
+
+◻ <strong>baroque art</strong>: Style with ambition toward perfect illusion of reality
+
+◻ <strong>crisis in plastic arts</strong>: Tension between symbolism and realism that photography resolved
+
+◻ <strong>Niepce and Lumiere</strong>: Inventors who "redeemed" Western art from sin of perspective
+
+<h2>Morphisms and Relational Structures</h2>
+
+<h3>Foundational Relationships</h3>
+
+◻ <strong>plastic arts</strong> → <em>originate in</em> → ◻ <strong>psychological defense against death</strong>
+   <em>"The practice of embalming the dead might turn out to be a fundamental factor in [the] creation of plastic art"</em><a href="#citation-3" class="citation-number"><a href="#citation-3" class="citation-number">[3]</a></a>
+
+◻ <strong>art</strong> → <em>preserves</em> → ◻ <strong>life through representation</strong>
+   <em>"Art provides a defense against the passage of time thereby satisfying a basic psychological need in man"</em><a href="#citation-5" class="citation-number"><a href="#citation-5" class="citation-number">[5]</a></a>
+
+◻ <strong>photography</strong> → <em>liberates</em> → ◻ <strong>painting from realism</strong>
+   <em>"Photography and the cinema on the other hand are discoveries that satisfy, once and for all, and in its very essence, our obsession with realism"</em><a href="#citation-3" class="citation-number"><a href="#citation-3" class="citation-number">[3]</a></a>
+
+◻ <strong>photography</strong> → <em>introduces</em> → ◻ <strong>objectivity to image creation</strong>
+   <em>"For the first time, between the originating object and its reproduction there intervenes only the instrumentality of a nonliving agent"</em><a href="#citation-3" class="citation-number"><a href="#citation-3" class="citation-number">[3]</a></a>
+
+<h3>Ontological Framework</h3>
+
+◻ <strong>photographic image</strong> → <em>is</em> → ◻ <strong>the object itself</strong>
+   <em>"The photographic image is the object itself, the object freed from the conditions of time and space that govern it"</em><a href="#citation-3" class="citation-number"><a href="#citation-3" class="citation-number">[3]</a></a>
+
+◻ <strong>photograph</strong> → <em>shares</em> → ◻ <strong>being of the model</strong>
+   <em>"It shares, by virtue of the very process of its becoming, the being of the model of which it is the reproduction; it is the model"</em><a href="#citation-3" class="citation-number"><a href="#citation-3" class="citation-number">[3]</a></a>
+
+◻ <strong>model and image</strong> → <em>have</em> → ◻ <strong>ontological identity</strong>
+   <em>"No one believes any longer in the ontological identity of model and image, but all are agreed that the image helps us to remember the subject"</em><a href="#citation-6" class="citation-number"><a href="#citation-6" class="citation-number">[6]</a></a>
+
+◻ <strong>photograph</strong> → <em>preserves</em> → ◻ <strong>subject from second spiritual death</strong>
+   <em>"The image helps us to remember the subject and to preserve him from a second spiritual death"</em><a href="#citation-6" class="citation-number"><a href="#citation-6" class="citation-number">[6]</a></a>
+
+<h2>Complex Conceptual Structures</h2>
+
+<h3>Historical Tensions Framework</h3>
+
+◻ <strong>painting</strong> → <em>was torn between</em> → ◻ <strong>spiritual expression and duplication</strong>
+   <em>"Painting was torn between two ambitions: one...the expression of spiritual reality wherein the symbol transcended its model; the other...the duplication of the world outside"</em><a href="#citation-11" class="citation-number"><a href="#citation-11" class="citation-number">[11]</a></a>
+
+◻ <strong>perspective</strong> → <em>is</em> → ◻ <strong>original sin of Western painting</strong>
+   <em>"Perspective was the original sin of Western painting. It was redeemed from sin by Niepce and Lumiere"</em><a href="#citation-3" class="citation-number"><a href="#citation-3" class="citation-number">[3]</a></a>
+
+◻ <strong>photography</strong> → <em>redeems</em> → ◻ <strong>painting from obsession with likeness</strong>
+   <em>"In achieving the aims of baroque art, photography has freed the plastic arts from their obsession with likeness"</em><a href="#citation-3" class="citation-number"><a href="#citation-3" class="citation-number">[3]</a></a>
+
+◻ <strong>plastic arts</strong> → <em>were in crisis between</em> → ◻ <strong>symbolism and realism</strong>
+   <em>"Pointing out the crisis in the field of plastic art, in relation with symbolism and realism"</em><a href="#citation-3" class="citation-number"><a href="#citation-3" class="citation-number">[3]</a></a>
+
+<h3>Automatism Framework</h3>
+
+◻ <strong>photography</strong> → <em>creates image through</em> → ◻ <strong>nonliving agent</strong>
+   <em>"For the first time, between the originating object and its reproduction there intervenes only the instrumentality of a nonliving agent"</em><a href="#citation-3" class="citation-number"><a href="#citation-3" class="citation-number">[3]</a></a>
+
+◻ <strong>image</strong> → <em>is formed</em> → ◻ <strong>automatically</strong>
+   <em>"For the first time an image of the world is formed automatically, without the creative intervention of man"</em><a href="#citation-3" class="citation-number"><a href="#citation-3" class="citation-number">[3]</a></a>
+
+◻ <strong>photographer's personality</strong> → <em>enters only through</em> → ◻ <strong>selection and purpose</strong>
+   <em>"The personality of the photographer enters into the proceedings only in his selection of the object to be photographed and by way of the purpose he has in mind"</em><a href="#citation-3" class="citation-number"><a href="#citation-3" class="citation-number">[3]</a></a>
+
+◻ <strong>photography</strong> → <em>enjoys</em> → ◻ <strong>credibility absent from other art forms</strong>
+   <em>"Psychologically, the automatically captured photography enjoys more credibility which is absent from all other resemblance making previous artistic practices"</em><a href="#citation-3" class="citation-number"><a href="#citation-3" class="citation-number">[3]</a></a>
+
+<h2>Conclusion</h2>
+
+This Spencer-Brown inspired ontological model captures the rich theoretical framework of Bazin's "The Ontology of the Photographic Image." Through formal distinctions (◻) and indications (→), we visualize how Bazin conceptualizes photography as a revolutionary development in the plastic arts—one that satisfies humanity's psychological need for realism while liberating painting to pursue more expressive paths. The model highlights Bazin's central argument that the photographic image shares an ontological identity with its subject in a way painting never could, due to the mechanical objectivity of the photographic process. This structured index provides an entry point into Bazin's influential analysis of photography's unique status as both art form and technological process—an analysis that would later inform his theories of cinematic realism.
+
+Citations:
+<a href="#citation-1" class="citation-number"><a href="#citation-1" class="citation-number">[1]</a></a> https://www.youtube.com/watch?v=VYJlq-MwWTY
+<a href="#citation-2" class="citation-number"><a href="#citation-2" class="citation-number">[2]</a></a> https://doi.org/10.3366/edinburgh/9781474402217.003.0006
+<a href="#citation-3" class="citation-number"><a href="#citation-3" class="citation-number">[3]</a></a> https://www.cukerala.ac.in/cukpdfs/IQAC/3.4.7/3.4.7.ECL.036.pdf
+<a href="#citation-4" class="citation-number"><a href="#citation-4" class="citation-number">[4]</a></a> https://uamb2003.livejournal.com/19341.html
+<a href="#citation-5" class="citation-number"><a href="#citation-5" class="citation-number">[5]</a></a> https://cma4962.wordpress.com/2016/03/01/bazin-the-ontology-of-the-photographic-image/
+<a href="#citation-6" class="citation-number"><a href="#citation-6" class="citation-number">[6]</a></a> https://www.wildreflections.photography/uncategorised/the-ontology-of-the-photographic-image-by-andre-bazin
+<a href="#citation-7" class="citation-number"><a href="#citation-7" class="citation-number">[7]</a></a> http://mediapracticefilmform.blogspot.com/2009/12/approaching-real-bazin-and-indexicality.html
+<a href="#citation-8" class="citation-number"><a href="#citation-8" class="citation-number">[8]</a></a> https://offscreen.com/view/bazin1
+<a href="#citation-9" class="citation-number"><a href="#citation-9" class="citation-number">[9]</a></a> http://www.inquiriesjournal.com/articles/86/an-analysis-of-film-critic-andre-bazins-views-on-expressionism-and-realism-in-film
+<a href="#citation-10" class="citation-number"><a href="#citation-10" class="citation-number">[10]</a></a> https://intermittentmechanism.blog/2016/12/12/two-lessons-on-andre-bazins-ontology-of-the-photographic-image/
+<a href="#citation-11" class="citation-number"><a href="#citation-11" class="citation-number">[11]</a></a> https://philosophynow.org/issues/95/The_Ontology_of_Photography_From_Analogue_To_Digital
+<a href="#citation-12" class="citation-number"><a href="#citation-12" class="citation-number">[12]</a></a> https://www.academia.edu/31209587/Multiple_Indexicality_and_Multiple_Realism_in_Andre_Bazin
+<a href="#citation-13" class="citation-number"><a href="#citation-13" class="citation-number">[13]</a></a> https://sites.lafayette.edu/fams202-sp15/2015/02/13/ontology-of-the-photographic-image-by-andre-bazin/
+
+---
+        </div>
+        
+        <footer>
+            <p>Part of the Reality Media Explorer project</p>
+            <p>Created with STS_MS_CAT_CORE HTML Converter</p>
+        </footer>
+    </div>
+</body>
+</html>

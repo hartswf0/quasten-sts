@@ -1,0 +1,183 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Latour STS</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="script.js" defer></script>
+</head>
+<body>
+    <div class="theme-toggle" id="themeToggle" title="Toggle Dark/Light Mode">
+        ☀️
+    </div>
+    
+    <div class="container">
+        <header>
+            <a href="index.html" class="back-link">← Back to Author Catalog</a>
+            <h1>Latour STS</h1>
+            <span class="tag sts">STS</span>
+        </header>
+        
+        <div class="content" >
+            <h1>A Spencer-Brown Inspired Ontological Model of Latour's "Reassembling the Social"</h1>
+
+This report presents a structured ontological index of Bruno Latour's influential 2005 work "Reassembling the Social: An Introduction to Actor-Network-Theory" using Spencer-Brown's calculus of distinctions. By marking entities as distinctions (◻) and relationships as indications (→), we create a formal representation that illuminates the conceptual architecture of Actor-Network Theory.
+
+<h2>Foundational Entities and Primary Distinctions</h2>
+
+<h3>Core Theoretical Constructs</h3>
+
+◻ <strong>Reassembling the Social</strong>: Latour's 2005 book introducing Actor-Network Theory
+
+◻ <strong>Actor-Network Theory (ANT)</strong>: Methodological approach to studying associations, not a theory of what the social is made of
+
+◻ <strong>sociology of associations</strong>: Latour's approach that focuses on tracing heterogeneous connections
+
+◻ <strong>sociology of the social</strong>: Traditional sociology assuming a distinct social domain exists
+
+◻ <strong>social</strong>: Not a type of material but a movement of reassociation and reassembling
+
+◻ <strong>actor-network</strong>: Traceable connections that are themselves non-social
+
+◻ <strong>controversy</strong>: Opportunity to observe social connections being made visible
+
+<h3>Actor Types and Capacities</h3>
+
+◻ <strong>actor/actant</strong>: Any entity that modifies other actors (human or non-human)
+
+◻ <strong>mediator</strong>: Entity that transforms, translates, distorts, or modifies meaning
+
+◻ <strong>intermediary</strong>: Entity that transports meaning or force without transformation
+
+◻ <strong>group</strong>: Not a fixed entity but an ongoing process of group formation
+
+◻ <strong>quasi-object</strong>: Entities that are neither purely objects nor subjects
+
+◻ <strong>material-semiotic entity</strong>: Actor combining physical and meaning-making properties
+
+◻ <strong>black box</strong>: Stabilized network that functions as a single actor
+
+<h2>Morphisms and Relational Structures</h2>
+
+<h3>Core Theoretical Relationships</h3>
+
+◻ <strong>sociology of associations</strong> → <em>contrasts with</em> → ◻ <strong>sociology of the social</strong>
+   <em>"With some provocation, this second school of thought could use as its slogan what Mrs Thatcher famously exclaimed: 'There is no such a thing as a society'"</em><a href="#citation-6" class="citation-number"><a href="#citation-6" class="citation-number">[6]</a></a><a href="#citation-11" class="citation-number"><a href="#citation-11" class="citation-number">[11]</a></a>
+
+◻ <strong>social</strong> → <em>is not</em> → ◻ <strong>specific domain of reality</strong>
+   <em>"It claims that there is nothing specific to social order; that there is no social dimension of any sort, no 'social context'"</em><a href="#citation-1" class="citation-number"><a href="#citation-1" class="citation-number">[1]</a></a>
+
+◻ <strong>social</strong> → <em>is visible only through</em> → ◻ <strong>traces of associations</strong>
+   <em>"It is visible only by the traces it leaves (under trials) when a new association is being produced"</em><a href="#citation-11" class="citation-number"><a href="#citation-11" class="citation-number">[11]</a></a>
+
+◻ <strong>actor-network</strong> → <em>has no a priori order relation</em> → ◻ <strong>no top/bottom</strong>
+   <em>"It has no a priori order relation; it is not tied to the axiological myth of a top and of a bottom of society"</em><a href="#citation-4" class="citation-number"><a href="#citation-4" class="citation-number">[4]</a></a>
+
+◻ <strong>group</strong> → <em>requires</em> → ◻ <strong>continuous performance</strong>
+   <em>"Relations need to be repeatedly 'performed' or the network will dissolve"</em><a href="#citation-4" class="citation-number"><a href="#citation-4" class="citation-number">[4]</a></a>
+
+<h3>Intermediary and Mediator Framework</h3>
+
+◻ <strong>mediator</strong> → <em>transforms</em> → ◻ <strong>meaning or elements</strong>
+   <em>"Transform, translate, distort, and modify the meaning or the elements they are supposed to carry"</em><a href="#citation-8" class="citation-number"><a href="#citation-8" class="citation-number">[8]</a></a><a href="#citation-12" class="citation-number"><a href="#citation-12" class="citation-number">[12]</a></a>
+
+◻ <strong>intermediary</strong> → <em>transports without transforming</em> → ◻ <strong>meaning or force</strong>
+   <em>"Transporting meaning or force without transformation"</em><a href="#citation-8" class="citation-number"><a href="#citation-8" class="citation-number">[8]</a></a><a href="#citation-12" class="citation-number"><a href="#citation-12" class="citation-number">[12]</a></a>
+
+◻ <strong>social explanation</strong> → <em>has too often relied on</em> → ◻ <strong>intermediaries</strong>
+   <em>"From an ANT point of view sociology has tended to treat too much of the world as intermediaries"</em><a href="#citation-4" class="citation-number"><a href="#citation-4" class="citation-number">[4]</a></a>
+
+◻ <strong>committed ANT analysis</strong> → <em>treats entities as</em> → ◻ <strong>mediators</strong>
+   <em>"For the committed ANT analyst, social things—must constantly be constructed or performed anew through complex engagements with complex mediators"</em><a href="#citation-4" class="citation-number"><a href="#citation-4" class="citation-number">[4]</a></a>
+
+<h2>Complex Conceptual Structures</h2>
+
+<h3>The Five Sources of Uncertainty</h3>
+
+◻ <strong>first source of uncertainty</strong> → <em>concerns</em> → ◻ <strong>groups</strong>
+   <em>"The first source of uncertainty is the status of groups: do they exist, or are they being constantly formed and re-formed?"</em><a href="#citation-7" class="citation-number"><a href="#citation-7" class="citation-number">[7]</a></a>
+
+◻ <strong>second source of uncertainty</strong> → <em>concerns</em> → ◻ <strong>action</strong>
+   <em>"Action is overtaken"</em><a href="#citation-9" class="citation-number"><a href="#citation-9" class="citation-number">[9]</a></a>
+
+◻ <strong>third source of uncertainty</strong> → <em>concerns</em> → ◻ <strong>objects as actors</strong>
+   <em>"Objects too have agency"</em><a href="#citation-7" class="citation-number"><a href="#citation-7" class="citation-number">[7]</a></a>
+
+◻ <strong>fourth source of uncertainty</strong> → <em>concerns</em> → ◻ <strong>matters of fact versus matters of concern</strong>
+   <em>"How to tell the difference between a 'matter of fact' and a 'matter of concern'?"</em><a href="#citation-7" class="citation-number"><a href="#citation-7" class="citation-number">[7]</a></a>
+
+◻ <strong>fifth source of uncertainty</strong> → <em>concerns</em> → ◻ <strong>writing accounts</strong>
+   <em>"How to write accounts that trace networks"</em>
+
+<h3>The Social as Movement Framework</h3>
+
+◻ <strong>traditional sociology</strong> → <em>begins with</em> → ◻ <strong>society or social aggregates</strong>
+   <em>"They begin with society or other social aggregates, whereas one should end with them"</em><a href="#citation-6" class="citation-number"><a href="#citation-6" class="citation-number">[6]</a></a><a href="#citation-11" class="citation-number"><a href="#citation-11" class="citation-number">[11]</a></a>
+
+◻ <strong>ANT</strong> → <em>begins with</em> → ◻ <strong>associations</strong>
+   <em>"A sociology of associations looks at the particular associations rather than imposing an assumed social ontology"</em><a href="#citation-1" class="citation-number"><a href="#citation-1" class="citation-number">[1]</a></a>
+
+◻ <strong>sociology of the social</strong> → <em>assumes</em> → ◻ <strong>social as explanatory</strong>
+   <em>"Sociology of the social assumes that there is a fixed social order to be investigated, a social order that serves an explanatory purpose"</em><a href="#citation-1" class="citation-number"><a href="#citation-1" class="citation-number">[1]</a></a>
+
+◻ <strong>sociology of associations</strong> → <em>takes</em> → ◻ <strong>social as explanandum</strong>
+   <em>"That which needs to be explained, not the explanation"</em><a href="#citation-6" class="citation-number"><a href="#citation-6" class="citation-number">[6]</a></a>
+
+<h2>Methodological Framework</h2>
+
+<h3>Three Moves of ANT</h3>
+
+◻ <strong>first move</strong> → <em>involves</em> → ◻ <strong>localizing the global</strong>
+   <em>"Neither 'global contexts' nor 'face-to-face interactions' can be taken for granted"</em><a href="#citation-7" class="citation-number"><a href="#citation-7" class="citation-number">[7]</a></a>
+
+◻ <strong>second move</strong> → <em>involves</em> → ◻ <strong>redistributing the local</strong>
+   <em>"What seems to be local is a product of many connected times and places"</em><a href="#citation-7" class="citation-number"><a href="#citation-7" class="citation-number">[7]</a></a>
+
+◻ <strong>third move</strong> → <em>involves</em> → ◻ <strong>connecting sites</strong>
+   <em>"How are these sites connected? And what makes such connections stable?"</em><a href="#citation-7" class="citation-number"><a href="#citation-7" class="citation-number">[7]</a></a>
+
+<h3>Material-Semiotic Method</h3>
+
+◻ <strong>ANT</strong> → <em>is</em> → ◻ <strong>material-semiotic method</strong>
+   <em>"It is not, in other words, a theory 'of' anything, but rather a method, or a 'how-to book' as Latour puts it"</em><a href="#citation-4" class="citation-number"><a href="#citation-4" class="citation-number">[4]</a></a>
+
+◻ <strong>material-semiotic approach</strong> → <em>examines</em> → ◻ <strong>relational ties</strong>
+   <em>"ANT is a way of thoroughly exploring the relational ties within a network"</em><a href="#citation-7" class="citation-number"><a href="#citation-7" class="citation-number">[7]</a></a>
+
+◻ <strong>explanation</strong> → <em>is</em> → ◻ <strong>description taken further</strong>
+   <em>"Explanation does not follow from description; it is description taken that much further"</em><a href="#citation-4" class="citation-number"><a href="#citation-4" class="citation-number">[4]</a></a>
+
+◻ <strong>following the actors</strong> → <em>requires</em> → ◻ <strong>tracing associations</strong>
+   <em>"Latour urges us to study controversies, since these tend to expose productive differences"</em><a href="#citation-14" class="citation-number"><a href="#citation-14" class="citation-number">[14]</a></a>
+
+<h2>Conclusion</h2>
+
+This Spencer-Brown inspired ontological model captures the rich theoretical framework of Bruno Latour's "Reassembling the Social." Through formal distinctions (◻) and indications (→), we visualize how Latour reconceptualizes sociology as the tracing of associations rather than the invocation of a distinct social domain. The model highlights the central distinction between "sociology of the social" and "sociology of associations," as well as the crucial difference between intermediaries and mediators. What emerges is a picture of ANT not as a theory of what the social world is made of, but as a method for following actors and tracing the constantly shifting networks through which both humans and nonhumans act upon one another.
+
+Citations:
+<a href="#citation-1" class="citation-number"><a href="#citation-1" class="citation-number">[1]</a></a> https://inthespaceofreasons.blogspot.com/2009/09/bruno-latours-reassembling-social.html
+<a href="#citation-2" class="citation-number"><a href="#citation-2" class="citation-number">[2]</a></a> https://www.sps.ed.ac.uk/sites/default/files/assets/Intermediaries%20%20mediators%20and%20digital%20advertising%20s%20tensions.pdf
+<a href="#citation-3" class="citation-number"><a href="#citation-3" class="citation-number">[3]</a></a> https://cognitionandculture.net/blogs/alphapsy-archives/reassembling-latour/index.html
+<a href="#citation-4" class="citation-number"><a href="#citation-4" class="citation-number">[4]</a></a> https://en.wikipedia.org/wiki/Actor%E2%80%93network_theory
+<a href="#citation-5" class="citation-number"><a href="#citation-5" class="citation-number">[5]</a></a> https://shura.shu.ac.uk/29462/1/Goodchild-IntermediariesActor-Network(AM).pdf
+<a href="#citation-6" class="citation-number"><a href="#citation-6" class="citation-number">[6]</a></a> http://media1.cagd.co.uk/422/811840_75472b.pdf
+<a href="#citation-7" class="citation-number"><a href="#citation-7" class="citation-number">[7]</a></a> https://stsinfrastructures.org/sites/default/files/artifacts/media/pdf/latourreview.full_.pdf
+<a href="#citation-8" class="citation-number"><a href="#citation-8" class="citation-number">[8]</a></a> https://scholarspace.manoa.hawaii.edu/bitstreams/2654fc10-29b4-4bee-b78a-f39d92495bdc/download
+<a href="#citation-9" class="citation-number"><a href="#citation-9" class="citation-number">[9]</a></a> https://fswg.files.wordpress.com/2013/08/latour-reassembling-the-social-second-fourth-sources-of-uncertainty.pdf
+<a href="#citation-10" class="citation-number"><a href="#citation-10" class="citation-number">[10]</a></a> https://philarchive.org/archive/AJVRBL
+<a href="#citation-11" class="citation-number"><a href="#citation-11" class="citation-number">[11]</a></a> https://fswg.files.wordpress.com/2013/08/latour-reassembling-the-social-intros-and-ch1.pdf
+<a href="#citation-12" class="citation-number"><a href="#citation-12" class="citation-number">[12]</a></a> https://cheeseeggs.wordpress.com/2015/07/09/on-intermediaries-mediators-immobilities-and-proximities-raisingdissertation/
+<a href="#citation-13" class="citation-number"><a href="#citation-13" class="citation-number">[13]</a></a> https://www.uni-weimar.de/kunst-und-gestaltung/wiki/images/Latour-introduction-to-ant-theory.pdf
+<a href="#citation-14" class="citation-number"><a href="#citation-14" class="citation-number">[14]</a></a> http://spinuzzi.blogspot.com/2007/01/reading-reassembling-social.html
+
+---
+        </div>
+        
+        <footer>
+            <p>Part of the Reality Media Explorer project</p>
+            <p>Created with STS_MS_CAT_CORE HTML Converter</p>
+        </footer>
+    </div>
+</body>
+</html>

@@ -1,0 +1,520 @@
+:root {
+    --bg-color: #121212;
+    --text-color: #e0e0e0;
+    --accent-amber: #ffab00;
+    --accent-blue: #64b5f6;
+    --card-bg: #1e1e1e;
+    --border-color: #333;
+}
+
+body {
+    background-color: var(--bg-color);
+    color: var(--text-color);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 2rem;
+}
+
+h1 {
+    color: var(--accent-amber);
+    border-bottom: 2px solid var(--accent-amber);
+    padding-bottom: 0.5rem;
+}
+
+h2 {
+    color: var(--accent-blue);
+    margin-top: 2rem;
+}
+
+a {
+    color: var(--accent-blue);
+    text-decoration: none;
+    transition: color 0.3s ease;
+}
+
+a:hover {
+    color: var(--accent-amber);
+    text-decoration: underline;
+}
+
+.author-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+    gap: 1.5rem;
+    margin-top: 2rem;
+}
+
+.author-card {
+    background-color: var(--card-bg);
+    border: 1px solid var(--border-color);
+    border-radius: 8px;
+    padding: 1rem;
+    transition: transform 0.3s ease;
+}
+
+.author-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.3);
+}
+
+.author-card.sts {
+    border-left: 4px solid var(--accent-blue);
+}
+
+.author-card.ms {
+    border-left: 4px solid var(--accent-amber);
+}
+
+.author-card.both {
+    border-left: 4px solid #bb86fc;
+}
+
+.tag {
+    display: inline-block;
+    padding: 0.2rem 0.5rem;
+    border-radius: 4px;
+    font-size: 0.8rem;
+    margin-right: 0.5rem;
+}
+
+.tag.sts {
+    background-color: var(--accent-blue);
+    color: #000;
+}
+
+.tag.ms {
+    background-color: var(--accent-amber);
+    color: #000;
+}
+
+.tag.both {
+    background-color: #bb86fc;
+    color: #000;
+}
+
+footer {
+    margin-top: 3rem;
+    text-align: center;
+    font-size: 0.9rem;
+    color: #888;
+    border-top: 1px solid var(--border-color);
+    padding-top: 1rem;
+}
+
+.content {
+    background-color: var(--card-bg);
+    padding: 2rem;
+    border-radius: 8px;
+    border: 1px solid var(--border-color);
+}
+
+.back-link {
+    display: inline-block;
+    margin-bottom: 1rem;
+    padding: 0.5rem 1rem;
+    background-color: var(--card-bg);
+    border-radius: 4px;
+    border: 1px solid var(--border-color);
+}
+
+/* Dark/light mode toggle */
+.theme-toggle {
+    position: fixed;
+    top: 1rem;
+    right: 1rem;
+    background-color: var(--card-bg);
+    border: 1px solid var(--border-color);
+    border-radius: 50%;
+    width: 40px;
+    height: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    z-index: 1000;
+}
+
+/* Light theme */
+body.light-theme {
+    --bg-color: #f5f5f5;
+    --text-color: #333;
+    --card-bg: #fff;
+    --border-color: #ddd;
+}
+
+/* Search functionality */
+.search-container {
+    margin-bottom: 2rem;
+}
+
+.search-input {
+    width: 100%;
+    padding: 0.8rem;
+    border: 1px solid var(--border-color);
+    border-radius: 4px;
+    background-color: var(--card-bg);
+    color: var(--text-color);
+    font-size: 1rem;
+}
+
+.search-input:focus {
+    outline: none;
+    border-color: var(--accent-blue);
+}
+
+.hidden {
+    display: none;
+}
+
+/* Improved button styling */
+.author-card {
+    cursor: pointer;
+}
+
+.author-card a {
+    display: block;
+    text-decoration: none;
+}
+
+.author-card:hover a {
+    text-decoration: none;
+}
+
+/* Make the entire card clickable */
+.author-card a::after {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: 1;
+}
+
+.author-card {
+    position: relative;
+}
+
+.author-card * {
+    position: relative;
+    z-index: 2;
+}
+
+/* Improve back link styling */
+.back-link {
+    transition: all 0.3s ease;
+}
+
+.back-link:hover {
+    background-color: var(--accent-blue);
+    color: var(--bg-color);
+    border-color: var(--accent-blue);
+}
+
+/* Improved content styling */
+.content {
+    line-height: 1.8;
+}
+
+.content p {
+    margin-bottom: 1.2em;
+}
+
+.content h1, .content h2, .content h3 {
+    margin-top: 1.5em;
+    margin-bottom: 0.8em;
+}
+
+/* Citations styling */
+.citations {
+    margin-top: 2em;
+    border-top: 1px solid var(--border-color);
+    padding-top: 1em;
+}
+
+.citations p {
+    margin-bottom: 0.5em;
+}
+
+.citation-link {
+    color: var(--accent-blue);
+    text-decoration: none;
+    transition: color 0.2s ease;
+}
+
+.citation-link:hover {
+    color: var(--accent-amber);
+    text-decoration: underline;
+}
+
+/* Preserve whitespace */
+.content pre {
+    white-space: pre-wrap;
+    font-family: inherit;
+    margin: 1em 0;
+    line-height: 1.6;
+}
+
+/* Block quotes */
+blockquote {
+    border-left: 3px solid var(--accent-amber);
+    padding-left: 1em;
+    margin-left: 0;
+    font-style: italic;
+    color: #aaa;
+}
+
+/* Improved content styling */
+.content {
+    line-height: 1.8;
+    white-space: pre-wrap;
+}
+
+.content p {
+    margin-bottom: 1.2em;
+}
+
+.content h1, .content h2, .content h3 {
+    margin-top: 1.5em;
+    margin-bottom: 0.8em;
+}
+
+/* Citations styling */
+.citation {
+    display: block;
+    margin-bottom: 0.5em;
+}
+
+.citation a {
+    color: var(--accent-blue);
+}
+
+.citation a:hover {
+    color: var(--accent-amber);
+}
+
+/* Citations section */
+.citations {
+    margin-top: 2em;
+    border-top: 1px solid var(--border-color);
+    padding-top: 1em;
+}
+
+/* Dense text styling */
+.content {
+    max-width: 650px;
+    margin: 0 auto;
+    font-size: 0.95em;
+    line-height: 1.5;
+    text-align: justify;
+    hyphens: auto;
+}
+
+.content p {
+    margin-bottom: 0.8em;
+    text-indent: 1em;
+}
+
+.content h1, .content h2, .content h3 {
+    margin-top: 1.2em;
+    margin-bottom: 0.6em;
+    line-height: 1.2;
+}
+
+.content h1 {
+    font-size: 1.5em;
+}
+
+.content h2 {
+    font-size: 1.3em;
+}
+
+.content h3 {
+    font-size: 1.1em;
+}
+
+/* Structured content */
+.content ul, .content ol {
+    padding-left: 1.5em;
+    margin-bottom: 1em;
+}
+
+.content li {
+    margin-bottom: 0.3em;
+}
+
+.content blockquote {
+    margin: 0.8em 0;
+    padding: 0.5em 1em;
+    border-left: 3px solid var(--accent-amber);
+    background-color: rgba(255, 171, 0, 0.05);
+    font-style: italic;
+}
+
+/* Citations styling */
+.citations {
+    font-size: 0.85em;
+    line-height: 1.4;
+    border-top: 1px solid var(--border-color);
+    padding-top: 1em;
+    margin-top: 2em;
+}
+
+.citations h3 {
+    font-size: 1em;
+    margin-bottom: 0.8em;
+}
+
+.citation {
+    margin-bottom: 0.4em;
+    padding-left: 2em;
+    text-indent: -2em;
+}
+
+/* Card styling for better structure */
+.author-card {
+    padding: 0.8em;
+}
+
+.author-card h3 {
+    margin-top: 0;
+    margin-bottom: 0.4em;
+    font-size: 1.1em;
+}
+
+/* Improve container density */
+.container {
+    max-width: 900px;
+    padding: 1.5rem;
+}
+
+/* Dense author grid */
+.author-grid {
+    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+    gap: 1rem;
+}
+
+/* Ultra-dense text styling for mobile */
+.content.ultra-dense {
+    max-width: 100%;
+    font-size: 0.9em;
+    line-height: 1.3;
+    letter-spacing: -0.01em;
+    word-spacing: -0.01em;
+    font-family: 'Courier New', monospace;
+    padding: 0.8em;
+    border-radius: 4px;
+    border: 1px solid var(--border-color);
+    background-color: rgba(0, 0, 0, 0.2);
+    overflow-x: auto;
+}
+
+.content.ultra-dense p {
+    margin-bottom: 0.5em;
+    text-indent: 0;
+    padding-left: 0;
+}
+
+.content.ultra-dense h1, 
+.content.ultra-dense h2, 
+.content.ultra-dense h3 {
+    margin-top: 0.8em;
+    margin-bottom: 0.4em;
+    line-height: 1.1;
+}
+
+.content.ultra-dense h1 {
+    font-size: 1.2em;
+    border-bottom: 1px solid var(--accent-amber);
+    padding-bottom: 0.2em;
+}
+
+.content.ultra-dense h2 {
+    font-size: 1.1em;
+    border-bottom: 1px dotted var(--accent-blue);
+    padding-bottom: 0.2em;
+}
+
+.content.ultra-dense h3 {
+    font-size: 1em;
+}
+
+/* Citation hyperlinks */
+.citation-number {
+    display: inline-block;
+    padding: 0 0.3em;
+    margin: 0 0.1em;
+    border-radius: 3px;
+    background-color: rgba(100, 181, 246, 0.2);
+    color: var(--accent-blue);
+    font-size: 0.85em;
+    text-decoration: none;
+    transition: background-color 0.2s;
+}
+
+.citation-number:hover {
+    background-color: rgba(100, 181, 246, 0.4);
+    text-decoration: none;
+}
+
+/* Ultra-dense citations */
+.citations.ultra-dense {
+    font-size: 0.8em;
+    line-height: 1.2;
+    padding: 0.5em;
+    margin-top: 1em;
+    background-color: rgba(0, 0, 0, 0.1);
+    border-radius: 4px;
+}
+
+.citations.ultra-dense h3 {
+    font-size: 0.9em;
+    margin-bottom: 0.4em;
+    border-bottom: 1px solid var(--border-color);
+    padding-bottom: 0.2em;
+}
+
+.citation.ultra-dense {
+    margin-bottom: 0.2em;
+    padding-left: 1.5em;
+    text-indent: -1.5em;
+    font-size: 0.9em;
+}
+
+/* Mobile optimizations */
+@media (max-width: 600px) {
+    .container {
+        padding: 0.8rem;
+    }
+    
+    .content.ultra-dense {
+        font-size: 0.85em;
+        padding: 0.5em;
+    }
+    
+    .author-grid {
+        grid-template-columns: repeat(auto-fill, minmax(140px, 1fr));
+        gap: 0.6rem;
+    }
+    
+    .author-card {
+        padding: 0.5em;
+    }
+    
+    .author-card h3 {
+        font-size: 0.9em;
+        margin-bottom: 0.2em;
+    }
+    
+    .tag {
+        font-size: 0.7rem;
+        padding: 0.1rem 0.3rem;
+    }
+}

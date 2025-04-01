@@ -1,0 +1,149 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Chun Wendy MS</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="script.js" defer></script>
+</head>
+<body>
+    <div class="theme-toggle" id="themeToggle" title="Toggle Dark/Light Mode">
+        ☀️
+    </div>
+    
+    <div class="container">
+        <header>
+            <a href="index.html" class="back-link">← Back to Author Catalog</a>
+            <h1>Chun Wendy MS</h1>
+            <span class="tag ms">MS</span>
+        </header>
+        
+        <div class="content">
+            <h1>A Spencer-Brown Inspired Ontological Model of Chun's "Discriminating Data"</h1>
+
+This report presents a structured ontological index of Wendy Hui Kyong Chun's influential 2021/2024 work "Discriminating Data: Correlation, Neighborhoods, and the New Politics of Recognition" using Spencer-Brown's calculus of distinctions. By marking entities as distinctions (◻) and relationships as indications (→), we create a formal representation that illuminates the conceptual architecture of Chun's analysis of discrimination in data systems.
+
+<h2>Foundational Entities and Primary Distinctions</h2>
+
+<h3>Core Theoretical Constructs</h3>
+
+◻ <strong>Discriminating Data</strong>: Chun's book examining how big data and machine learning encode discrimination
+
+◻ <strong>correlation</strong>: Mathematical and philosophical concept that grounds big data's predictive potential
+
+◻ <strong>homophily</strong>: Principle that similarity breeds connection, fostering clusters of sameness
+
+◻ <strong>predictive analytics</strong>: Process that seeks to disrupt the future by making disruption impossible
+
+◻ <strong>machine learning</strong>: Computational approach that encodes segregation through defaults
+
+◻ <strong>recognition politics</strong>: Framework for understanding how technologies of recognition operate
+
+◻ <strong>technological defaults</strong>: Embedded assumptions that encode discrimination in technological systems
+
+<h3>Key Conceptual Domains</h3>
+
+◻ <strong>big data</strong>: Massive datasets used to train machine learning systems
+
+◻ <strong>eugenics discourse</strong>: Historical framework reanimated in contemporary data practices
+
+◻ <strong>segregation</strong>: Social division encoded and reproduced in algorithmic systems
+
+◻ <strong>facial recognition</strong>: Technology relying predominantly on white faces as default
+
+◻ <strong>predictive policing</strong>: Models trained on data from predominantly underserved neighborhoods
+
+◻ <strong>networked polarization</strong>: Division and clustering that is fostered, not merely reflected, by algorithms
+
+<h2>Morphisms and Relational Structures</h2>
+
+<h3>Foundational Relationships</h3>
+
+◻ <strong>machine learning</strong> → <em>embeds</em> → ◻ <strong>whiteness as default</strong>
+   <em>"Chun explains that although machine learning algorithms may not officially include race as a category, they embed whiteness as a default"</em>[1][2]
+
+◻ <strong>correlation</strong> → <em>stems from</em> → ◻ <strong>eugenic attempts</strong>
+   <em>"Correlation, which grounds big data's predictive potential, stems from twentieth-century eugenic attempts to 'breed' a better future"</em>[1][2]
+
+◻ <strong>recommender systems</strong> → <em>foster</em> → ◻ <strong>angry clusters of sameness</strong>
+   <em>"Recommender systems foster angry clusters of sameness through homophily"</em>[1][2]
+
+◻ <strong>predictive technologies</strong> → <em>seek to</em> → ◻ <strong>disrupt the future by making disruption impossible</strong>
+   <em>"Machine learning and data analytics thus seek to disrupt the future by making disruption impossible"</em>[1][2]
+
+<h3>Technical-Social Framework</h3>
+
+◻ <strong>facial recognition</strong> → <em>relies on</em> → ◻ <strong>non-diverse data sources</strong>
+   <em>"Facial recognition technology, for example, relies on the faces of Hollywood celebrities and university undergraduates—groups not famous for their diversity"</em>[1][2]
+
+◻ <strong>homophily concept</strong> → <em>emerged from</em> → ◻ <strong>studies of segregated housing</strong>
+   <em>"Homophily emerged as a concept to describe white U.S. resident attitudes to living in biracial yet segregated public housing"</em>[1][2]
+
+◻ <strong>predictive policing</strong> → <em>deploys models trained on</em> → ◻ <strong>underserved neighborhoods</strong>
+   <em>"Predictive policing technology deploys models trained on studies of predominantly underserved neighborhoods"</em>[1][2]
+
+◻ <strong>algorithms</strong> → <em>are validated if they</em> → ◻ <strong>mirror discriminatory data</strong>
+   <em>"Trained on selected and often discriminatory or dirty data, these algorithms are only validated if they mirror this data"</em>[1][2]
+
+<h2>Complex Conceptual Structures</h2>
+
+<h3>Polarization Framework</h3>
+
+◻ <strong>polarization</strong> → <em>is</em> → ◻ <strong>goal of data systems, not error</strong>
+   <em>"Wendy Hui Kyong Chun reveals how polarization is a goal—not an error—within big data and machine learning"</em>[1][2][5]
+
+◻ <strong>data analytics</strong> → <em>creates</em> → ◻ <strong>microidentities by default</strong>
+   <em>"Social networks create 'microidentities' by default which instrumentalize and weaponize individual differences"</em>[3]
+
+◻ <strong>correlation</strong> → <em>contains</em> → ◻ <strong>seeds of manipulation</strong>
+   <em>"As Chun warns, 'correlation contains within it the seeds of manipulation, segregation and misrepresentation'"</em>[3]
+
+◻ <strong>power</strong> → <em>operates through</em> → ◻ <strong>likeness, similarity, and correlated identity</strong>
+   <em>"Even amid the precarious fluidity of hyper-capitalism, power operates through likeness, similarity, and correlated identity"</em>[4]
+
+<h3>Theoretical-Historical Framework</h3>
+
+◻ <strong>predictive processes</strong> → <em>replicate</em> → ◻ <strong>20th-century eugenics discourses</strong>
+   <em>"Chun's exploration of the predictive processes by which data analytics replicates 20th-century eugenics discourses makes an important contribution"</em>[3]
+
+◻ <strong>correlation epistemology</strong> → <em>recalls</em> → ◻ <strong>worst ghosts of modern age</strong>
+   <em>"Her task is to exhume the prehistory of correlation, and to show that the new epistemology of correlation is not liberating at all, but instead a kind of curse recalling the worst ghosts of the modern age"</em>[4]
+
+◻ <strong>data analytics</strong> → <em>reimagines</em> → ◻ <strong>eugenics within big data future</strong>
+   <em>"Data analytics consequently reimagines eugenics discourses within a big data future"</em>[3]
+
+<h3>Resistance Framework</h3>
+
+◻ <strong>alternative algorithms</strong> → <em>could</em> → ◻ <strong>desegregate networks</strong>
+   <em>"Chun calls for alternative algorithms, defaults, and interdisciplinary coalitions in order to desegregate networks and foster a more democratic big data"</em>[1][2]
+
+◻ <strong>interdisciplinary coalitions</strong> → <em>foster</em> → ◻ <strong>more democratic big data</strong>
+   <em>"Chun calls for alternative algorithms, defaults, and interdisciplinary coalitions in order to desegregate networks and foster a more democratic big data"</em>[1][2]
+
+◻ <strong>digital humanities</strong> → <em>can</em> → ◻ <strong>disrupt predictive programs</strong>
+   <em>"Offers unique insight into the mechanisms by which digital humanities scholars can disrupt and challenge the use and application of such predictive programs"</em>[3]
+
+<h2>Conclusion</h2>
+
+This Spencer-Brown inspired ontological model captures the rich theoretical framework of Chun's "Discriminating Data." Through formal distinctions (◻) and indications (→), we visualize how Chun conceptualizes the encoding of discrimination within data systems. The model highlights her central argument that polarization is an intended outcome of algorithm design, not an error to be corrected. By examining correlation, homophily, and recognition, Chun reveals the historical roots of contemporary data practices in eugenic thinking and segregation. The structured index also outlines Chun's proposed pathways for resistance through alternative algorithms and interdisciplinary coalitions to create more democratic forms of big data.
+
+Citations:
+[1] https://www.annamonteverdi.it/digital/discriminating-data-libro-di-wendy-hui-kyong-chun/
+[2] https://williamwoods.ecampus.com/discriminating-data-correlation/bk/9780262548526
+[3] https://www.digitalhumanities.org/dhq/vol/16/4/000656/000656.html
+[4] https://www.boundary2.org/2022/01/alexander-r-galloway-big-bro-review-of-wendy-hui-kyun-chun-discriminating-data-correlation-neighborhoods-and-the-new-politics-of-recognition/
+[5] https://www.sfu.ca/publicsquare/events/2021/wendy-hui-kyong-chun.html
+[6] https://mitpress.mit.edu/9780262548526/discriminating-data/
+
+---
+Answer from Perplexity: https://www.perplexity.ai/search/sts-ms-cat-core-26eOjT2rQjiRqIxKt6q3GA?utm_source=copy_output
+        </div>
+        
+        <footer>
+            <p>Part of the Reality Media Explorer project</p>
+            <p>Created with STS_MS_CAT_CORE HTML Converter</p>
+        </footer>
+    </div>
+</body>
+</html>

@@ -1,0 +1,150 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Parvin STS</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="script.js" defer></script>
+</head>
+<body>
+    <div class="theme-toggle" id="themeToggle" title="Toggle Dark/Light Mode">
+        ☀️
+    </div>
+    
+    <div class="container">
+        <header>
+            <a href="index.html" class="back-link">← Back to Author Catalog</a>
+            <h1>Parvin STS</h1>
+            <span class="tag sts">STS</span>
+        </header>
+        
+        <div class="content">
+            <h1>A Spencer-Brown Inspired Ontological Model of Parvin's "Doing Justice to Stories"</h1>
+
+This report presents a structured ontological index of Nassim Parvin's influential 2018 article "Doing Justice to Stories: On Ethics and Politics of Digital Storytelling" using Spencer-Brown's calculus of distinctions. By marking entities as distinctions (◻) and relationships as indications (→), we create a formal representation that illuminates the conceptual architecture of ethical considerations in digital storytelling.
+
+<h2>Foundational Entities and Primary Distinctions</h2>
+
+<h3>Core Theoretical Constructs</h3>
+
+◻ <strong>Doing Justice to Stories</strong>: Parvin's 2018 article examining ethics and politics of digital storytelling
+
+◻ <strong>digital storytelling</strong>: Practice of collecting, archiving, and sharing stories using digital technologies
+
+◻ <strong>story scene</strong>: The particular setting where storytelling and listening occurs
+
+◻ <strong>relational nature of storytelling</strong>: The inherent connection between tellers and listeners
+
+◻ <strong>social justice</strong>: Goal often associated with digital storytelling projects
+
+◻ <strong>empowerment narrative</strong>: Common assumption that digital storytelling inherently empowers marginalized groups
+
+<h3>Ethical Dimensions</h3>
+
+◻ <strong>reciprocity</strong>: Ethical theme exploring the give-and-take of storytelling relationships
+
+◻ <strong>responsiveness</strong>: Ethical theme examining partial nature of narrative identity
+
+◻ <strong>communion</strong>: Ethical theme exploring deeper connections formed through storytelling
+
+◻ <strong>ethical weight of stories</strong>: The moral responsibilities associated with collecting and sharing stories
+
+<h3>Problems and Challenges</h3>
+
+◻ <strong>decontextualization</strong>: Removal of stories from their original contexts
+
+◻ <strong>commodification</strong>: Treating stories as resources to be extracted and consumed
+
+◻ <strong>digital mediation</strong>: How technologies transform storytelling processes
+
+◻ <strong>big data approach</strong>: Valuing quantity of stories over their quality and context
+
+<h2>Morphisms and Relational Structures</h2>
+
+<h3>Foundational Relationships</h3>
+
+◻ <strong>digital storytelling</strong> → <em>often assumes</em> → ◻ <strong>empowerment narrative</strong>
+   <em>"These practices differ in their aims and scope yet they share a common conviction: that digital storytelling is empowering especially when curating and disseminating life stories of marginalized groups"</em>[1]
+
+◻ <strong>Doing Justice to Stories</strong> → <em>questions</em> → ◻ <strong>empowerment narrative</strong>
+   <em>"In this paper, I question this conviction and ask: is it possible that such practices take away from what is found to be meaningful and worthwhile in practices of storytelling and listening, and, if so, how?"</em>[1]
+
+◻ <strong>storytelling</strong> → <em>occurs within</em> → ◻ <strong>story scene</strong>
+   <em>"The story is particular to a time and place, to a language, and to a relationship that is unfolding"</em>[4]
+
+◻ <strong>storytelling</strong> → <em>has</em> → ◻ <strong>relational nature</strong>
+   <em>"Reconnecting stories to story scenes foregrounds the relational nature of storytelling and listening in its many subtle layers"</em>[4]
+
+◻ <strong>Doing Justice to Stories</strong> → <em>argues for attention to</em> → ◻ <strong>story scenes</strong>
+   <em>"I advance the hypothesis that doing justice to stories rests on reconnecting practices of storytelling and listening to story scenes"</em>[5]
+
+<h3>Ethical Framework</h3>
+
+◻ <strong>relational nature of storytelling</strong> → <em>is understood through</em> → ◻ <strong>reciprocity, responsiveness, communion</strong>
+   <em>"I examine this relational nature by showing how it may be understood through three ethical themes—reciprocity, responsiveness, communion"</em>[1][4]
+
+◻ <strong>reciprocity</strong> → <em>considers</em> → ◻ <strong>fairness in storytelling exchange</strong>
+   <em>"This is a story that has the capacity to serve as a window into Tyler's life and his community and, possibly, to live beyond both. We might recognize, however, clearer and more immediate tangible gains for Beth, who is there to collect stories"</em>[4]
+
+◻ <strong>reciprocity</strong> → <em>addresses</em> → ◻ <strong>ownership and consent</strong>
+   <em>"Reciprocity opens up a space for considering issues related to ownership, transparency, and mutual consent with respect to how stories might be used, altered, or (re)framed"</em>[4]
+
+◻ <strong>responsiveness</strong> → <em>acknowledges</em> → ◻ <strong>limits of narratibility</strong>
+   <em>"To assume that Tyler's story is one that can be told and recorded once and then archived and shared with multiple audiences is to consider him as essentially narratable"</em>[4]
+
+◻ <strong>responsiveness</strong> → <em>recognizes</em> → ◻ <strong>partial self-understanding</strong>
+   <em>"This is not to question Tyler's character or honesty but to acknowledge that our understanding of ourselves is partial and deeply intertwined with the broader social and historical world"</em>[4]
+
+<h2>Complex Conceptual Structures</h2>
+
+<h3>Digital Technology Framework</h3>
+
+◻ <strong>digital technologies</strong> → <em>can disconnect</em> → ◻ <strong>stories from story scenes</strong>
+   <em>"The presence of a recording device, for example, radically changes the story scene, partly by anticipation of permanence and partly by extending the address to include anticipated audiences"</em>[4]
+
+◻ <strong>big data approach</strong> → <em>risks</em> → ◻ <strong>commodification</strong>
+   <em>"The abstraction that occurs through archival and mass distribution has the potential to mask the meaning and purpose of those stories, turning them into a commodity to be mined, searched, edited, and consumed at will"</em>[4]
+
+◻ <strong>digital mediation</strong> → <em>shapes</em> → ◻ <strong>what stories are told and how</strong>
+   <em>"The neutrality of technologies is implicitly taken for granted––downplaying the ways that (digital) mediation shapes what stories are told and how"</em>[4]
+
+<h3>Attention Framework</h3>
+
+◻ <strong>digital distribution</strong> → <em>centers attention on</em> → ◻ <strong>collection rather than individual stories</strong>
+   <em>"The focus on digital distribution of stories centers attention on the collection practices as opposed to individual stories and the unsettled and unsettling issues that connect them together"</em>[4]
+
+◻ <strong>technology</strong> → <em>often takes</em> → ◻ <strong>center stage</strong>
+   <em>"In many cases, technology and its powers to search, sort, and map takes center stage especially when emerging technologies are used"</em>[4]
+
+◻ <strong>digital media landscape</strong> → <em>creates</em> → ◻ <strong>compassion fatigue</strong>
+   <em>"These stories then reside in a saturated media landscape where so much is competing for our attention. Concerns about 'compassion fatigue' and a selective engagement where we look for and interpret stories in ways that cement already held beliefs are particularly relevant"</em>[4]
+
+<h2>Conclusion</h2>
+
+This Spencer-Brown inspired ontological model captures the rich theoretical framework of Parvin's "Doing Justice to Stories." Through formal distinctions (◻) and indications (→), we visualize how Parvin questions the empowerment narrative of digital storytelling and argues for reconnecting stories to their story scenes. The model highlights Parvin's ethical framework of reciprocity, responsiveness, and communion as key dimensions for understanding the relational nature of storytelling. It also reveals the potential problems of digital storytelling: disconnecting stories from their contexts, commodifying them through big data approaches, and shifting attention from stories themselves to technologies and collections.
+
+Citations:
+[1] https://estsjournal.org/index.php/ests/article/view/248
+[2] https://scholar.google.com/citations?user=hm7ZMbAAAAAJ
+[3] https://just-tech.ssrc.org/citation/doing-justice-to-stories-on-ethics-and-politics-of-digital-storytelling/
+[4] https://estsjournal.org/index.php/ests/article/download/248/168/
+[5] http://faculty.washington.edu/nassimi/criticism/173/
+[6] https://journals.sagepub.com/doi/full/10.1177/16094069211022529
+[7] https://just-tech.ssrc.org/field-reviews/just-design-pasts-presents-and-future-trajectories-of-technology/
+[8] https://files.eric.ed.gov/fulltext/EJ1301745.pdf
+[9] http://faculty.washington.edu/nassimi/criticism/unintended-consequences/
+[10] http://ischool.uw.edu/people/faculty/profile/nassimi
+[11] https://scholar.google.co.uk/citations?user=hm7ZMbAAAAAJ
+
+---
+Answer from Perplexity: https://www.perplexity.ai/search/sts-ms-cat-core-26eOjT2rQjiRqIxKt6q3GA?utm_source=copy_output
+        </div>
+        
+        <footer>
+            <p>Part of the Reality Media Explorer project</p>
+            <p>Created with STS_MS_CAT_CORE HTML Converter</p>
+        </footer>
+    </div>
+</body>
+</html>

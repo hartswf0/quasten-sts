@@ -1,0 +1,190 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Latour Modern STS</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="script.js" defer></script>
+</head>
+<body>
+    <div class="theme-toggle" id="themeToggle" title="Toggle Dark/Light Mode">
+        ☀️
+    </div>
+    
+    <div class="container">
+        <header>
+            <a href="index.html" class="back-link">← Back to Author Catalog</a>
+            <h1>Latour Modern STS</h1>
+            <span class="tag sts">STS</span>
+        </header>
+        
+        <div class="content" >
+            <h1>A Spencer-Brown Inspired Ontological Model of Latour's "We Have Never Been Modern"</h1>
+
+This report presents a structured ontological index of Bruno Latour's influential 1993 work "We Have Never Been Modern" using Spencer-Brown's calculus of distinctions. By marking entities as distinctions (◻) and relationships as indications (→), we create a formal representation that illuminates the conceptual architecture of Latour's critique of modernity.
+
+<h2>Foundational Entities and Primary Distinctions</h2>
+
+<h3>Core Theoretical Constructs</h3>
+
+◻ <strong>We Have Never Been Modern</strong>: Latour's 1993 book challenging the modern constitution
+
+◻ <strong>modern constitution</strong>: The implicit framework defining modernity through purification practices
+
+◻ <strong>nonmodern constitution</strong>: Latour's proposed alternative recognizing networks and hybrids
+
+◻ <strong>purification</strong>: Practice of creating clear distinctions between nature and society
+
+◻ <strong>hybridization/translation</strong>: Practice of creating mixtures between nature and culture
+
+◻ <strong>quasi-object</strong>: Product of hybridization that defies pure categorization
+
+◻ <strong>network</strong>: Connections that traverse and undermine the nature/culture divide
+
+◻ <strong>social</strong>: Not a distinct domain but a movement of reassociation and reassembling
+
+◻ <strong>Parliament of Things</strong>: Latour's proposed forum where humans and nonhumans are represented
+
+<h3>Ontological Zones</h3>
+
+◻ <strong>nature</strong>: The realm of nonhumans, objects, and scientific facts in the modern constitution
+
+◻ <strong>society</strong>: The realm of humans, subjects, and politics in the modern constitution
+
+◻ <strong>crossed-out God</strong>: The removed but necessary arbiter in the modern constitution
+
+◻ <strong>language</strong>: The conceptual space between nature and society in the modern constitution
+
+◻ <strong>being</strong>: Questions of existence that intersect with nature, society, and language
+
+<h2>Morphisms and Relational Structures</h2>
+
+<h3>Foundational Relationships</h3>
+
+◻ <strong>modern constitution</strong> → <em>creates</em> → ◻ <strong>two distinct ontological zones</strong>
+   <em>"The first set of practices, by 'translation', creates mixtures between entirely new types of beings, hybrids of nature and culture. The second, by 'purification', creates two entirely distinct ontological zones: that of human beings on one hand; that of nonhumans on the other"</em><a href="#citation-1" class="citation-number"><a href="#citation-1" class="citation-number">[1]</a></a>
+
+◻ <strong>purification</strong> → <em>produces illusion of</em> → ◻ <strong>separate nature and society</strong>
+   <em>"Making a clear distinction between the ideas of nature (science, non-human, objects) and society (culture, human, subjects)"</em><a href="#citation-1" class="citation-number"><a href="#citation-1" class="citation-number">[1]</a></a>
+
+◻ <strong>hybridization</strong> → <em>creates</em> → ◻ <strong>quasi-objects</strong>
+   <em>"The products of hybridization; objects that can influence the social action of subjects (soccer balls, tools, diagrams, etc.)"</em><a href="#citation-1" class="citation-number"><a href="#citation-1" class="citation-number">[1]</a></a>
+
+◻ <strong>moderns</strong> → <em>engage in both</em> → ◻ <strong>purification and hybridization</strong>
+   <em>"Without the first set, the practices of purification would be fruitless or pointless. Without the second, the work of translation would be slowed down, limited, or even ruled out"</em><a href="#citation-1" class="citation-number"><a href="#citation-1" class="citation-number">[1]</a></a>
+
+◻ <strong>modernity</strong> → <em>is defined by</em> → ◻ <strong>purification</strong>
+   <em>"The act of purification is key to being modern"</em><a href="#citation-1" class="citation-number"><a href="#citation-1" class="citation-number">[1]</a></a>
+
+<h3>The Modern Constitution Framework</h3>
+
+◻ <strong>modern constitution</strong> → <em>guarantees that</em> → ◻ <strong>nature is transcendent</strong>
+   <em>"Nature (i.e. things, objects) is 'transcendent', or universal in time and space; there to be discovered"</em><a href="#citation-12" class="citation-number"><a href="#citation-12" class="citation-number">[12]</a></a>
+
+◻ <strong>modern constitution</strong> → <em>guarantees that</em> → ◻ <strong>society is immanent</strong>
+   <em>"Society (the subject, the state) is 'immanent', i.e. it is continually constructed 'artificially' by citizens or by subjects"</em><a href="#citation-12" class="citation-number"><a href="#citation-12" class="citation-number">[12]</a></a>
+
+◻ <strong>modern constitution</strong> → <em>guarantees that</em> → ◻ <strong>translation networks are banned</strong>
+   <em>"Translation networks between these first two realms are 'banned', i.e. the 'separation of powers' of these realms is 'assured'"</em><a href="#citation-12" class="citation-number"><a href="#citation-12" class="citation-number">[12]</a></a>
+
+◻ <strong>modern constitution</strong> → <em>guarantees that</em> → ◻ <strong>crossed-out God is arbiter</strong>
+   <em>"A 'crossed out God' acts as 'arbitrator' of this dualism"</em><a href="#citation-12" class="citation-number"><a href="#citation-12" class="citation-number">[12]</a></a>
+
+<h2>Complex Conceptual Structures</h2>
+
+<h3>The Paradox of Modernity Framework</h3>
+
+◻ <strong>purification</strong> → <em>enables proliferation of</em> → ◻ <strong>hybrids</strong>
+   <em>"We are increasingly creating and coming up against hybrids"</em><a href="#citation-1" class="citation-number"><a href="#citation-1" class="citation-number">[1]</a></a>
+
+◻ <strong>moderns</strong> → <em>deny existence of</em> → ◻ <strong>hybrids</strong>
+   <em>"Alongside this purifying practice that defines modernity, there exists another seemingly contrary one: the construction of systems that mix politics, science, technology, and nature"</em><a href="#citation-6" class="citation-number"><a href="#citation-6" class="citation-number">[6]</a></a>
+
+◻ <strong>hybrids</strong> → <em>include</em> → ◻ <strong>ozone debate, global warming, deforestation</strong>
+   <em>"The ozone debate is such a hybrid, in Latour's analysis, as are global warming, deforestation, even the idea of black holes"</em><a href="#citation-6" class="citation-number"><a href="#citation-6" class="citation-number">[6]</a></a>
+
+◻ <strong>nature/society distinction</strong> → <em>becomes overwhelmed by</em> → ◻ <strong>proliferation of hybrids</strong>
+   <em>"As these hybrids proliferate, the prospect of keeping nature and culture in their separate mental chambers becomes overwhelming"</em><a href="#citation-6" class="citation-number"><a href="#citation-6" class="citation-number">[6]</a></a>
+
+<h3>Nonmodern Constitution Framework</h3>
+
+◻ <strong>nonmodern constitution</strong> → <em>reconnects</em> → ◻ <strong>nature and society</strong>
+   <em>"Latour hopes to replace what he calls the modern "constitution" with a nonmodern version that does not separate nature and society and brings the genesis of quasi-objects to light"</em><a href="#citation-1" class="citation-number"><a href="#citation-1" class="citation-number">[1]</a></a>
+
+◻ <strong>nonmodern constitution</strong> → <em>acknowledges</em> → ◻ <strong>we have never been modern</strong>
+   <em>"Latour is not arguing that we are entering a new era of hybridization, but instead that we have always created these hybrids and their quasi-objects and have never been 'modern' to begin with"</em><a href="#citation-1" class="citation-number"><a href="#citation-1" class="citation-number">[1]</a></a>
+
+◻ <strong>Parliament of Things</strong> → <em>represents</em> → ◻ <strong>humans and nonhumans together</strong>
+   <em>"His book offers a new explanation of science that finally recognizes the connections between nature and culture"</em><a href="#citation-6" class="citation-number"><a href="#citation-6" class="citation-number">[6]</a></a>
+
+<h3>Temporal Dimensions</h3>
+
+◻ <strong>modernity</strong> → <em>claims separation from</em> → ◻ <strong>primitive premodern ancestors</strong>
+   <em>"With the rise of science, we moderns believe, the world changed irrevocably, separating us forever from our primitive, premodern ancestors"</em><a href="#citation-6" class="citation-number"><a href="#citation-6" class="citation-number">[6]</a></a>
+
+◻ <strong>premodern peoples</strong> → <em>made no</em> → ◻ <strong>nature/society division</strong>
+   <em>"Pre-modern peoples, argues Latour, made no such division"</em><a href="#citation-12" class="citation-number"><a href="#citation-12" class="citation-number">[12]</a></a>
+
+◻ <strong>"we have never been modern"</strong> → <em>means</em> → ◻ <strong>purification was always illusory</strong>
+   <em>"We have always created these hybrids and their quasi-objects and have never been 'modern' to begin with"</em><a href="#citation-1" class="citation-number"><a href="#citation-1" class="citation-number">[1]</a></a>
+
+◻ <strong>1989</strong> → <em>represents</em> → ◻ <strong>year of miracles and end of modernity</strong>
+   <em>"1989: The Year of Miracles" appears as a section in the book</em><a href="#citation-16" class="citation-number"><a href="#citation-16" class="citation-number">[16]</a></a>
+
+<h2>Alternative Approaches and Extensions</h2>
+
+<h3>Critical Positions on Modernity</h3>
+
+◻ <strong>postmoderns</strong> → <em>are</em> → ◻ <strong>moderns with a minus sign</strong>
+   <em>"Latour has been misrepresented by some as a postmodernist... postmodernism continues to be subject-centric/anthropocentric (as modernity did)"</em><a href="#citation-12" class="citation-number"><a href="#citation-12" class="citation-number">[12]</a></a>
+
+◻ <strong>antimoderns</strong> → <em>believe in</em> → ◻ <strong>reality of purified categories</strong>
+   <em>"The book explores dualistic distinction modernity makes between nature and society" which antimoderns accept</em><a href="#citation-12" class="citation-number"><a href="#citation-12" class="citation-number">[12]</a></a>
+
+◻ <strong>amoderns/nonmoderns</strong> → <em>recognize</em> → ◻ <strong>hybrids and networks</strong>
+   <em>"It would be more useful to consider ourselves 'amodern' or 'nonmodern'"</em><a href="#citation-12" class="citation-number"><a href="#citation-12" class="citation-number">[12]</a></a>
+
+<h3>Disciplinary Implications</h3>
+
+◻ <strong>anthropology</strong> → <em>comes home from</em> → ◻ <strong>the tropics</strong>
+   <em>"Anthropology Comes Home from the Tropics" appears as a section in the book</em><a href="#citation-16" class="citation-number"><a href="#citation-16" class="citation-number">[16]</a></a>
+
+◻ <strong>science studies</strong> → <em>informs</em> → ◻ <strong>critique of modern constitution</strong>
+   <em>"The book is an 'anthropology of science' that explores the dualistic distinction modernity makes between nature and society"</em><a href="#citation-12" class="citation-number"><a href="#citation-12" class="citation-number">[12]</a></a>
+
+◻ <strong>philosophy</strong> → <em>is stretched over</em> → ◻ <strong>the yawning gap</strong>
+   <em>"Philosophies Stretched Over the Yawning Gap" appears as a section in the book</em><a href="#citation-16" class="citation-number"><a href="#citation-16" class="citation-number">[16]</a></a>
+
+<h2>Conclusion</h2>
+
+This Spencer-Brown inspired ontological model captures the rich theoretical framework of Latour's "We Have Never Been Modern." Through formal distinctions (◻) and indications (→), we visualize how Latour conceptualizes modernity as a constitution that simultaneously creates and denies the existence of hybrids through its practices of purification and translation. The model highlights Latour's central argument that we have never truly been modern because the purification of nature and society has always been accompanied by the proliferation of hybrids that undermine this very distinction. By proposing a nonmodern constitution and a Parliament of Things, Latour offers an alternative that acknowledges the reality of networks and quasi-objects, recognizing the connections between human and nonhuman actors that modernity has attempted to sever.
+
+Citations:
+<a href="#citation-1" class="citation-number"><a href="#citation-1" class="citation-number">[1]</a></a> https://anthropolojamz.wordpress.com/2015/08/12/we-have-never-been-modern/
+<a href="#citation-2" class="citation-number"><a href="#citation-2" class="citation-number">[2]</a></a> https://www.filosoficas.unam.mx/docs/611/files/Sesion%2016/Wolfe_What_Is_Posthumanism.pdf
+<a href="#citation-3" class="citation-number"><a href="#citation-3" class="citation-number">[3]</a></a> https://ndpr.nd.edu/reviews/an-inquiry-into-modes-of-existence-an-anthropology-of-the-moderns/
+<a href="#citation-4" class="citation-number"><a href="#citation-4" class="citation-number">[4]</a></a> https://quod.lib.umich.edu/o/ohp/9750134.0001.001/1:8/--democracy-of-objects?rgn=div1%3Bview%3Dfulltext
+<a href="#citation-5" class="citation-number"><a href="#citation-5" class="citation-number">[5]</a></a> https://en.wikipedia.org/wiki/Laws_of_Form
+<a href="#citation-6" class="citation-number"><a href="#citation-6" class="citation-number">[6]</a></a> https://www.hup.harvard.edu/books/9780674948396
+<a href="#citation-7" class="citation-number"><a href="#citation-7" class="citation-number">[7]</a></a> https://books.google.com/books/about/We_Have_Never_Been_Modern.html?id=TzQAPY8-S7UC
+<a href="#citation-8" class="citation-number"><a href="#citation-8" class="citation-number">[8]</a></a> https://transversal.at/transversal/0107/lash/en
+<a href="#citation-9" class="citation-number"><a href="#citation-9" class="citation-number">[9]</a></a> https://papers.ssrn.com/sol3/Delivery.cfm/SSRN_ID2201043_code856212.pdf?abstractid=2201043
+<a href="#citation-10" class="citation-number"><a href="#citation-10" class="citation-number">[10]</a></a> http://homepages.math.uic.edu/~kauffman/Laws.pdf
+<a href="#citation-11" class="citation-number"><a href="#citation-11" class="citation-number">[11]</a></a> https://kaviguptaeditions.com/products/we-have-never-been-modern-by-bruno-latour
+<a href="#citation-12" class="citation-number"><a href="#citation-12" class="citation-number">[12]</a></a> https://en.wikipedia.org/wiki/We_Have_Never_Been_Modern
+<a href="#citation-13" class="citation-number"><a href="#citation-13" class="citation-number">[13]</a></a> https://grattoncourses.files.wordpress.com/2019/06/bruno-latour-facing-gaia-eight-lectures-on-the-new-climatic-regime.pdf
+<a href="#citation-14" class="citation-number"><a href="#citation-14" class="citation-number">[14]</a></a> https://www.cerenem.ricercata.org/articles/desire_constructs/page03.html
+<a href="#citation-15" class="citation-number"><a href="#citation-15" class="citation-number">[15]</a></a> https://www.projectenportfolio.nl/images/1/16/Robertson-Laws_of_Form.pdf
+<a href="#citation-16" class="citation-number"><a href="#citation-16" class="citation-number">[16]</a></a> https://www.barnesandnoble.com/w/we-have-never-been-modern-bruno-latour/1100181479
+
+---
+        </div>
+        
+        <footer>
+            <p>Part of the Reality Media Explorer project</p>
+            <p>Created with STS_MS_CAT_CORE HTML Converter</p>
+        </footer>
+    </div>
+</body>
+</html>

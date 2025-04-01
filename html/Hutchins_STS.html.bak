@@ -1,0 +1,174 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hutchins STS</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="script.js" defer></script>
+</head>
+<body>
+    <div class="theme-toggle" id="themeToggle" title="Toggle Dark/Light Mode">
+        ☀️
+    </div>
+    
+    <div class="container">
+        <header>
+            <a href="index.html" class="back-link">← Back to Author Catalog</a>
+            <h1>Hutchins STS</h1>
+            <span class="tag sts">STS</span>
+        </header>
+        
+        <div class="content">
+            <h1>A Spencer-Brown Inspired Ontological Model of Hutchins' "Cognition in the Wild"</h1>
+
+This report presents a structured ontological index of Edwin Hutchins' influential 1995 work "Cognition in the Wild" using Spencer-Brown's calculus of distinctions. By marking entities as distinctions (◻) and relationships as indications (→), we create a formal representation that illuminates the conceptual architecture of distributed cognition as observed through Hutchins' anthropological lens.
+
+<h2>Foundational Entities and Primary Distinctions</h2>
+
+<h3>Core Theoretical Constructs</h3>
+
+◻ <strong>Cognition in the Wild</strong>: Hutchins' 1995 book examining cognition as situated in cultural-historical context
+
+◻ <strong>distributed cognition</strong>: Framework positing that cognitive processes extend beyond individual minds
+
+◻ <strong>cultural activity systems</strong>: Socially organized settings where collective cognition occurs
+
+◻ <strong>navigation</strong>: Primary case study of cognitively distributed task aboard naval vessels
+
+◻ <strong>computational perspective</strong>: Application of cognitive science's primary metaphor to cultural activities
+
+◻ <strong>cognition as computation</strong>: Framework for understanding information processing across systems
+
+◻ <strong>cognitive system</strong>: Unit of analysis that may be larger than an individual
+
+◻ <strong>material world</strong>: Physical environment containing artifacts that participate in cognitive processes
+
+<h3>Key Conceptual Domains</h3>
+
+◻ <strong>navigation team</strong>: Group of up to ten people who collectively determine ship's position
+
+◻ <strong>ship navigation</strong>: Process requiring coordination of distributed cognitive elements
+
+◻ <strong>Navy life</strong>: Organizational context for the cognitive processes being studied
+
+◻ <strong>Micronesian navigation</strong>: Traditional navigation method compared with Western techniques
+
+◻ <strong>alidade</strong>: Device used in navigation for sighting landmarks and reading compass bearings
+
+◻ <strong>hoey</strong>: Protractor-like tool used in navigation calculations
+
+<h2>Morphisms and Relational Structures</h2>
+
+<h3>Foundational Relationships</h3>
+
+◻ <strong>cultural activity systems</strong> → <em>have</em> → ◻ <strong>cognitive properties</strong>
+   <em>"Cultural activity systems have cognitive properties of their own that are different from the cognitive properties of the individuals who participate in them"[1]</em>
+
+◻ <strong>cognition</strong> → <em>extends beyond</em> → ◻ <strong>individual minds</strong>
+   <em>"Hutchins argues instead that cultural activity systems have cognitive properties of their own"[1]</em>
+
+◻ <strong>culture</strong> → <em>is</em> → ◻ <strong>human cognitive process</strong>
+   <em>"'Culture... is a human cognitive process that takes place both inside and outside the minds of people'"[2]</em>
+
+◻ <strong>humans</strong> → <em>create</em> → ◻ <strong>cognitive environments</strong>
+   <em>"'Humans create their cognitive powers by creating the environments in which they exercise those powers'"[2]</em>
+
+<h3>Methodological Relationships</h3>
+
+◻ <strong>anthropological methods</strong> → <em>combine with</em> → ◻ <strong>cognitive theory</strong>
+   <em>"Hutchins combines his background as an anthropologist and an open ocean racing sailor and navigator"[1]</em>
+
+◻ <strong>computational paradigm</strong> → <em>is applied to</em> → ◻ <strong>cultural activities</strong>
+   <em>"He applies the principal metaphor of cognitive science—cognition as computation (adopting David Marr's paradigm)—to the navigation task"[1]</em>
+
+◻ <strong>theoretical insights</strong> → <em>are grounded in</em> → ◻ <strong>extended analysis of ship navigation</strong>
+   <em>"His theoretical insights are grounded in an extended analysis of ship navigation"[1]</em>
+
+<h2>Complex Conceptual Structures</h2>
+
+<h3>Distributed Cognition Framework</h3>
+
+◻ <strong>cognition</strong> → <em>occurs through</em> → ◻ <strong>propagation of representations</strong>
+   <em>"Cognition has nothing to do with minds nor with individuals but with the propagation of representations through various media"[2]</em>
+
+◻ <strong>representations</strong> → <em>propagate through</em> → ◻ <strong>various media</strong>
+   <em>"Propagation of representations through various media, which are coordinated by a very lightly equipped human subject"[2]</em>
+
+◻ <strong>cognitive tasks</strong> → <em>are distributed across</em> → ◻ <strong>team members</strong>
+   <em>"Each person having a limited cognitive task that is coordinated with the work of others into a more complex intelligent activity"[2]</em>
+
+◻ <strong>intelligent activity</strong> → <em>emerges from</em> → ◻ <strong>coordinated limited tasks</strong>
+   <em>"This is a paradigmatic case of distributed cognition, with each person having a limited cognitive task that is coordinated with the work of others"[2]</em>
+
+<h3>Navigation System Framework</h3>
+
+◻ <strong>navigation team</strong> → <em>includes</em> → ◻ <strong>pelorus operators</strong>
+   <em>"The two pelorus operators, posted on the two sides of the ship, sight three previously identified landmarks through a device called the alidade"[2]</em>
+
+◻ <strong>navigation cycle</strong> → <em>is repeated</em> → ◻ <strong>every three minutes</strong>
+   <em>"Navigation during Sea and Anchor Detail is accomplished by a team... in a cycle usually repeated every three minutes"[2]</em>
+
+◻ <strong>alidade operator</strong> → <em>performs</em> → ◻ <strong>limited cognitive task</strong>
+   <em>"The problem for the alidade operator posted alone on a wing of the bridge is to locate the landmark, sight it through the alidade and read the numbered scale"[2]</em>
+
+◻ <strong>navigator</strong> → <em>has</em> → ◻ <strong>overview of entire process</strong>
+   <em>"Even the navigator who from long experience and training has an overview for the entire process..."[2]</em>
+
+<h3>Internal-External Cognition Relationship</h3>
+
+◻ <strong>cognition</strong> → <em>is not</em> → ◻ <strong>separate from perception and material circumstance</strong>
+   <em>"Cognition, as it occurs in life, is not separate from perception, material circumstance, and activity"[2]</em>
+
+◻ <strong>cognition</strong> → <em>is more in</em> → ◻ <strong>physical and symbolic tools</strong>
+   <em>"He shows it is more in the use of physical and symbolic tools, social interactions, and cultural practices...than in formal abstract operations in the head of any individual"[2]</em>
+
+◻ <strong>internalization</strong> → <em>is not</em> → ◻ <strong>something moving across boundaries</strong>
+   <em>"'Internalization has long connoted some thing moving across some boundary. Both elements of this definition are misleading'"[2]</em>
+
+◻ <strong>cognitive processes</strong> → <em>are</em> → ◻ <strong>partially internalized</strong>
+   <em>"Cognitive processes are not internal, but rather partially and provisionally internalized"[2]</em>
+
+<h2>Theoretical Implications and Extensions</h2>
+
+<h3>Cognitive Science Critique</h3>
+
+◻ <strong>cognitive science</strong> → <em>has modeled</em> → ◻ <strong>symbolic tools not cognition</strong>
+   <em>"Cognitive science has not modeled cognition, but only the formal symbolic tools and systems that human cognition had created"[2]</em>
+
+◻ <strong>computer-based models</strong> → <em>are</em> → ◻ <strong>cultural symbolic tools</strong>
+   <em>"These computer-based models may then themselves be seen as cultural symbolic tools"[2]</em>
+
+◻ <strong>individual/collective dichotomy</strong> → <em>is dissolved through</em> → ◻ <strong>distributed cognition</strong>
+   <em>"With this positive notion of mediating artifacts, and this idea of propagation as redistribution of skills...can extend his definition to internal phenomena"[2]</em>
+
+<h3>Cultural-Technological Relationship</h3>
+
+◻ <strong>technology</strong> → <em>is not</em> → ◻ <strong>consequence of cognitive capabilities</strong>
+   <em>"'If one believes that technology is the consequence of cognitive capabilities...then observed difference in level of technology between a 'technologically advanced' and a 'technologically primitive' culture will inevitably be seen as evidence of advanced and primitive mind'"[2]</em>
+
+◻ <strong>technology</strong> → <em>embodies</em> → ◻ <strong>cultural values</strong>
+   <em>"With this positive notion of mediating artifacts...technology embodies values"[2]</em>
+
+◻ <strong>human agency</strong> → <em>functions as</em> → ◻ <strong>coordinator of structured media</strong>
+   <em>"'The thinker in this world is a very special medium that can provide coordination among many structured media - some internal, some external, some embodied in artifacts, some in ideas, and some in social relationships'"[2]</em>
+
+<h2>Conclusion</h2>
+
+This Spencer-Brown inspired ontological model captures the rich theoretical framework of Hutchins' "Cognition in the Wild." Through formal distinctions (◻) and indications (→), we visualize how Hutchins conceptualizes cognition as distributed across individuals, artifacts, and cultural systems. The model highlights Hutchins' challenge to individualist conceptions of cognition, showing instead how navigation aboard a naval vessel exemplifies how cognitive processes extend beyond individual minds into socially organized systems where representations propagate through various media. This structured index reveals how Hutchins' work fundamentally reconfigured our understanding of the relationship between culture and cognition, challenging us to see cognition as inherently situated in material and social contexts.
+
+Citations:
+[1] https://direct.mit.edu/books/monograph/4892/Cognition-in-the-Wild
+[2] https://bazerman.education.ucsb.edu/sites/default/files/docs/Bazerman1995ReviewWildHutchins.pdf
+
+---
+Answer from Perplexity: https://www.perplexity.ai/search/sts-ms-cat-core-26eOjT2rQjiRqIxKt6q3GA?utm_source=copy_output
+        </div>
+        
+        <footer>
+            <p>Part of the Reality Media Explorer project</p>
+            <p>Created with STS_MS_CAT_CORE HTML Converter</p>
+        </footer>
+    </div>
+</body>
+</html>

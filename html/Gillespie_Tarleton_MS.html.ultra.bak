@@ -1,0 +1,148 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Gillespie Tarleton MS</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="script.js" defer></script>
+</head>
+<body>
+    <div class="theme-toggle" id="themeToggle" title="Toggle Dark/Light Mode">
+        ☀️
+    </div>
+    
+    <div class="container">
+        <header>
+            <a href="index.html" class="back-link">← Back to Author Catalog</a>
+            <h1>Gillespie Tarleton MS</h1>
+            <span class="tag ms">MS</span>
+        </header>
+        
+        <div class="content" >
+            <h1>A Spencer-Brown Inspired Ontological Model of Gillespie's "Media Technologies"</h1>
+
+This report presents a structured ontological index of Gillespie, Boczkowski, and Foot's influential 2014 edited volume "Media Technologies: Essays on Communication, Materiality, and Society" using Spencer-Brown's calculus of distinctions. By marking entities as distinctions (◻) and relationships as indications (→), we create a formal representation that illuminates the conceptual architecture of this interdisciplinary examination of media technologies.
+
+<h2>Foundational Entities and Primary Distinctions</h2>
+
+<h3>Core Theoretical Constructs</h3>
+
+◻ <strong>Media Technologies</strong>: 2014 edited volume bringing together STS and communication/media studies perspectives
+
+◻ <strong>sociomaterial phenomena</strong>: Understanding that media technologies are both social and material constructs
+
+◻ <strong>materiality</strong>: Physical dimensions of media technologies requiring analysis
+
+◻ <strong>mediation</strong>: Process of symbolic and material transmission through technologies
+
+◻ <strong>technological determinism</strong>: View that technologies determine social structures (rejected in the volume)
+
+◻ <strong>social constructivism</strong>: Approach recognizing social shaping of technology (expanded upon in the volume)
+
+<h3>Disciplinary Domains</h3>
+
+◻ <strong>communication and media studies</strong>: Field traditionally focused on symbolic dimensions of media
+
+◻ <strong>science and technology studies (STS)</strong>: Field examining sociotechnical systems and material practices
+
+◻ <strong>interdisciplinary conversation</strong>: Dialogue between previously separate academic domains
+
+<h2>Morphisms and Relational Structures</h2>
+
+<h3>Foundational Relationships</h3>
+
+◻ <strong>media technologies</strong> → <em>are conceptualized as</em> → ◻ <strong>complex sociomaterial phenomena</strong>
+   <em>"Scholars from communication and media studies join those from science and technology studies to examine media technologies as complex, sociomaterial phenomena"<a href="#citation-1" class="citation-number"><a href="#citation-1" class="citation-number">[1]</a></a></em>
+
+◻ <strong>scholarship</strong> → <em>has shed assumption that</em> → ◻ <strong>technologies are separate from social life</strong>
+   <em>"In recent years, scholarship around media technologies has finally shed the assumption that these technologies are separate from and powerfully determining of social life"<a href="#citation-1" class="citation-number"><a href="#citation-1" class="citation-number">[1]</a></a></em>
+
+◻ <strong>media technologies</strong> → <em>are</em> → ◻ <strong>produced by and embedded in social practices</strong>
+   <em>"Looking at them instead as produced by and embedded in distinct social, cultural, and political practices"<a href="#citation-1" class="citation-number"><a href="#citation-1" class="citation-number">[1]</a></a></em>
+
+◻ <strong>the book</strong> → <em>is divided into</em> → ◻ <strong>two main parts</strong>
+   <em>"Divided into two parts – 'The materiality of mediated knowledge expression' and 'The people, practices, and promises of information networks'"<a href="#citation-3" class="citation-number"><a href="#citation-3" class="citation-number">[3]</a></a></em>
+
+<h3>Disciplinary Integration Framework</h3>
+
+◻ <strong>communication scholars</strong> → <em>have increasingly taken</em> → ◻ <strong>STS perspectives</strong>
+   <em>"Communication and media scholars have increasingly taken theoretical perspectives originating in science and technology studies (STS)"<a href="#citation-1" class="citation-number"><a href="#citation-1" class="citation-number">[1]</a></a></em>
+
+◻ <strong>STS scholars</strong> → <em>have linked research to</em> → ◻ <strong>media studies inquiries</strong>
+   <em>"Some STS scholars interested in information technologies have linked their research to media studies inquiries into the symbolic dimensions of these tools"<a href="#citation-1" class="citation-number"><a href="#citation-1" class="citation-number">[1]</a></a></em>
+
+◻ <strong>the volume</strong> → <em>brings together</em> → ◻ <strong>scholars from both fields</strong>
+   <em>"In this volume, scholars from both fields come together to advance this view of media technologies"<a href="#citation-1" class="citation-number"><a href="#citation-1" class="citation-number">[1]</a></a></em>
+
+<h2>Complex Conceptual Structures</h2>
+
+<h3>Materiality and Mediation Framework</h3>
+
+◻ <strong>first section</strong> → <em>addresses</em> → ◻ <strong>relationship between materiality and mediation</strong>
+   <em>"The contributors first address the relationship between materiality and mediation, considering such topics as the lived realities of network infrastructure"<a href="#citation-1" class="citation-number"><a href="#citation-1" class="citation-number">[1]</a></a></em>
+
+◻ <strong>Lievrouw</strong> → <em>examines</em> → ◻ <strong>causal connections between symbolic and material</strong>
+   <em>"In chapter 2, Leah A. Lievrouw examines the causal connections between the symbolic and the material in the making and circulation of media technologies"<a href="#citation-2" class="citation-number"><a href="#citation-2" class="citation-number">[2]</a></a></em>
+
+◻ <strong>mediation</strong> → <em>is defined as</em> → ◻ <strong>"ongoing, articulated, and mutually determining relationship"</strong>
+   <em>"Mediation, defined as 'an ongoing, articulated, and mutually determining relationship among three components [artifacts, practices, and social arrangements]'"<a href="#citation-2" class="citation-number"><a href="#citation-2" class="citation-number">[2]</a></a></em>
+
+◻ <strong>technology</strong> → <em>is conceptualized as</em> → ◻ <strong>"communication made durable"</strong>
+   <em>"The real power of the intellectual connections between STS and media studies will ultimately be theory that moves beyond 'determinisms' to capture the multifaceted complexity of technology as communication made durable"<a href="#citation-2" class="citation-number"><a href="#citation-2" class="citation-number">[2]</a></a></em>
+
+<h3>Motion and Maintenance Framework</h3>
+
+◻ <strong>second section</strong> → <em>highlights</em> → ◻ <strong>media technologies as always in motion</strong>
+   <em>"The contributors then highlight media technologies as always in motion, held together through the minute, unobserved work of many"<a href="#citation-1" class="citation-number"><a href="#citation-1" class="citation-number">[1]</a></a></em>
+
+◻ <strong>media technologies</strong> → <em>are held together through</em> → ◻ <strong>unobserved work of many</strong>
+   <em>"Held together through the minute, unobserved work of many, including efforts to keep these technologies alive"<a href="#citation-1" class="citation-number"><a href="#citation-1" class="citation-number">[1]</a></a></em>
+
+◻ <strong>stability</strong> → <em>is itself</em> → ◻ <strong>social accomplishment</strong>
+   <em>"Their seeming stability is itself a social accomplishment and an important myth to preserve in the face of a reality in which they require constant handling"<a href="#citation-2" class="citation-number"><a href="#citation-2" class="citation-number">[2]</a></a></em>
+
+<h3>Scholarship Limitations Framework</h3>
+
+◻ <strong>Boczkowski and Siles</strong> → <em>note that</em> → ◻ <strong>scholarship exhibits silo mentality</strong>
+   <em>"Chapter 3 by Pablo J. Boczkowski and Ignacio Siles complements Lievrouw's argument by noting that most of the existent scholarship on media technologies has exhibited a silo mentality"<a href="#citation-2" class="citation-number"><a href="#citation-2" class="citation-number">[2]</a></a></em>
+
+◻ <strong>silos</strong> → <em>focus on either</em> → ◻ <strong>material or content dimension</strong>
+   <em>"Some studies look at the making of media content, but ignore issues of materiality and reception"<a href="#citation-2" class="citation-number"><a href="#citation-2" class="citation-number">[2]</a></a></em>
+
+◻ <strong>silos</strong> → <em>focus on either</em> → ◻ <strong>production or consumption dimension</strong>
+   <em>"Arguing that this silo mentality has presented significant limitations in accounting for the interpenetration of materiality and content, and production and consumption"<a href="#citation-2" class="citation-number"><a href="#citation-2" class="citation-number">[2]</a></a></em>
+
+◻ <strong>cosmopolitan perspective</strong> → <em>examines</em> → ◻ <strong>interpenetration of all dimensions</strong>
+   <em>"Boczkowski and Siles call for a more cosmopolitan perspective"<a href="#citation-2" class="citation-number"><a href="#citation-2" class="citation-number">[2]</a></a></em>
+
+<h2>Conclusion</h2>
+
+This Spencer-Brown inspired ontological model captures the rich theoretical framework of Gillespie, Boczkowski, and Foot's "Media Technologies." Through formal distinctions (◻) and indications (→), we visualize how the authors conceptualize media technologies as complex sociomaterial phenomena that require interdisciplinary analysis. The model highlights the book's core contribution: bringing together communication and media studies with science and technology studies to overcome the limitations of each field in isolation. By addressing both the materiality of mediation and the constant maintenance required to sustain media technologies, the volume offers new conceptual paths for understanding these increasingly central aspects of contemporary life.
+
+Citations:
+<a href="#citation-1" class="citation-number"><a href="#citation-1" class="citation-number">[1]</a></a> https://books.google.com/books/about/Media_Technologies.html?id=3w23AgAAQBAJ
+<a href="#citation-2" class="citation-number"><a href="#citation-2" class="citation-number">[2]</a></a> https://culturedigitally.org/wp-content/uploads/2014/02/Gillespie+Boczkowski+Foot-Introduction-to-MEDIA-TECHNOLOGIES.pdf
+<a href="#citation-3" class="citation-number"><a href="#citation-3" class="citation-number">[3]</a></a> http://dl.icdst.org/pdfs/files3/f4f510a5ce029d99fec220a52b6b8693.pdf
+<a href="#citation-4" class="citation-number"><a href="#citation-4" class="citation-number">[4]</a></a> https://direct.mit.edu/books/edited-volume/3021/Media-TechnologiesEssays-on-Communication
+<a href="#citation-5" class="citation-number"><a href="#citation-5" class="citation-number">[5]</a></a> https://blogs.lse.ac.uk/lsereviewofbooks/2014/11/22/book-review-media-technologies-essays-on-communication-materiality-and-society/
+<a href="#citation-6" class="citation-number"><a href="#citation-6" class="citation-number">[6]</a></a> https://shopprairiemall.com/buy/product/media-technologies-by-tarleton-gillespie-paperback-indigo-chapters-coles-68ee8f?model=0
+<a href="#citation-7" class="citation-number"><a href="#citation-7" class="citation-number">[7]</a></a> https://www.target.com/p/media-technologies-inside-technology-by-tarleton-gillespie-pablo-j-boczkowski-kirsten-a-foot-paperback/-/A-89389048
+<a href="#citation-8" class="citation-number"><a href="#citation-8" class="citation-number">[8]</a></a> http://eprints.lse.ac.uk/73916/
+<a href="#citation-9" class="citation-number"><a href="#citation-9" class="citation-number">[9]</a></a> https://www.scholars.northwestern.edu/en/publications/media-technologies-essays-on-communication-materiality-and-societ
+<a href="#citation-10" class="citation-number"><a href="#citation-10" class="citation-number">[10]</a></a> https://www.barnesandnoble.com/w/media-technologies-tarleton-gillespie/1119703298
+<a href="#citation-11" class="citation-number"><a href="#citation-11" class="citation-number">[11]</a></a> https://mitpress.mit.edu/9780262525374/media-technologies/
+<a href="#citation-12" class="citation-number"><a href="#citation-12" class="citation-number">[12]</a></a> https://direct.mit.edu/books/edited-volume/chapter-pdf/2273498/f010002_9780262319461.pdf
+<a href="#citation-13" class="citation-number"><a href="#citation-13" class="citation-number">[13]</a></a> https://www.penguinrandomhouse.com/books/656874/media-technologies-by-edited-by-tarleton-gillespie-pablo-j-boczkowski-and-kirsten-a-foot/
+<a href="#citation-14" class="citation-number"><a href="#citation-14" class="citation-number">[14]</a></a> https://academic.oup.com/mit-press-scholarship-online/book/14976
+
+---
+        </div>
+        
+        <footer>
+            <p>Part of the Reality Media Explorer project</p>
+            <p>Created with STS_MS_CAT_CORE HTML Converter</p>
+        </footer>
+    </div>
+</body>
+</html>

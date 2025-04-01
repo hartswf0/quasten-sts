@@ -1,0 +1,181 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Haraway STS</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="script.js" defer></script>
+</head>
+<body>
+    <div class="theme-toggle" id="themeToggle" title="Toggle Dark/Light Mode">
+        ☀️
+    </div>
+    
+    <div class="container">
+        <header>
+            <a href="index.html" class="back-link">← Back to Author Catalog</a>
+            <h1>Haraway STS</h1>
+            <span class="tag sts">STS</span>
+        </header>
+        
+        <div class="content" >
+            <h1>A Spencer-Brown Inspired Ontological Model of Haraway's "A Cyborg Manifesto"</h1>
+
+This report presents a structured ontological index of Donna Haraway's influential 1985/1990 work "A Cyborg Manifesto: Science, Technology, and Socialist-Feminism in the Late Twentieth Century" using Spencer-Brown's calculus of distinctions. By marking entities as distinctions (◻) and relationships as indications (→), we create a formal representation that illuminates the conceptual architecture of Haraway's revolutionary posthumanist vision.
+
+<h2>Foundational Entities and Primary Distinctions</h2>
+
+<h3>Core Theoretical Constructs</h3>
+
+◻ <strong>A Cyborg Manifesto</strong>: Haraway's essay proposing the cyborg as metaphor and lived reality
+
+◻ <strong>cyborg</strong>: "A cybernetic organism, a hybrid of machine and organism, a creature of social reality as well as a creature of fiction"<a href="#citation-1" class="citation-number"><a href="#citation-1" class="citation-number">[1]</a></a><a href="#citation-3" class="citation-number"><a href="#citation-3" class="citation-number">[3]</a></a>
+
+◻ <strong>socialist-feminism</strong>: Political framework informing Haraway's analysis
+
+◻ <strong>ironic dream</strong>: The "ironic political myth" at the center of the manifesto
+
+◻ <strong>post-gender world</strong>: Utopian vision challenging traditional gender categories
+
+◻ <strong>informatics of domination</strong>: New networks of power and control replacing traditional hierarchies
+
+◻ <strong>technoscience</strong>: The fusion of scientific and technological development
+
+<h3>Boundary Breakdowns</h3>
+
+◻ <strong>human-animal boundary</strong>: First crucial boundary breakdown of the 20th century
+
+◻ <strong>organism-machine boundary</strong>: Second crucial boundary breakdown
+
+◻ <strong>physical-nonphysical boundary</strong>: Third crucial boundary referenced in the manifesto
+
+◻ <strong>nature-culture divide</strong>: Traditional Western dualism challenged by cyborg imagery
+
+◻ <strong>Western origin narrative</strong>: Mythology of original unity and subsequent separation
+
+<h2>Morphisms and Relational Structures</h2>
+
+<h3>Foundational Relationships</h3>
+
+◻ <strong>cyborg</strong> → <em>challenges</em> → ◻ <strong>rigid boundaries</strong>
+   <em>"The cyborg does not dream of community on the model of the organic family"</em><a href="#citation-2" class="citation-number"><a href="#citation-2" class="citation-number">[2]</a></a><a href="#citation-3" class="citation-number"><a href="#citation-3" class="citation-number">[3]</a></a>
+
+◻ <strong>cyborg</strong> → <em>represents</em> → ◻ <strong>actual lived experience</strong>
+   <em>"We are all chimeras, theorized and fabricated hybrids of machine and organism"</em><a href="#citation-3" class="citation-number"><a href="#citation-3" class="citation-number">[3]</a></a>
+
+◻ <strong>cyborg</strong> → <em>is born of</em> → ◻ <strong>militarism and patriarchal capitalism</strong>
+   <em>"The main trouble with cyborgs, of course, is that they are the illegitimate offspring of militarism and patriarchal capitalism"</em><a href="#citation-3" class="citation-number"><a href="#citation-3" class="citation-number">[3]</a></a>
+
+◻ <strong>cyborg</strong> → <em>is unfaithful to</em> → ◻ <strong>origins</strong>
+   <em>"Illegitimate offspring are often exceedingly unfaithful to their origins"</em><a href="#citation-3" class="citation-number"><a href="#citation-3" class="citation-number">[3]</a></a>
+
+◻ <strong>cyborg manifesto</strong> → <em>proposes</em> → ◻ <strong>pleasure in boundary confusion</strong>
+   <em>"This essay is an argument for pleasure in the confusion of boundaries"</em><a href="#citation-3" class="citation-number"><a href="#citation-3" class="citation-number">[3]</a></a>
+
+<h3>Conceptual Relationships</h3>
+
+◻ <strong>dualisms</strong> → <em>structure</em> → ◻ <strong>Western discourse</strong>
+   <em>"Dualisms have all been systematic to the logics and practices of domination"</em><a href="#citation-2" class="citation-number"><a href="#citation-2" class="citation-number">[2]</a></a>
+
+◻ <strong>cyborg politics</strong> → <em>rejects</em> → ◻ <strong>essentialism</strong>
+   <em>"There is nothing about being female that naturally binds women together"</em><a href="#citation-1" class="citation-number"><a href="#citation-1" class="citation-number">[1]</a></a>
+
+◻ <strong>cyborg image</strong> → <em>suggests escape from</em> → ◻ <strong>maze of dualisms</strong>
+   <em>"Cyborg imagery can suggest a way out of the maze of dualisms"</em><a href="#citation-6" class="citation-number"><a href="#citation-6" class="citation-number">[6]</a></a>
+
+◻ <strong>identity politics</strong> → <em>is replaced by</em> → ◻ <strong>affinity politics</strong>
+   <em>"Oppositional consciousness is about contradictory locations and heterogeneous identities"</em><a href="#citation-1" class="citation-number"><a href="#citation-1" class="citation-number">[1]</a></a>
+
+◻ <strong>cyborg writing</strong> → <em>subverts</em> → ◻ <strong>command and control</strong>
+   <em>"Feminist cyborg stories have the task of recoding communication and intelligence"</em><a href="#citation-2" class="citation-number"><a href="#citation-2" class="citation-number">[2]</a></a>
+
+<h2>Complex Conceptual Structures</h2>
+
+<h3>Embodiment Framework</h3>
+
+◻ <strong>human body</strong> → <em>becomes</em> → ◻ <strong>coded text</strong>
+   <em>"Communications technologies and biotechnologies are crucial tools recrafting our bodies"</em><a href="#citation-2" class="citation-number"><a href="#citation-2" class="citation-number">[2]</a></a>
+
+◻ <strong>cyborg replication</strong> → <em>is uncoupled from</em> → ◻ <strong>organic reproduction</strong>
+   <em>"Cyborg replication is uncoupled from organic reproduction"</em><a href="#citation-3" class="citation-number"><a href="#citation-3" class="citation-number">[3]</a></a>
+
+◻ <strong>miniaturization</strong> → <em>changes</em> → ◻ <strong>experience of mechanism</strong>
+   <em>"Miniaturization has turned out to be about power"</em><a href="#citation-3" class="citation-number"><a href="#citation-3" class="citation-number">[3]</a></a>
+
+◻ <strong>cyborg sex</strong> → <em>transcends</em> → ◻ <strong>heterosexism</strong>
+   <em>"Cyborg 'sex' restores some of the lovely replicative baroque of ferns and invertebrates"</em><a href="#citation-3" class="citation-number"><a href="#citation-3" class="citation-number">[3]</a></a>
+
+<h3>Political-Theoretical Framework</h3>
+
+◻ <strong>Western self</strong> → <em>depends on</em> → ◻ <strong>myth of original unity</strong>
+   <em>"An origin story in the 'Western' humanist sense depends on the myth of original unity"</em><a href="#citation-3" class="citation-number"><a href="#citation-3" class="citation-number">[3]</a></a>
+
+◻ <strong>cyborg</strong> → <em>skips</em> → ◻ <strong>step of original unity</strong>
+   <em>"The cyborg skips the step of original unity, of identification with nature"</em><a href="#citation-3" class="citation-number"><a href="#citation-3" class="citation-number">[3]</a></a>
+
+◻ <strong>high-tech culture</strong> → <em>challenges</em> → ◻ <strong>antagonistic dualisms</strong>
+   <em>"High-tech culture provides a challenge to these dualisms"</em><a href="#citation-2" class="citation-number"><a href="#citation-2" class="citation-number">[2]</a></a>
+
+◻ <strong>affinity</strong> → <em>replaces</em> → ◻ <strong>identity</strong>
+   <em>"Feminists should consider creating coalitions based on 'affinity' instead of identity"</em><a href="#citation-1" class="citation-number"><a href="#citation-1" class="citation-number">[1]</a></a>
+
+<h3>Liberation Framework</h3>
+
+◻ <strong>liberation</strong> → <em>rests on</em> → ◻ <strong>construction of consciousness</strong>
+   <em>"Liberation rests on the construction of the consciousness, the imaginative apprehension, of oppression"</em><a href="#citation-3" class="citation-number"><a href="#citation-3" class="citation-number">[3]</a></a>
+
+◻ <strong>lived experience</strong> → <em>changes</em> → ◻ <strong>what counts as women's experience</strong>
+   <em>"The cyborg is a matter of fiction and lived experience that changes what counts as women's experience"</em><a href="#citation-3" class="citation-number"><a href="#citation-3" class="citation-number">[3]</a></a>
+
+◻ <strong>cyborg world</strong> → <em>might be about</em> → ◻ <strong>lived social and bodily realities</strong>
+   <em>"A cyborg world might be about lived social and bodily realities in which people are not afraid of their joint kinship with animals and machines"</em><a href="#citation-1" class="citation-number"><a href="#citation-1" class="citation-number">[1]</a></a>
+
+◻ <strong>women of color</strong> → <em>exemplify</em> → ◻ <strong>cyborg identity</strong>
+   <em>"Using a term coined by theorist Chela Sandoval, Haraway writes that 'oppositional consciousness' is comparable with a cyborg politics"</em><a href="#citation-1" class="citation-number"><a href="#citation-1" class="citation-number">[1]</a></a>
+
+<h2>Theoretical Implications</h2>
+
+<h3>Posthumanist Framework</h3>
+
+◻ <strong>modern production</strong> → <em>resembles</em> → ◻ <strong>dream of cyborg colonization</strong>
+   <em>"Modern production seems like a dream of cyborg colonization work"</em><a href="#citation-3" class="citation-number"><a href="#citation-3" class="citation-number">[3]</a></a>
+
+◻ <strong>modern war</strong> → <em>is</em> → ◻ <strong>cyborg orgy</strong>
+   <em>"Modern war is a cyborg orgy"</em><a href="#citation-3" class="citation-number"><a href="#citation-3" class="citation-number">[3]</a></a>
+
+◻ <strong>cybernetic communications</strong> → <em>transform</em> → ◻ <strong>Western epistemology</strong>
+   <em>"The paradigmatic shifts from modern to postmodern epistemology"</em><a href="#citation-2" class="citation-number"><a href="#citation-2" class="citation-number">[2]</a></a>
+
+◻ <strong>cyborg politics</strong> → <em>is struggle for</em> → ◻ <strong>language</strong>
+   <em>"Cyborg politics is the struggle for language and against perfect communication"</em><a href="#citation-2" class="citation-number"><a href="#citation-2" class="citation-number">[2]</a></a>
+
+<h2>Conclusion</h2>
+
+This Spencer-Brown inspired ontological model captures the rich theoretical framework of Haraway's "A Cyborg Manifesto." Through formal distinctions (◻) and indications (→), we visualize how Haraway conceptualizes the cyborg as both metaphor and lived reality that challenges traditional boundaries and dualisms. The model highlights the manifesto's central argument that cyborg imagery offers a way out of the restrictive dualisms of Western thought and toward a more fluid understanding of identity based on affinity rather than essentialist categories. As Haraway writes, the cyborg represents both "imagination and material reality" and offers the potential for a post-gender world that might transcend the limitations of traditional identity politics.
+
+Citations:
+<a href="#citation-1" class="citation-number"><a href="#citation-1" class="citation-number">[1]</a></a> https://en.wikipedia.org/wiki/Socialist_feminism
+<a href="#citation-2" class="citation-number"><a href="#citation-2" class="citation-number">[2]</a></a> https://en.wikipedia.org/wiki/A_Cyborg_Manifesto
+<a href="#citation-3" class="citation-number"><a href="#citation-3" class="citation-number">[3]</a></a> https://warwick.ac.uk/fac/arts/english/currentstudents/undergraduate/modules/fictionnownarrativemediaandtheoryinthe21stcentury/manifestly_haraway_----_a_cyborg_manifesto_science_technology_and_socialist-feminism_in_the_....pdf
+<a href="#citation-4" class="citation-number"><a href="#citation-4" class="citation-number">[4]</a></a> https://quod.lib.umich.edu/o/ohp/9750134.0001.001/1:4/--democracy-of-objects?rgn=div1%3Bview%3Dfulltext
+<a href="#citation-5" class="citation-number"><a href="#citation-5" class="citation-number">[5]</a></a> https://philosophy.stackexchange.com/questions/48829/is-there-a-name-for-gradual-dissolution-of-the-boundaries-between-two-objects-or
+<a href="#citation-6" class="citation-number"><a href="#citation-6" class="citation-number">[6]</a></a> https://rossdawson.com/futurist/best-futurists-ever/donna-haraway-cyborg-manifesto/
+<a href="#citation-7" class="citation-number"><a href="#citation-7" class="citation-number">[7]</a></a> https://louis.pressbooks.pub/introphilosophy/chapter/reading-1-philosophy-of-science-and-technology/
+<a href="#citation-8" class="citation-number"><a href="#citation-8" class="citation-number">[8]</a></a> https://recoveryreview.blog/2020/02/21/the-comfort-of-donna-haraway/
+<a href="#citation-9" class="citation-number"><a href="#citation-9" class="citation-number">[9]</a></a> https://www.anthropocenes.net/article/id/1045/print/
+<a href="#citation-10" class="citation-number"><a href="#citation-10" class="citation-number">[10]</a></a> http://litsciarts.org/slsa12/SLSA2012OnlineProgram.pdf
+<a href="#citation-11" class="citation-number"><a href="#citation-11" class="citation-number">[11]</a></a> https://oxfordre.com/education/display/10.1093/acrefore/9780190264093.001.0001/acrefore-9780190264093-e-1384?p=emailA%2FOfTboYM60ro&d=%2F10.1093%2Facrefore%2F9780190264093.001.0001%2Facrefore-9780190264093-e-1384
+<a href="#citation-12" class="citation-number"><a href="#citation-12" class="citation-number">[12]</a></a> https://bpb-us-e1.wpmucdn.com/wp.nyu.edu/dist/7/9559/files/2020/06/00-Week-One-Readings-2.0.pdf
+<a href="#citation-13" class="citation-number"><a href="#citation-13" class="citation-number">[13]</a></a> https://www.journals.uchicago.edu/doi/full/10.1086/678176
+
+---
+        </div>
+        
+        <footer>
+            <p>Part of the Reality Media Explorer project</p>
+            <p>Created with STS_MS_CAT_CORE HTML Converter</p>
+        </footer>
+    </div>
+</body>
+</html>

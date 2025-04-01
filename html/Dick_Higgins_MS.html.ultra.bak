@@ -1,0 +1,173 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dick Higgins MS</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="script.js" defer></script>
+</head>
+<body>
+    <div class="theme-toggle" id="themeToggle" title="Toggle Dark/Light Mode">
+        ☀️
+    </div>
+    
+    <div class="container">
+        <header>
+            <a href="index.html" class="back-link">← Back to Author Catalog</a>
+            <h1>Dick Higgins MS</h1>
+            <span class="tag ms">MS</span>
+        </header>
+        
+        <div class="content" >
+            <h1>A Spencer-Brown Inspired Ontological Model of Higgins' "Intermedia"</h1>
+
+This report presents a structured ontological index of Dick Higgins' influential 1965/2001 work "Intermedia" using Spencer-Brown's calculus of distinctions. By marking entities as distinctions (◻) and relationships as indications (→), we create a formal representation that illuminates the conceptual architecture of Higgins' groundbreaking theory of artistic boundaries and their dissolution.
+
+<h2>Foundational Entities and Primary Distinctions</h2>
+
+<h3>Core Theoretical Constructs</h3>
+
+◻ <strong>Intermedia</strong>: Concept describing art forms that draw on several media, growing into new hybrids
+
+◻ <strong>media boundaries</strong>: Traditional separations between artistic disciplines established during the Renaissance
+
+◻ <strong>continuity</strong>: Principle of connection between previously separated domains
+
+◻ <strong>categorization</strong>: Mechanistic approach to dividing artistic practices
+
+◻ <strong>feudal conception</strong>: Historical basis of media division rooted in hierarchical social structure
+
+◻ <strong>happening</strong>: Form of intermedia blending collage, music, and theater
+
+◻ <strong>environment</strong>: Enveloping collage surrounding the spectator
+
+<h3>Key Examples and Forms</h3>
+
+◻ <strong>concrete poetry</strong>: Intermedium between poetry and visual art
+
+◻ <strong>sound poetry</strong>: Intermedium between poetry and music
+
+◻ <strong>visual poetry</strong>: Poetry both read and seen as form
+
+◻ <strong>Fluxus objects</strong>: Works between multiple media categories
+
+◻ <strong>ready-made/found object</strong>: Intermedium between art media and life media
+
+◻ <strong>self-playing musical instruments</strong>: Intermedium between music and sculpture
+
+<h2>Morphisms and Relational Structures</h2>
+
+<h3>Foundational Relationships</h3>
+
+◻ <strong>intermedia</strong> → <em>operates between</em> → ◻ <strong>established media</strong>
+   <em>"Much of the best work being produced today seems to fall between media"</em>
+
+◻ <strong>separation between media</strong> → <em>arose in</em> → ◻ <strong>Renaissance</strong>
+   <em>"The concept of the separation between media arose in the Renaissance"</em>
+
+◻ <strong>intermedia</strong> → <em>challenges</em> → ◻ <strong>compartmentalized thinking</strong>
+   <em>"A concept like this is very disturbing to those whose mentality is compartmentalized"</em>
+
+◻ <strong>happenings</strong> → <em>exist between</em> → ◻ <strong>collage, music, and theater</strong>
+   <em>"The happening developed as an intermedium, an uncharted land that lies between collage, music and the theater"</em>
+
+<h3>Historical Development Framework</h3>
+
+◻ <strong>Samuel Taylor Coleridge</strong> → <em>first used term</em> → ◻ <strong>intermedia in 1812</strong>
+   <em>"The vehicle I chose, the word 'intermedia,' appears in the writings of Samuel Taylor Coleridge in 1812 in exactly its contemporary sense"</em>
+
+◻ <strong>Higgins</strong> → <em>revived term</em> → ◻ <strong>intermedia in 1965</strong>
+   <em>"Dick Higgins coined the term intermedia at the end of 1965"</em>
+
+◻ <strong>industrial revolutions</strong> → <em>maintained</em> → ◻ <strong>mechanistic approach to media</strong>
+   <em>"This essentially mechanistic approach continued to be relevant throughout the first two industrial revolutions"</em>
+
+◻ <strong>automation era</strong> → <em>challenges</em> → ◻ <strong>compartmentalized approach</strong>
+   <em>"The social problems that characterize our time, as opposed to the political ones, no longer allow a compartmentalized approach"</em>
+
+<h2>Complex Conceptual Structures</h2>
+
+<h3>Intermedia Chart Framework</h3>
+
+◻ <strong>intermedia chart</strong> → <em>depicts</em> → ◻ <strong>overlapping artistic domains</strong>
+   <em>"Fluid in form, the chart shows concentric and overlapping circles that appear to expand and contract in relationship to the 'Intermedia' framework that encompasses them"</em>
+
+◻ <strong>concrete poetry</strong> → <em>overlaps with</em> → ◻ <strong>sound poetry</strong>
+   <em>"Concrete and Sound Poetries overlap in the diagram, as they do in practice, with visual-sound poetry"</em>
+
+◻ <strong>performance art</strong> → <em>evolves from</em> → ◻ <strong>happenings</strong>
+   <em>"...were calling, variously, 'art performance' or 'performance art.' Where do we look to find the continuity of these? To their intermediality"</em>
+
+◻ <strong>intermedia chart</strong> → <em>rejects</em> → ◻ <strong>linear chronology</strong>
+   <em>"The chart depicts intersections between fluxus and related work and makes no attempt at linear chronology"</em>
+
+<h3>Media vs. Intermedia Framework</h3>
+
+◻ <strong>mixed media</strong> → <em>differs from</em> → ◻ <strong>intermedia</strong>
+   <em>"In intermedia, on the other hand, the visual element (painting) is fused conceptually with the words"</em>
+
+◻ <strong>opera</strong> → <em>exemplifies</em> → ◻ <strong>mixed media</strong>
+   <em>"The opera, where the music, the libretto, and the mise-en-scene are quite separate: at no time is the operagoer in doubt as to whether he is seeing the mise-en-scene, the stage spectacle, hearing the music, etc."</em>
+
+◻ <strong>intermedia</strong> → <em>fuses</em> → ◻ <strong>conceptual elements</strong>
+   <em>"In intermedia, on the other hand, the visual element (painting) is fused conceptually with the words"</em>
+
+◻ <strong>traditional media</strong> → <em>compartmentalizes</em> → ◻ <strong>experience</strong>
+   <em>"We view paintings. What are they, after all? Expensive, handmade objects... But they do not allow of any sense of dialogue"</em>
+
+<h3>Social Theory Framework</h3>
+
+◻ <strong>classless society</strong> → <em>approaches through</em> → ◻ <strong>dissolution of rigid categories</strong>
+   <em>"We are approaching the dawn of a classless society, to which separation into rigid categories is absolutely irrelevant"</em>
+
+◻ <strong>populism</strong> → <em>grows through</em> → ◻ <strong>breakdown of social barriers</strong>
+   <em>"Castro works in the cane fields. New York's Mayor Lindsay walks to work during the subway strike. The millionaires eat their lunches at Horn and Hardart's. This sort of populism is a growing tendency rather than a shrinking one"</em>
+
+◻ <strong>1950s painters</strong> → <em>recognized</em> → ◻ <strong>irrelevance of abstract expressionism</strong>
+   <em>"In the middle 1950s many painters began to realize the fundamental irrelevance of abstract expressionism"</em>
+
+◻ <strong>intermediality</strong> → <em>is not</em> → ◻ <strong>movement or period</strong>
+   <em>"Intermediality has always been a possibility since the most ancient times"</em>
+
+<h2>Theoretical Evolution and Implications</h2>
+
+<h3>Temporality of Intermedia</h3>
+
+◻ <strong>intermedia</strong> → <em>is not</em> → ◻ <strong>tied to specific time period</strong>
+   <em>"The kind of error of thinking that intermedia are necessarily dated in time by their nature, something rooted in the 1960s"</em>
+
+◻ <strong>intermedia</strong> → <em>functions as</em> → ◻ <strong>analytical tool for understanding</strong>
+   <em>"It allows for an ingress to a work which otherwise seems opaque and impenetrable, but once that ingress has been made it is no longer useful to harp upon the intermediality of a work"</em>
+
+◻ <strong>intermedia</strong> → <em>becomes with familiarity</em> → ◻ <strong>established media</strong>
+   <em>"There is a tendency for intermedia to become media with familiarity"</em>
+
+◻ <strong>visual novel</strong> → <em>transformed from</em> → ◻ <strong>intermedium to recognized form</strong>
+   <em>"The visual novel is a pretty much recognizable form to us now. We have had many of them in the last 20 years"</em>
+
+<h2>Conclusion</h2>
+
+This Spencer-Brown inspired ontological model captures the rich theoretical framework of Higgins' "Intermedia." Through formal distinctions (◻) and indications (→), we visualize how Higgins conceptualized the dissolution of boundaries between artistic media as reflective of broader social changes toward a less hierarchical society. The model highlights Higgins' understanding of intermedia not as a movement or style but as an analytical tool for comprehending artistic works that exist between traditional categories. This structured index reveals the enduring relevance of Higgins' theory for understanding both historical and contemporary art practices that defy easy categorization.
+
+Citations:
+<a href="#citation-1" class="citation-number"><a href="#citation-1" class="citation-number">[1]</a></a> https://www.academia.edu/41278425/Intermedia_Multimedia_and_Media
+<a href="#citation-2" class="citation-number"><a href="#citation-2" class="citation-number">[2]</a></a> https://en.wikipedia.org/wiki/Intermedia
+<a href="#citation-3" class="citation-number"><a href="#citation-3" class="citation-number">[3]</a></a> https://www.professores.uff.br/ricardobasbaum/wp-content/uploads/sites/164/2023/05/Higgins_Intermedia.pdf
+<a href="#citation-4" class="citation-number"><a href="#citation-4" class="citation-number">[4]</a></a> https://www.on-curating.org/issue-51-reader/intermedial-perception-or-fluxing-across-the-sensory.html
+<a href="#citation-5" class="citation-number"><a href="#citation-5" class="citation-number">[5]</a></a> https://www.professores.uff.br/ricardobasbaum/wp-content/uploads/sites/164/2018/05/Higgins_1965.pdf
+<a href="#citation-6" class="citation-number"><a href="#citation-6" class="citation-number">[6]</a></a> https://leonardo.info/review/2018/12/review-of-intermedia-fluxus-and-the-something-else-press-selected-writings-by-dick
+<a href="#citation-7" class="citation-number"><a href="#citation-7" class="citation-number">[7]</a></a> https://www.e-flux.com/announcements/214353/intermedia-fluxus-and-the-something-else-press-selected-writings-by-dick-higgins/
+<a href="#citation-8" class="citation-number"><a href="#citation-8" class="citation-number">[8]</a></a> https://sigliopress.com/titles/dick-higgins/
+<a href="#citation-9" class="citation-number"><a href="#citation-9" class="citation-number">[9]</a></a> https://brooklynrail.org/2018/11/art_books/Intermedia-Fluxus-and-the-Something-Else-Press-Selected-Writings-by-Dick-Higgins-Edited-by-Steve-Clay-and-Ken-Friedman/
+
+---
+        </div>
+        
+        <footer>
+            <p>Part of the Reality Media Explorer project</p>
+            <p>Created with STS_MS_CAT_CORE HTML Converter</p>
+        </footer>
+    </div>
+</body>
+</html>

@@ -1,0 +1,153 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Schechner MS</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="script.js" defer></script>
+</head>
+<body>
+    <div class="theme-toggle" id="themeToggle" title="Toggle Dark/Light Mode">
+        ☀️
+    </div>
+    
+    <div class="container">
+        <header>
+            <a href="index.html" class="back-link">← Back to Author Catalog</a>
+            <h1>Schechner MS</h1>
+            <span class="tag ms">MS</span>
+        </header>
+        
+        <div class="content">
+            <h1>A Spencer-Brown Inspired Ontological Model of Schechner's "What is Performance?"</h1>
+
+This report presents a structured ontological index of Richard Schechner's influential "What is Performance?" (Chapter 2 from Performance Studies: An Introduction) using Spencer-Brown's calculus of distinctions. By marking entities as distinctions (◻) and relationships as indications (→), we create a formal representation that illuminates the conceptual architecture of Schechner's theory of performance.
+
+<h2>Foundational Entities and Primary Distinctions</h2>
+
+<h3>Core Theoretical Constructs</h3>
+
+◻ <strong>Performance</strong>: Both activity and theoretical lens through which behavior can be analyzed
+
+◻ <strong>Restored behavior</strong>: Key process in performing; behavior previously behaved, reused in new contexts
+
+◻ <strong>"Is" performance</strong>: Objects/events that are performances by cultural convention
+
+◻ <strong>"As" performance</strong>: Objects/events that can be analyzed as performances
+
+◻ <strong>Self</strong>: Multiple identities ("many mes") manifested through performances
+
+◻ <strong>Life roles</strong>: Social positions that involve performing expected behaviors
+
+◻ <strong>Performance functions</strong>: Seven key purposes that performances serve in human society
+
+<h3>Domain Distinctions</h3>
+
+◻ <strong>Everyday life performances</strong>: Daily behaviors framed as performances
+
+◻ <strong>Artistic performances</strong>: Theater, dance, music, and other conventional performance arts
+
+◻ <strong>Ritual performances</strong>: Religious or cultural activities with symbolic significance
+
+◻ <strong>Play</strong>: Activities ranging from childhood play to sports and games
+
+◻ <strong>Social performances</strong>: Class, gender, race, and professional roles enacted daily
+
+<h2>Morphisms and Relational Structures</h2>
+
+<h3>Foundational Relationships</h3>
+
+◻ <strong>Restored behavior</strong> → <em>is</em> → ◻ <strong>key process in performing</strong>
+   <em>"This restored behaviour is 'the key process in performing'"</em>
+
+◻ <strong>Childhood</strong> → <em>functions as</em> → ◻ <strong>rehearsal for adulthood</strong>
+   <em>"acting as a childhood being a rehearsal for adulthood"</em>
+
+◻ <strong>Theatrical production</strong> → <em>represents</em> → ◻ <strong>heightened "restored restored behavior"</strong>
+   <em>"a theatrical production is heightened 'restored restored behavior'"</em>
+
+◻ <strong>Daily actions</strong> → <em>become</em> → ◻ <strong>performances through repetition</strong>
+   <em>"we take a daily action and repeat it but each is in a different situation and in different company therefore feigning individuality of action"</em>
+
+<h3>Definitional Framework</h3>
+
+◻ <strong>"To perform"</strong> → <em>means in business</em> → ◻ <strong>"to succeed or excel"</strong>
+   <em>"in business sports sex to perform is to do something up to standards succeed excel"</em>
+
+◻ <strong>"To perform"</strong> → <em>means in arts</em> → ◻ <strong>"to show or play"</strong>
+   <em>"in arts to perform is to put on a show or player dance or concert"</em>
+
+◻ <strong>Performance</strong> → <em>is</em> → ◻ <strong>"action, interaction and relation"</strong>
+   <em>"performance is 'action, interaction and relation' both on stage and in everyday life"</em>
+
+◻ <strong>Individual</strong> → <em>plays</em> → ◻ <strong>multiple life roles</strong>
+   <em>"You can perform in many roles throughout your lifetime as by playing a 'life role'"</em>
+
+<h2>Complex Conceptual Structures</h2>
+
+<h3>Functions of Performance Framework</h3>
+
+◻ <strong>Performance</strong> → <em>functions to</em> → ◻ <strong>entertain</strong>
+   <em>"The main functions of performance are also stated ~ enterainment"</em>
+
+◻ <strong>Performance</strong> → <em>functions to create</em> → ◻ <strong>beauty</strong>
+   <em>"~beauty"</em>
+
+◻ <strong>Performance</strong> → <em>functions to</em> → ◻ <strong>heal</strong>
+   <em>"~to heal"</em>
+
+◻ <strong>Performance</strong> → <em>functions to</em> → ◻ <strong>change or mark identity</strong>
+   <em>"~to change or mark identity"</em>
+
+◻ <strong>Performance</strong> → <em>functions to</em> → ◻ <strong>foster or make community</strong>
+   <em>"~ foster to make community"</em>
+
+◻ <strong>Performance</strong> → <em>functions to</em> → ◻ <strong>teach or persuade</strong>
+   <em>"~ to teach/persuade"</em>
+
+◻ <strong>Performance</strong> → <em>functions to</em> → ◻ <strong>deal with sacred or demonic</strong>
+   <em>"~ to deal with the sacred or demonic"</em>
+
+<h3>Performance Analysis Framework</h3>
+
+◻ <strong>Any action</strong> → <em>can be analyzed</em> → ◻ <strong>"as" performance</strong>
+   <em>"the underlying notion is that any action that is framed presented highlighted or displayed is a performance"</em>
+
+◻ <strong>Social roles</strong> → <em>involve</em> → ◻ <strong>expected performances</strong>
+   <em>"Performance in everyday life is a really big part of... performance"</em>
+
+◻ <strong>Self</strong> → <em>consists of</em> → ◻ <strong>"many mes"</strong>
+   <em>"there are 'many mes'"</em>
+
+◻ <strong>Performance studies</strong> → <em>raises</em> → ◻ <strong>ontological questions</strong>
+   <em>"This is a radical and challenging interpretation to the question 'What is Performance' as it raises the troubling ontological questions of existence such as is there a self? Are we individuals?"</em>
+
+<h2>Conclusion</h2>
+
+This Spencer-Brown inspired ontological model captures the rich theoretical framework of Schechner's "What is Performance?" Through formal distinctions (◻) and indications (→), we visualize how Schechner conceptualizes performance not merely as theatrical activity but as a fundamental mode of human behavior and social interaction. The model highlights his key concept of "restored behavior" as the foundation of all performance, whether in everyday life or on stage. This structured index reveals Schechner's radical proposition that performance permeates all aspects of human existence, challenging conventional notions of selfhood and authenticity.
+
+Citations:
+[1] https://api.pageplace.de/preview/DT0400.9781351978941_A38492113/preview-9781351978941_A38492113.pdf
+[2] https://hwpi.harvard.edu/files/hwp/files/peformance_studies.pdf
+[3] https://www.routledge.com/Performance-Studies-An-Introduction/Schechner/p/book/9781138284562
+[4] https://books.google.com/books/about/Performance_Studies.html?id=n9HTDwAAQBAJ
+[5] https://www.taylorfrancis.com/books/mono/10.4324/9781315269399/performance-studies-sarah-lucie-richard-schechner
+[6] https://books.google.com/books/about/Performance_Studies.html?id=gJo237orXWQC
+[7] https://hemisphericinstitute.org/images/courses/spring-2009/schechner_bta.pdf
+[8] https://www.taylorfrancis.com/books/mono/10.4324/9780203715345/performance-studies-sarah-lucie-richard-schechner-richard-schechner
+[9] https://eclass.upatras.gr/modules/document/file.php/CULTURE224/%5BR._Schechner%5D_Performance_Theory_(Routledgeclassi(BookZZ.org).pdf
+[10] https://www.youtube.com/watch?v=lF35e0Qhzrg
+[11] https://www.studocu.com/en-gb/document/university-of-york/introduction-to-performance/what-is-performance-chapter-notes/8293544
+
+---
+Answer from Perplexity: https://www.perplexity.ai/search/sts-ms-cat-core-26eOjT2rQjiRqIxKt6q3GA?utm_source=copy_output
+        </div>
+        
+        <footer>
+            <p>Part of the Reality Media Explorer project</p>
+            <p>Created with STS_MS_CAT_CORE HTML Converter</p>
+        </footer>
+    </div>
+</body>
+</html>
